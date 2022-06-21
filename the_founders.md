@@ -4,6 +4,7 @@ by Jimmy Soni
 
 *I, Ian Turner own this book and took these notes for my own learning, purchase
 the book here: https://www.amazon.com/Founders-Paypal-Entrepreneurs-Shaped-Silicon/dp/1501197266*
+
 I copied the format of Michael Parker's repo: https://github.com/mgp/book-notes
 
 ### Introduction
