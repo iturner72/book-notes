@@ -23,7 +23,7 @@ go back and fill in the previous chapters later)
 coup was planned to boot Elon from the CEO position by Max, Thiel and others
 * 242 Elon following the successful coup: "It's easy to be bitter and hate them
 forever, But the best course of action is to turn the other cheek and make the
-reltionship good. And I put a lot of effort into making things good."
+relationship good. And I put a lot of effort into making things good."
 * 247 Elon also said that taking a vacation at such a tumultuous time was a bad
 idea, if he was there it may not have happened: "Some combination of reassurance
 and fear would not have resulted in a coup, I think."
@@ -31,7 +31,7 @@ and fear would not have resulted in a coup, I think."
 
 ## Part 3: Doubled Rooks
 
-### Igor
+### 15 Igor
 * 257 Levchin was tasked with fixing the fraud problem. Millions of dollars were
 trying to be taken; Max would eavesdrop on the Russian hacking rooms to get
 important intel. He would call them up on the phone and speak to them in
@@ -41,16 +41,59 @@ Ukrainian.
 Confinity offered as an incentive to use the payments network.
 * 258 David Gausebeck suggested OCS (optical character recognition) could help stop
 the bot problem. He suggested to Levchin "Why don't we put images of characters
-and require a user to tupe them in? And that'll be hard to automate." He sent
+and require a user to type them in? And that'll be hard to automate." He sent
 this suggestion late in the evening and the next day in the office Max was halfway
 through building it.
 * 262 Levchin was not interested in hiring summer interns, he would just extend
 full-time offers to college students. "Encouraged by its ability to best
 top-tier universities for talent, the company placed an advertisement in
 *The Stanford Daily* pushing students to quit school and join up."
-* 263 A young 20 year old short-term employee help to investiate fraud and noticed
+* 263 A young 20 year old short-term employee help to investigate fraud and noticed
 that fraudster's would fail to capitalize the first letter of the first name
 for a fake account; this could be flagged by the fraud analysts.
 * 264 Igor was a smart hacker who could pass the initial screening process, create
 2 accounts and charge one from the other using a stolen credit card.
+* 269 Freeza was a young kid who helped Levchin visualize the fraud data which won
+him a MIT 35 under 35 list spot and an innovation award. They patented this
+system under the name IGOR. Freeza tragically passed away of heart-failure at the age of 21.
 
+### 16 Use The Force
+* 271 Ebay employee mistakenly lumped buttons with sewing collectibles in
+auction categories, communities savaged her on forums.
+* 273 PayPal was terrified to launch the upsell update as it went against it's
+always free ethos. They were right since users raged right after launch.
+* 274 Turns out that the vocal minority who was raging was not too big of a deal
+as 20% of the 30,000 people who had seen upsell page so far upgraded to a
+fee-bearing account. Only 158 or 0.004% of users actually closed their accounts.
+* 278 PayPal introduced a $500 limit (on credit card transactions every 6 months)
+for free accounts to help with the credit card fees and fraud.
+* 281 Huge milestone when payments from bank funded accounts matched those of
+credit card funded ones.
+
+### 17 Crime In Progress
+* 285 Hackers Ivanov and Gorshkov were caught by the FBI and it was revealed that
+they would use stolen credit cards and have bots bid on auctions with PayPal
+accounts with losses of $1.5 million.
+* 289 Word gets out real quick in the fraud community. "Okay, PayPal's arresting
+people, so maybe think twice about it."
+* 291 "At PayPal, any computer security issue was just absolutely and existential
+threat."
+* 291 In the world of digital security, no one could be trusted--not even the
+company's founders and leaders.
+
+### 18 Guerrillas
+* 296 In Fall of 2000 the company had a $3 billion market cap as other tech
+companies tanked.
+* 296 Sacks wrote during this time: "As you mey know, ebay (in collusion with Visa)
+has declared war on us by making Visa free to sellers..."
+* 299 In late 2000, ebay was in a catch-22 w/ PayPal. Fees which went to PayPal
+should be going to BillPoint, but PP was helping users complete and close transactions for ebay.
+* 301 Buy It Now feature took customers away from PayPal by removing friction,
+but it had so many bugs in the release that many returned to using PayPal.
+* 302 Buy It Now eventually worked as the bugs got ironed out and ebay beat
+Wall Street expectations third-quarter earnings
+* 302 Rob Chestnut, an ebay attorney said of PayPal: "I'd say their competitors
+were probably going home at six or seven o'clock at night, PayPal was just
+wheeling in dinner at that poing...They were highly entrepreneurial, very
+aggressive. you've got to admire that."
+*
