@@ -106,4 +106,13 @@ against ebay, this came after the US department of Justice sued Microsoft for
 anticompetitive, monopolistic behavior in 1998.
 
 ### 19 World Domination
-*
+* 320 PayPal wanted to expand abroad but ran into some issues accepting currencies
+other than USD, so they allowed foreign users to accept USD and one shop in
+Thailand migrated 95% of their business from ebay to their own website using PayPal.
+* 325 PayPal started getting involved in the online gambling industry but this
+got tangled up with some money laundering schemes with cocaine dealers, hit men
+and gun traffickers.
+* PayPal would choose its conquests selectively. "World domination," Sacks
+concluded, "will not be achieved by indiscriminately parachuting into hostile lands."
+
+### 20 Blindsided
