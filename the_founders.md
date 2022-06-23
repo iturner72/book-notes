@@ -96,4 +96,14 @@ Wall Street expectations third-quarter earnings
 were probably going home at six or seven o'clock at night, PayPal was just
 wheeling in dinner at that poing...They were highly entrepreneurial, very
 aggressive. you've got to admire that."
+* 306 Sacks pushed for PayPal Shops in 2001 which helped users launch their own
+site outside of ebay to build their own online businesses
+* 308 "There were some sellers that didn't like giving eBay as much power over
+their business as it had... [Using PayPa was an opportunity to be a little
+more independent from ebay. 'eBay wants us to do A. Well, we're gonna do B.'"
+* 311 New employee Keith Rabois was tasked with making a case for anti-trust
+against ebay, this came after the US department of Justice sued Microsoft for
+anticompetitive, monopolistic behavior in 1998.
+
+### 19 World Domination
 *
