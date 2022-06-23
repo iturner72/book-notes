@@ -15,7 +15,7 @@ I might change the .md files to .tex files at some point
 ...
 ### Butoned-Up
 
-(I had the idea to start taking notes on github when I was on page 200, will
+(I had the idea to start taking notes on github when I was on page ~ 200, will
 go back and fill in the previous chapters later)
 
 ### Ambition's Debt
@@ -116,3 +116,7 @@ and gun traffickers.
 concluded, "will not be achieved by indiscriminately parachuting into hostile lands."
 
 ### 20 Blindsided
+* 328 Thiel wanted to company to be profitable by August of 2001 so they could IPO.
+Only 14% of companies achieved profitability prior to their IPOs in 2000. Peter
+would die his hair blue if the company was able to reach this goal.
+*
