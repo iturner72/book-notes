@@ -137,3 +137,17 @@ public," Thiel explained, "maybe paradoxically, that is the time to go public.
 Because, you know, it's a positive counterpoint to the chaos or something."
 
 ### 21 Outlaws
+* 349 Amazon's lawsuit and the one-click patent received widespread criticism,
+including from tech pioneer Tim O'Reilly, who popularized terms like *open
+source* and *Web 2.0*. "Patents such as yours are the first step in vitiating
+the web, in raising the barriers to entry not just for your competitors, but
+for the technological innovators who might otherwise come up with great new
+ideas that you could put to use in your own business."
+* 352 Thiel said to a Stanford audience: "We got the on [SEC examiner] who was
+ideologically opposed to companies. He thought all companies in the US were run
+by crooks and it was his hob as an SEC regulator to prevent companies from ever
+going public."
+* 361 "People doing keg stands," Jeremy Roybal recalled, "who have *clearly*
+never done a keg stand before." Refering to the IPO celebration.
+* 362 The public markets had valued PayPal at just shy of $1 billion.
+
