@@ -119,4 +119,21 @@ concluded, "will not be achieved by indiscriminately parachuting into hostile la
 * 328 Thiel wanted to company to be profitable by August of 2001 so they could IPO.
 Only 14% of companies achieved profitability prior to their IPOs in 2000. Peter
 would die his hair blue if the company was able to reach this goal.
-*
+* 337 For I believe that the terrorists were not only evil and insane, but also
+really stupid. One will not stop world trade by blowing up a big building,
+even if it happens to be called the "World Trade Center."
+* 340 ebay's Auction for America also required users to pay for their auctions
+with Billpoint, squeezing PayPal out of the mix. ebay argues that the policy
+ensured proper accounting and the accurate transferring of charitable dollars.
+But sellers contended that ebay was using a charity effort as a cover to
+increase Billpoint registration.
+* 341 "After 911... The government--I'll just say 'the government'--came to us,
+and they said, 'We do not understand how money is moving around the worls
+electronically.' Because they were still kind of number-two pencil people...
+And they were like, 'Can you help us?'"
+* 342 Thiel's interest in Girard often led him to zig where others zagged--and
+instinct that informed the IPO filing. "If you're in a world where no one goes
+public," Thiel explained, "maybe paradoxically, that is the time to go public.
+Because, you know, it's a positive counterpoint to the chaos or something."
+
+### 21 Outlaws
