@@ -25,4 +25,19 @@ survive.
 * 33 Ask for Forgiveness, Not Permission: Get good at being a troublemaker and
 saying sorry when you really screw up.
 
-
+### 3 Dodging Bullets
+* 41 Then, one day, in my bliss of envisioning how bad my future suffering would
+be, I hit upon a gem of an idea. It was surely a highlight of my "don't happy,
+be worry" phase: Why don't I decide exactly what my nightmare would bee--the
+worst thing that could possibly happen as a result of my trip?
+* 43 In other words, I was risking an unlikely and temporary 3 or 4 for a
+probable and permanent 9 or 10, and I could easily recover my baseline
+workaholic prison with a bit of extra work if I wanted to.
+* 46 Now that you've defined the nightmare, what are the more probable or
+definite positive outcomes, whether internal (confidence, self-esteem, etc.)
+or external?
+* 47 As I have heard said, a person's success in life can usually be measured
+by the number of uncomfortable conversations he or she is willing to have.
+* 47 It is equally important to measure the atrocious cost of inaction. If you
+don't pursue those things that excite you, where will you be in one year, five
+years, and ten years?
