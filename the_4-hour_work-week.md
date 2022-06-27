@@ -16,4 +16,13 @@ rights. Mark was one of the living dead.
 control in your life: *what* you do, *when* you do it, *where* you do it, and
 with *whom* you do it. I call this the "freedom multiplier."
 
+### 2 Rules That Change the Rules
+* 31 Retirement planning is like life insurance. It should be viewed as nothing
+more than a hedge against the absolute worst-case scenario: in this case,
+becoming physically incapable of working and needing a reservoir of capital to
+survive.
+* 33 "Someday" is a disease that will take your dreams to the grave with you.
+* 33 Ask for Forgiveness, Not Permission: Get good at being a troublemaker and
+saying sorry when you really screw up.
+
 
