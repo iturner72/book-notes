@@ -151,3 +151,17 @@ going public."
 never done a keg stand before." Refering to the IPO celebration.
 * 362 The public markets had valued PayPal at just shy of $1 billion.
 
+### 22 And All I Got Was A T-Shirt
+* 366 As ebay Live opened its doors, PayPal logos were everywhere, with attendees
+wearing the shirts in the hopes of winning free cash.
+* 376 In Whitman's defense, it's possible that nothing she said may have won
+hearts and minds in that moment. She was speaking before an audience that, in
+the heat of their competition against ebay's billpoint, had once constructed a
+"Meg Whitman pinata."
+* 380 "Sometimes we've said it feels like the entire world is really against
+us... Well, it is!" Thiel began. "First, they thought the banks would put us
+out of business. And when that didn't happen they said our customers would stop
+using us. And when that didn't happen they called on the rest of the earth to
+join them."
+
+### Conclusion: The Floor
