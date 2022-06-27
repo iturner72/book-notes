@@ -165,3 +165,28 @@ using us. And when that didn't happen they called on the rest of the earth to
 join them."
 
 ### Conclusion: The Floor
+* 384 "But is was very obvious that no one at ebay wanted anyone at PayPal to
+stay...and no one [from PayPal] had ambitions to stick around at the combined
+company."
+* 385 PayPal alumni did not hid their despleasure. One memorable display came
+when ebay distributed plush mongooses tied to a company-wide emphasis on
+setting smart goals. In the PayPal area of the company's offices, former PayPal
+employees massacred their mongooses.
+* 388 In 2002, PayPal had more than 10 million users in dozens of countries;
+by 2010, it surpassed 100 million users in nearly every country in the world.
+As of this writing, PayPal counts more than 250 million users and conducted
+almost $1 trillion in transactions in 2020 alone.
+* 390 Thus Paypal went public for the second time in mid-July 2015, thirteen
+years after the announcement of its acquisition by ebay. As of this writing,
+ebay's market cap on the Nasdaq is more than $40 billion. PayPal is today worth
+more than $300 bilion--more than 300 times its 2002 IPO valuation.
+* 396 "It's always unclear...what lessons to draw," Thiel explained, "because
+you can't really run an experiment in one of these companies twice."
+* 397 Levchin added an unexpected qualification for PayPal employees that he
+felt contrubuted to the company's success and the later achievements of its
+alumni: many of its earliest employees simply hated being employees. "The very
+best employee at any job at any level of responsibility is the person who
+generally believes that this is their last job working for someone. The next
+thing they'll start will be their own," Levchin said. "Having as many people
+like that as possible is what made the difference in the company, and it's what
+made it such a fertile ground for entrepreneurs later on."
