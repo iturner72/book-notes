@@ -41,3 +41,28 @@ by the number of uncomfortable conversations he or she is willing to have.
 * 47 It is equally important to measure the atrocious cost of inaction. If you
 don't pursue those things that excite you, where will you be in one year, five
 years, and ten years?
+
+### 4 System Reset
+* 49 The task was designed to test their comfort zones while forcing them to
+use some of the tactics I teach. It was simplicity itself: Contact three
+seemingly impossible-to-reach people--J.Lo, Bill Clinton, J.D. Salinger, I
+don't care--and get at least one to reply to three questions.
+* 50 If you are insecure, guess what? The rest of the world is, too. Do not
+overestimate the competition and underestimate yourself. You are better than
+you think.
+* 50 Having an unusually large goal is an adrenaline infusion that provides the
+endurance to overcome the inevitable trials and tribulations that go along with
+any goal.
+* 53 Whenever one of us began to set our sights lower, lose faith, or "accept
+reality," the other would chime in via phone or e-mail like an AA sponsor:
+"Dude, are you turning into the bald fat man in the red BMW convertible?"
+* 56 "I deal with rejection by persisting, not by taking my business elsewhere.
+My maxim comes from Samuel Beckett, a personal hero of mine: 'Ever triad. Ever
+failed. No matter. Try again. Fail again. Fail better.'"
+* 64 Learn to Eye Gaze (2 days): For the next two days, practice gazing into
+the eyes of others--whether people you pass on the street or conversational
+partners--until they break contact.
+
+## Step 2: E is for Elimination
+
+### 5 The End of Time Management
