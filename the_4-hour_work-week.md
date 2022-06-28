@@ -84,3 +84,19 @@ and complexity in relation to the time allotted for its completion. It is the
 magic of the imminent deadline.
 * 77 Limit tasks to the important to shorten work time (80/20). Shorten work
 time to limit tasks to the important (Parkinson's Law).
+
+### 6 The Low-Information Diet
+* 87 But what if someone has an emergency? It doesn't happen. My contacts now
+know that I don't respond to emergences, so the emergencies somehow don't exist
+or don't come to me. Problems, as a rule, solve themselves or disappear if you
+remove yourself as an information bottleneck and empower others
+* 88 From an actionable information standpoint, I consume a maximum of
+one-third of one industry magazine (*Response* Magazine) and one business
+magazine (*Inc.*) per month, for a grand total of aproximately four hours.
+That's it for results-oriented reading. Iread an hour of fiction prior to bed
+for relaxation.
+* 93 Being sure to maintain eye contact, ask for the phone numbers of at least
+two (the more you attempt, the less stressful it will be) attractive members of
+the opposite sex on each day.
+
+
