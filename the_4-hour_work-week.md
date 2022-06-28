@@ -66,3 +66,21 @@ partners--until they break contact.
 ## Step 2: E is for Elimination
 
 ### 5 The End of Time Management
+* 68 First, the employee. The employee is increasing productivity to increase
+negotiating leverage for two simultaneous objectives; pay raises and a remote
+working arrangement.
+* 70 *What* you do is infinitely more important than *how* you do it.
+Efficiency is still important, but it is useless unless applied to the right
+things.
+* 70 "Pareto's Law" or the "Pareto Distribution," in the last decade also
+popularly called the "80/20 Principle." The mathematical formula he used to
+demostrate a grossly uneven but predictable distribution of wealth in society--
+80% of the wealth and income was produced and possessed by 20% of the
+population--also applied outside of economics.
+* 71 Which 20% of sources are causing 80% of my poblems and unhappiness? Which
+20% of sources are resulting in 80% of my desired outcomes and happiness?
+* 77 Parkinson' Law dictates that a task will swell in (perceived) importance
+and complexity in relation to the time allotted for its completion. It is the
+magic of the imminent deadline.
+* 77 Limit tasks to the important to shorten work time (80/20). Shorten work
+time to limit tasks to the important (Parkinson's Law).
