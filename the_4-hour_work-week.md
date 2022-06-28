@@ -99,4 +99,19 @@ for relaxation.
 two (the more you attempt, the less stressful it will be) attractive members of
 the opposite sex on each day.
 
-
+### Interrupting Interruption and the Art of Refusal
+* 95  Learn to be difficult when it counts. In school as in life, having a
+reputation for being assertive will help you recieve preferential treatment
+without having to beg or fight for it every time.
+* 97 Check e-mail twice per day, once at 10:00 noon or just prior to lunch,
+and again at 4:00 PM. 12:00 PM. and 4:00 PM. are times that ensure you will
+have the most responses from previously sent e-mail. Never check e-mail first
+thing in the morning.
+* 100 Don't encourage people to chitchat and don't let them chitchat. Get them
+to the point immediately. If they meander or try to postpone for a later
+undefined call, reel them in and get them to come to the point.
+* 110 Hi All, I would like to establish a new policy for my account that
+overrides all others. Keep the customer happy. If it is a problem that takes
+less than $100 to fix, use your judgment and fix it yourself. This is official
+written permission and a request to fix all problems that cost under $100
+without contacting me.
