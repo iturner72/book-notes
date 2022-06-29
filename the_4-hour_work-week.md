@@ -168,4 +168,29 @@ Interviews with Experts for CD Downloadable Products, Licensing Ideas to Others
 for Royalties, Searching for Patents for Unexploited Ideas to Turn into
 Products, and Becoming and Expert.
 
-
+### 10 Income Autopilot 2
+* 179 The moral is that intuition and experience are poor predictors of which
+products and businesses will be profitable. Focus groups are equally
+misleading. Ask ten people if they would but your product. Then tell those who
+said "yes" that you have ten units in your car and ask them to buy. The initial
+positive responses, given by people who want to be liked and aim to please,
+become polite refusals as soon as real money is at stake.
+* 183 How did I come up with the most successful BodyQUICK headline ("The
+Fastest Way to Increase Power and Speed Guaranteed")? I borrowed it from the
+longest-running, and thus most profitable, Rosetta Stone headline: "The Fastest
+Way to Learn a Language Guaranteed."
+* 187 The results of her small test are no garantee of future success, but the
+indications are positive enough that she decides to set up a Yahoo Store for
+$99 per month and a small per-transaction fee. Her credit isn't excellent, so
+she will opt to use www.paypal.com to accept credit cards online instead of
+approaching her bank for a merchant account.
+* 191 Tools and Tricks: Sample Muse Test Page, Fast and Simple Website Creation
+for Non-Techies (and Techies), Create Forms in Seconds for Testing Checkout
+with or Without Payment, Cost-Effective Trademark Filing and Company Formation,
+Services for Selling Downloadable Produts, Introduction to Pay-Per-Click (PPC)
+Advertising and Testing, Inexpensive but Dependable Hosting Services, Royalty-
+Free Photos and Materials, E-mail Sign-up Tracking and Scheduled
+Autoresponders, End-to-End Site Solutions with Payment Processing, Simple
+Payment Processing for Testing Pages, from Least to Most Involved, Software for
+understanding Web Traffic, A/B Testing Software, Low-Cost Toll-free Numbers,
+Checking Competitive Site Traffic, Freelance Designers and Programmers
