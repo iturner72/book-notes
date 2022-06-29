@@ -1,4 +1,4 @@
-## The 4-Hour Work-week
+## The 4-Hour Workweek
 
 by Tim Ferriss
 
@@ -99,7 +99,7 @@ for relaxation.
 two (the more you attempt, the less stressful it will be) attractive members of
 the opposite sex on each day.
 
-### Interrupting Interruption and the Art of Refusal
+### 7 Interrupting Interruption and the Art of Refusal
 * 95  Learn to be difficult when it counts. In school as in life, having a
 reputation for being assertive will help you recieve preferential treatment
 without having to beg or fight for it every time.
@@ -115,3 +115,33 @@ overrides all others. Keep the customer happy. If it is a problem that takes
 less than $100 to fix, use your judgment and fix it yourself. This is official
 written permission and a request to fix all problems that cost under $100
 without contacting me.
+
+## Step 3: A is for Automation
+
+### 8 Outsourcing Life
+* 123 When I open Honey's file, I have this reaction: America is fucked. There
+are charts. There are section headers. There is a well-organized breakdown of
+her pets, measurements, and favorite foods (e.g., swordfish). If all
+Bangalorians are like Honey, I pity Americans about to graduate college.
+They're up against a hungry, polite, Excel-proficient Indian army.
+* 126 The outsourcing of my neuroses was one of the most successful experiments
+of the month. Every  time I started to ruminate, I'd remind myself that Honey
+was already on the case, and I'd relax. No joke--this alone was worth it.
+* 128 But what about the cost? This is a hurdle that is hard for most. If I
+can do it better than an assistant, why should I pay them at all? *Because the
+goal is to free your time to focus on bigger and better things.*
+* 130 Eliminate before you delegate. Never automate something that can be
+eliminated, and never delegate something that can be automated or streamlined.
+* 136 Foreign assistance isn't just for the small time. I know from firsthand
+discussions that executives from big five accounting and management consulting
+firms routinely charge clients six figures for research reports that are then
+farmed to India for low four figures.
+* 138 Besides simple disaster avoidance, a group atructure provides a pool of
+talent that allows you to assign multiple tasks without bothering to find a
+new person with the qualifications. Brickwork and YMII both exemplify this
+type of structure and provide a single point of contact, a personal account
+manager, who then farms out your tasks to the most-capable people in the group
+and across different shifts.
+* 142 Note that I asked him to respond *if* he didn't understand or had
+questions. This is the wrong approach. Ask foreign VSa to rephrase tasks to
+confirm understanding before getting started.
