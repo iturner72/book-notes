@@ -145,3 +145,27 @@ and across different shifts.
 * 142 Note that I asked him to respond *if* he didn't understand or had
 questions. This is the wrong approach. Ask foreign VSa to rephrase tasks to
 confirm understanding before getting started.
+
+### 9 Income Autopilot 1
+* 153 This chapter is not for people who want to *run* businesses but for those
+who want to *own* businesses and spend no time on them.
+* 156 NO2 was priced at an outrageous $79.95, positioned as the premium product
+on the market, and sold exclusively through GNC stores nationwide. No one else
+was permitted to sell it. How can it make sense to turn away business? There
+are a few good reasons. First, the more competing resellers there are, the
+faster your product goes extinct.
+* 161 It Should Cost the Customer $50-200. The bulk of companies set prices in
+the midrange, and that is where the most competition is. Pricing low is
+shortsighted, because someone else is always willing to sacrifice more profit
+margin and drive you both bankrupt.
+* 162 It Should Take No More Than 3 to 4 Weeks to Manufacture. This is
+critically important for keeping costs low and adapting to sales demand without
+stockpiling product in advance.
+* 174 Tools and Tricks page where different websites can help for things like:
+Confirming Sufficient Market Size, Finding Products to Resell or Manufacture,
+Finding Public Domain Information to Repurpose, Recording Seminars of Phone
+Interviews with Experts for CD Downloadable Products, Licensing Ideas to Others
+for Royalties, Searching for Patents for Unexploited Ideas to Turn into
+Products, and Becoming and Expert.
+
+
