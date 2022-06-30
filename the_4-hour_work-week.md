@@ -194,3 +194,37 @@ Autoresponders, End-to-End Site Solutions with Payment Processing, Simple
 Payment Processing for Testing Pages, from Least to Most Involved, Software for
 understanding Web Traffic, A/B Testing Software, Low-Cost Toll-free Numbers,
 Checking Competitive Site Traffic, Freelance Designers and Programmers
+
+### Income Autopilot 3
+* 200 The factory of the future will have only two employees, a man and a dog.
+The man will be there to feed the dog. The dog will be there to keep the man
+from touvhing the equipment.
+* 201 The contradictory advice you find in business books and elsewhere usually
+relates to managing employees--how to handle the human element. Herb tells you
+to give them a hug, Revson tells you to kick them in the balls, and I tell you
+to solve the problem by eliminating it altogether: Remove the human element.
+* 210 Serving the customer ("customer service") is not becoming a persoal
+concierge and catering to their every whim and want. Customer service is
+providing an excellent product at an acceptable price and solving legitimate
+problems (lost packages, replacements, refunds, etc.) in the fastest manner
+possible.
+* 214 The lose-win guarantee might seem like a big risk, especially when
+someone can abuse it for profit like in the BodyQUICK example, but it isn't ...
+*if* your product delivers. Most people are honest.
+* 216 Once per day for two days, simply lie down in the middle of a crowded
+public place at some point. Lunchtime is ideal. It wacn be a well-trafficked
+sidewalk, the middle of a popular Starbucks, or a popular bar. There is no real
+technique involved. Just lie down and remain silent on the ground for about ten
+seconds, and then get up and continue on with whatever you were doing before. I
+used to do this at nightclubs to clear space for beak-dancing circles.
+* 217 It isn't enough to think outside the box. Thinking is passive. Get used
+to acting outside the box.
+* 217 Tools and Tricks: Looking Huge--Vitual Receptionist and IVR, CD/DVD
+Duplication, Printing, and Product Packaging, Local Fulfillment (fewer than 20
+units shipped per week), End-to-End Fulfillment Companies (more than 20 units
+shipped per week, $500+ setup), Call Centers (per-minute and/or per-sale fees),
+Credit Card Processors (merchant account through your bank necessary), Online
+Marketing and Research Firms (PPC campaign management, etc.), Full-Service
+Infomercial Producers, Retail and International Product Distribution, Celebrity
+Brokers, Celebrity Finding
+
