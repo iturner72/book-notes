@@ -195,7 +195,7 @@ Payment Processing for Testing Pages, from Least to Most Involved, Software for
 understanding Web Traffic, A/B Testing Software, Low-Cost Toll-free Numbers,
 Checking Competitive Site Traffic, Freelance Designers and Programmers
 
-### Income Autopilot 3
+### 11 Income Autopilot 3
 * 200 The factory of the future will have only two employees, a man and a dog.
 The man will be there to feed the dog. The dog will be there to keep the man
 from touvhing the equipment.
@@ -227,4 +227,33 @@ Credit Card Processors (merchant account through your bank necessary), Online
 Marketing and Research Firms (PPC campaign management, etc.), Full-Service
 Infomercial Producers, Retail and International Product Distribution, Celebrity
 Brokers, Celebrity Finding
+
+
+## Step 4: L is for Liberation
+
+### 12 Disappearing Act
+* 227 By working faithfully eight hours a day, you may eventually get to be a
+boss and work twelve hours a day.
+* 229 In Japan, a three-piece zombie who joins the 9-5 grind each morning is
+called a *sarai-man*--salaryman--and, in the last few years, a new verb has
+emerged: *datsu-sara suru*, to escape(datsu) the salaryman(sara) lifestyle.
+* 232 The quantifiable end result was three more designs per day than his usual
+average and three total hours of additional billable client time. For
+explanations, he identifies removal of commute and fewer disctractions from
+office noise.
+* 233 Sherwood didn't expect to get two days per week approved. He asked for
+two so that, in the case his boss refused, he could ask for just one as a
+fallback position (bracketing).
+* 234 Employee: What's your main concern? Boss: It seems like you're on your
+way out. I mean, are you going to quit on us? Second, what if everyone wants to
+do the same? Employee: Fair enough. Good points. First, to be honest, I was
+close to quitting befoe, with all the interruptions and commute and whatnot,
+but I'm actually feeling great now with the change in routine.
+* 235 Sherwood's team is in the middle of a project that requires his
+expertise, and he is prepared to quit if his boss refuses. He realizes that,
+just as you want to negotiate ad pricing close to deadlines, getting what you
+want often depends more on *when* you ask for it than *how* you ask for it.
+* 239 Don't underestimate how much you company needs you. Perform well and ask
+for what you want. If you don't get it over time, leave. It's too big a world
+to spend most of life in a cubicle.
 
