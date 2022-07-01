@@ -307,8 +307,34 @@ striving and struggling for a worthwhile goal, a freely choses task.
     * What makes you happy?
     * What excites you?
     * What makes you feel accomplished and good about yoursef?
-    * What are you most proud of having accomplished in your life? Can you repeat this or further develop it?
+    * What are you most proud of having accomplished in your life? Can you
+repeat this or further develop it?
     * What do you enjoy sharing or experiencing wih other people?
 
 ### 16 The Top 13 New Rich Mistakes
+* 302 List of 13 Mistakes
+    * Losing sight of dreams ad falling into work for work's sake (W4W)
+    * Micromanaging and e-mailing to fill time
+    * Handling problems your outsourcers or co-workers can handle
+    * Helping outsourcers or co-workers with the same problem more than once,
+or with noncrisis problems
+    * Chasing customers, particularly unqualified or international prospects,
+when you have sufficient cash flow to finance your nonfinancial pursuits
+    * Answering e-mail that will not result in a sale or that can be answered
+by a FAQ or auto-responder
+    * Working where you live, sleep, or should relax
+    * Not perfrming a thorough 80/20 analysis every two to four weeks for your
+business and personal life
+    * Striving for endless perfection rather than great or simply good enough,
+whether in your personal or professional life
+    * Blowing minutiae and small problems out of proportion as an excuse to work
+    * Making non-time-sensitive issues urgent in order to justify work
+    * Viewing one product, job, or project as the end-all and be-all of your
+existence
+    * Ignoring the social rewards of life
+* Surround yourself with smiling, positive people who have absolutely nothing
+to do with work. Create your muses alone if you must, but do not live your life
+alone. Happiness shared in the form of friendships and love is happiness
+multiplied.
+
 
