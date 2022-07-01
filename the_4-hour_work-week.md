@@ -284,7 +284,7 @@ an all-you-can-eat buffet. It will eat itself to death.
 belongings into a 14 x 10-foot rental storage space. Then I realized a few
 things: I would never reread the business magazines I'd saved, I wore the same
 five shirts and four pairs of pnts 90% of the time, it was about time for new
-furniture, and I never used the outdoor grill or lawn furnitue.
+furniture, and I never used the outdoor grill or lawn furniture.
 * 270 I recommend choosing an overseas locations that will seem foreign but
 isn't dangerous. I box. race motorcycles, and do all sorts of macho things, but
 I draw the line at *favelas*, civilians with machine guns, pedestrians with
@@ -298,5 +298,17 @@ GSM-Compatible Phones, What to Do Once You Get There--Career Experiments and
 More, Chat and E-mail in a Language You Don't Know, Become Fluent in Record
 Time, Finding Language Exchange Partners and Materials
 
+### 15 Filling the Void
+* 293 What man actually needs is not a tensionless state but rather the
+striving and struggling for a worthwhile goal, a freely choses task.
+* 300 Revisit and reset dreamlines
+    * What are you good at?
+    * What could you be the best at?
+    * What makes you happy?
+    * What excites you?
+    * What makes you feel accomplished and good about yoursef?
+    * What are you most proud of having accomplished in your life? Can you repeat this or further develop it?
+    * What do you enjoy sharing or experiencing wih other people?
 
+### 16 The Top 13 New Rich Mistakes
 
