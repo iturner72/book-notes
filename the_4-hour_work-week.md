@@ -267,4 +267,36 @@ something better.
 * 250 Tools and Tricks: Considering Options and Pulling the Trigger, Opening
 Retirement Accounts, Health Insurance for Self-employed or Unemployed
 
+### 14 Mini-Retirements
+* 252 Fables and Fortune Hunters story: "That's the best part. When the time
+is right, you would announce an IPO and sell your company stock to the public
+and become very rich. You would make millions." "Million's, senor? Then what?"
+"Then you would retire and move to a small coastal fishing village, where you
+would sleep late, fish a little, play with your kids, take a siesta with your
+wife, and stroll to the village in the evenings where you could sip wine ad
+play your guitar with your amigos..." This is of course the current life of the
+fisherman.
+* 255 If you are accustomed to working 50 weeks per year, the tendency, even
+after creating the mobility to take extanded trips, will be to go nuts and see
+10 countries in 14 dats and end up a wreck. It's like taking a starving dog to
+an all-you-can-eat buffet. It will eat itself to death.
+* 265 Prior to my 15-month trip, I was stressed about how to fit all of my
+belongings into a 14 x 10-foot rental storage space. Then I realized a few
+things: I would never reread the business magazines I'd saved, I wore the same
+five shirts and four pairs of pnts 90% of the time, it was about time for new
+furniture, and I never used the outdoor grill or lawn furnitue.
+* 270 I recommend choosing an overseas locations that will seem foreign but
+isn't dangerous. I box. race motorcycles, and do all sorts of macho things, but
+I draw the line at *favelas*, civilians with machine guns, pedestrians with
+machetes, and social strife.
+* 277 Tools and Tricks: Brainstorming Mini-Retirement Locations, Mini-
+Retirement Planning and preparation--Fundamentals, Cheap and Round-the-World
+Airfare, Free Worldwide Housing--Short Term, Free Worldwide Housing--Long Term,
+Paid Housing--from Arrival to the Long Haul, Computer Remote Access and Backup
+Tools, Free and Low-Cost Internet (IP) Telephones, International Multi-Band and
+GSM-Compatible Phones, What to Do Once You Get There--Career Experiments and
+More, Chat and E-mail in a Language You Don't Know, Become Fluent in Record
+Time, Finding Language Exchange Partners and Materials
+
+
 
