@@ -257,3 +257,14 @@ want often depends more on *when* you ask for it than *how* you ask for it.
 for what you want. If you don't get it over time, leave. It's too big a world
 to spend most of life in a cubicle.
 
+
+### 13 Beyond Repair
+* 243 Most people aren't lucky enough to get fired and die a slow spiritual
+death over 30-40 years of tolerating the mediocre.
+* 245 If you've made it this far in life, losing or dropping a job will often
+be little more than a few weeks of vacation (unless you want more) prior to
+something better.
+* 250 Tools and Tricks: Considering Options and Pulling the Trigger, Opening
+Retirement Accounts, Health Insurance for Self-employed or Unemployed
+
+
