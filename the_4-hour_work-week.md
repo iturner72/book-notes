@@ -337,4 +337,22 @@ to do with work. Create your muses alone if you must, but do not live your life
 alone. Happiness shared in the form of friendships and love is happiness
 multiplied.
 
-
+### The Best of the Blog
+* 318 I practice what I'll label the BIT method of travel: Buy It There.
+* 321 Income is renewable, but some other resources--like attention--are not.
+I've tlked before about attention as a currency and how it determines the value
+of time. For example: Is your weekend really free if you find a crisis in the
+inbox Saturday morning that you can't address until Monday morning? Even if the
+inbox scan lasts 20 seconds, the preoccupation and forward projection for the
+subsequent 48 hours effectively deletes that experience from your life.
+* 324 It's deliberation--the time we vacillate over and consider each
+decision--that's the attention consumer. Total deliberation time, not the
+number of decisions, determines your attention bank account balance (or debt).
+* 328 The target isn't the market. No one aspires to be the bland average, so
+don't water down messaging to appeal to everyone--it will end up appealing to
+no one.
+* 332 Products can be fixed as long as you have cash flow, and bugs are
+forgiven, but missing deadlines is often fatal. Calvin Coolidge once said that
+nothing is more common than unsuccessful men with talent; I would add that the
+second most common is smart people who think their IQ or resume justifies
+delivering late.
