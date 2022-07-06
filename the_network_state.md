@@ -48,3 +48,26 @@ national currency.
 peaceful, reproducible process for turning an online community premised on a
 proposition into a physical state with a virtual capital: a *network state,*
 the sequel to the nation state.
+* 12 In the distant past people could only write on clay tablets, in the recent
+past they were executed for contemplating entrepreneurship, and in the
+immediate present they are arguing over replacing an ancient gas station. In
+these times and places, making a fresh start has been technologically
+infeasible, politically impossible, or judicially punishable.
+* 12 Six ways to start a new country: Election, Revolution, War, Micronations,
+Seasteading, Space, Network States.
+* 15 *reverse diaspora*: a community that forms first on the internet, builds a
+culture online, and only then comes together in-person to build dwellings and
+structures.
+* 16 The *numerical* definition begins with visualizing a hypothetical
+nationrealestatepop.com site similar to coinmarketcap.com, which aggregates the
+cryptographically audited censuses of startup societies aspiring to become
+network states. This dashboard would show in realtime the number of community
+members, the acreage of real estate owned by those members, and the community's
+on-chain income.
+* 17 The *societal* definition of a new country is one that is diplomatically
+recognized by other countries as a legitimate polity capable of
+self-determination.
+* 18 Most countries are small countries. A new state with a population of 1-10M
+would actually be comparable to most existing states. That's because of the 193
+UN-recognized sovereign states, 20% have a population of less than 1M and 55%
+have a population of less than 10M.
