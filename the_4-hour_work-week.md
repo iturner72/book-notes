@@ -74,7 +74,7 @@ Efficiency is still important, but it is useless unless applied to the right
 things.
 * 70 "Pareto's Law" or the "Pareto Distribution," in the last decade also
 popularly called the "80/20 Principle." The mathematical formula he used to
-demostrate a grossly uneven but predictable distribution of wealth in society--
+demonstrate a grossly uneven but predictable distribution of wealth in society--
 80% of the wealth and income was produced and possessed by 20% of the
 population--also applied outside of economics.
 * 71 Which 20% of sources are causing 80% of my poblems and unhappiness? Which
@@ -92,8 +92,8 @@ or don't come to me. Problems, as a rule, solve themselves or disappear if you
 remove yourself as an information bottleneck and empower others
 * 88 From an actionable information standpoint, I consume a maximum of
 one-third of one industry magazine (*Response* Magazine) and one business
-magazine (*Inc.*) per month, for a grand total of aproximately four hours.
-That's it for results-oriented reading. Iread an hour of fiction prior to bed
+magazine (*Inc.*) per month, for a grand total of approximately four hours.
+That's it for results-oriented reading. I read an hour of fiction prior to bed
 for relaxation.
 * 93 Being sure to maintain eye contact, ask for the phone numbers of at least
 two (the more you attempt, the less stressful it will be) attractive members of
@@ -101,7 +101,7 @@ the opposite sex on each day.
 
 ### 7 Interrupting Interruption and the Art of Refusal
 * 95  Learn to be difficult when it counts. In school as in life, having a
-reputation for being assertive will help you recieve preferential treatment
+reputation for being assertive will help you receive preferential treatment
 without having to beg or fight for it every time.
 * 97 Check e-mail twice per day, once at 10:00 noon or just prior to lunch,
 and again at 4:00 PM. 12:00 PM. and 4:00 PM. are times that ensure you will
@@ -136,7 +136,7 @@ eliminated, and never delegate something that can be automated or streamlined.
 discussions that executives from big five accounting and management consulting
 firms routinely charge clients six figures for research reports that are then
 farmed to India for low four figures.
-* 138 Besides simple disaster avoidance, a group atructure provides a pool of
+* 138 Besides simple disaster avoidance, a group structure provides a pool of
 talent that allows you to assign multiple tasks without bothering to find a
 new person with the qualifications. Brickwork and YMII both exemplify this
 type of structure and provide a single point of contact, a personal account
@@ -179,7 +179,7 @@ become polite refusals as soon as real money is at stake.
 Fastest Way to Increase Power and Speed Guaranteed")? I borrowed it from the
 longest-running, and thus most profitable, Rosetta Stone headline: "The Fastest
 Way to Learn a Language Guaranteed."
-* 187 The results of her small test are no garantee of future success, but the
+* 187 The results of her small test are no guarantee of future success, but the
 indications are positive enough that she decides to set up a Yahoo Store for
 $99 per month and a small per-transaction fee. Her credit isn't excellent, so
 she will opt to use www.paypal.com to accept credit cards online instead of
@@ -187,7 +187,7 @@ approaching her bank for a merchant account.
 * 191 Tools and Tricks: Sample Muse Test Page, Fast and Simple Website Creation
 for Non-Techies (and Techies), Create Forms in Seconds for Testing Checkout
 with or Without Payment, Cost-Effective Trademark Filing and Company Formation,
-Services for Selling Downloadable Produts, Introduction to Pay-Per-Click (PPC)
+Services for Selling Downloadable Products, Introduction to Pay-Per-Click (PPC)
 Advertising and Testing, Inexpensive but Dependable Hosting Services, Royalty-
 Free Photos and Materials, E-mail Sign-up Tracking and Scheduled
 Autoresponders, End-to-End Site Solutions with Payment Processing, Simple
@@ -198,12 +198,12 @@ Checking Competitive Site Traffic, Freelance Designers and Programmers
 ### 11 Income Autopilot 3
 * 200 The factory of the future will have only two employees, a man and a dog.
 The man will be there to feed the dog. The dog will be there to keep the man
-from touvhing the equipment.
+from touching the equipment.
 * 201 The contradictory advice you find in business books and elsewhere usually
 relates to managing employees--how to handle the human element. Herb tells you
 to give them a hug, Revson tells you to kick them in the balls, and I tell you
 to solve the problem by eliminating it altogether: Remove the human element.
-* 210 Serving the customer ("customer service") is not becoming a persoal
+* 210 Serving the customer ("customer service") is not becoming a personal
 concierge and catering to their every whim and want. Customer service is
 providing an excellent product at an acceptable price and solving legitimate
 problems (lost packages, replacements, refunds, etc.) in the fastest manner
@@ -212,7 +212,7 @@ possible.
 someone can abuse it for profit like in the BodyQUICK example, but it isn't ...
 *if* your product delivers. Most people are honest.
 * 216 Once per day for two days, simply lie down in the middle of a crowded
-public place at some point. Lunchtime is ideal. It wacn be a well-trafficked
+public place at some point. Lunchtime is ideal. It can be a well-trafficked
 sidewalk, the middle of a popular Starbucks, or a popular bar. There is no real
 technique involved. Just lie down and remain silent on the ground for about ten
 seconds, and then get up and continue on with whatever you were doing before. I
@@ -239,7 +239,7 @@ called a *sarai-man*--salaryman--and, in the last few years, a new verb has
 emerged: *datsu-sara suru*, to escape(datsu) the salaryman(sara) lifestyle.
 * 232 The quantifiable end result was three more designs per day than his usual
 average and three total hours of additional billable client time. For
-explanations, he identifies removal of commute and fewer disctractions from
+explanations, he identifies removal of commute and fewer distractions from
 office noise.
 * 233 Sherwood didn't expect to get two days per week approved. He asked for
 two so that, in the case his boss refused, he could ask for just one as a
@@ -247,7 +247,7 @@ fallback position (bracketing).
 * 234 Employee: What's your main concern? Boss: It seems like you're on your
 way out. I mean, are you going to quit on us? Second, what if everyone wants to
 do the same? Employee: Fair enough. Good points. First, to be honest, I was
-close to quitting befoe, with all the interruptions and commute and whatnot,
+close to quitting before, with all the interruptions and commute and whatnot,
 but I'm actually feeling great now with the change in routine.
 * 235 Sherwood's team is in the middle of a project that requires his
 expertise, and he is prepared to quit if his boss refuses. He realizes that,
@@ -277,13 +277,13 @@ wife, and stroll to the village in the evenings where you could sip wine ad
 play your guitar with your amigos..." This is of course the current life of the
 fisherman.
 * 255 If you are accustomed to working 50 weeks per year, the tendency, even
-after creating the mobility to take extanded trips, will be to go nuts and see
-10 countries in 14 dats and end up a wreck. It's like taking a starving dog to
+after creating the mobility to take extended trips, will be to go nuts and see
+10 countries in 14 days and end up a wreck. It's like taking a starving dog to
 an all-you-can-eat buffet. It will eat itself to death.
 * 265 Prior to my 15-month trip, I was stressed about how to fit all of my
 belongings into a 14 x 10-foot rental storage space. Then I realized a few
 things: I would never reread the business magazines I'd saved, I wore the same
-five shirts and four pairs of pnts 90% of the time, it was about time for new
+five shirts and four pairs of pants 90% of the time, it was about time for new
 furniture, and I never used the outdoor grill or lawn furniture.
 * 270 I recommend choosing an overseas locations that will seem foreign but
 isn't dangerous. I box. race motorcycles, and do all sorts of macho things, but
@@ -306,10 +306,10 @@ striving and struggling for a worthwhile goal, a freely choses task.
     * What could you be the best at?
     * What makes you happy?
     * What excites you?
-    * What makes you feel accomplished and good about yoursef?
+    * What makes you feel accomplished and good about yourself?
     * What are you most proud of having accomplished in your life? Can you
 repeat this or further develop it?
-    * What do you enjoy sharing or experiencing wih other people?
+    * What do you enjoy sharing or experiencing with other people?
 
 ### 16 The Top 13 New Rich Mistakes
 * 302 List of 13 Mistakes
@@ -323,7 +323,7 @@ when you have sufficient cash flow to finance your nonfinancial pursuits
     * Answering e-mail that will not result in a sale or that can be answered
 by a FAQ or auto-responder
     * Working where you live, sleep, or should relax
-    * Not perfrming a thorough 80/20 analysis every two to four weeks for your
+    * Not performing a thorough 80/20 analysis every two to four weeks for your
 business and personal life
     * Striving for endless perfection rather than great or simply good enough,
 whether in your personal or professional life
@@ -340,7 +340,7 @@ multiplied.
 ### The Best of the Blog
 * 318 I practice what I'll label the BIT method of travel: Buy It There.
 * 321 Income is renewable, but some other resources--like attention--are not.
-I've tlked before about attention as a currency and how it determines the value
+I've talked before about attention as a currency and how it determines the value
 of time. For example: Is your weekend really free if you find a crisis in the
 inbox Saturday morning that you can't address until Monday morning? Even if the
 inbox scan lasts 20 seconds, the preoccupation and forward projection for the
