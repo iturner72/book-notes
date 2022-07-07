@@ -82,7 +82,7 @@ This is the scholarly version of going through someone's old tweets. It's
 weaponized history, history as opposition research. You simply can't win an
 argument against such people on pure logic alone; you need facts, so you need
 history.
-* 24 We denote the exponential improvemet in transistor density over the
+* 24 We denote the exponential improvement in transistor density over the
 postwar period by Moore's law. We describe the exponential *decline* in
 pharmaceutical R&D efficiency during the same period as Eroom's law -- as
 Moore's law in reverse. That is, over the last several decades, the FDA somehow
@@ -102,7 +102,7 @@ lectured by media corporations on "diversity"? Is it because those media
 corporations that are 20-30 points whiter than tech companies actually deeply
 care about this? Or is it because after the 2009-era collapse of print media
 revenue, media corporations struggled for a business model, found that certain
-words drove traffic, and then doubled down on that - boosting their stok price
+words drove traffic, and then doubled down on that - boosting their stock price
 and bashing their competitors in the process?
 * 27  ... the New York Times Company (which originates so many of these
 jeremiads) is an organization where the controlling Ochs-Sulzberger family
@@ -115,7 +115,7 @@ the menu, a political *founder* can do something different: ideology
 construction.
 * 35 The One Commandment is also similar to tech in another respect: it
 *focuses* a startup society on a single moral innovation, just like a tech
-company is about a *focused* technoexonomic innovation.
+company is about a *focused* technoeconomic innovation.
 
 ### Microhistory and Macrohistory
 * 38 In the bottom-up view, history is written to the ledger. If everything
@@ -133,7 +133,7 @@ particles progressing through time.
 enough variables that it can be reset and replayed from the beginning in a
 series of controlled experiments.
 * 41 At a surface level, the Kalman flter resembles the kind of time series
-analysis that's common in finance. The key differenc is that the Kalman filter
+analysis that's common in finance. The key difference is that the Kalman filter
 is used on *reproducible* systems while finance is typically a *non-
 reproducible* system.
 * 42 *Macrohistory* is the history of a non-reproducible system, one which has
@@ -154,10 +154,10 @@ records cryptographically connected to that transaction through the mechanism
 of composed block headers.
 * 46 Some call the Bitcoin blockchain a *timechain* because unlike many other
 blockchains, its proof-of-work mechanism and difficulty adjustment ensure a
-statistically regular time interval betweek blocks, crucial to its function as
+statistically regular time interval between blocks, crucial to its function as
 a digital history.
 * 47 ...the Bitcoin blockchain gives a *history that's hard to falsify*. Unless
-there's an advance in quantum computing, a breakthrough in pure mat, a
+there's an advance in quantum computing, a breakthrough in pure math, a
 heretofore unseen bug in the code, or a highly expensive 51% attack that
 probably only China could muster, it is essentially infeasible to rewrite the
 history of the Bitcoin blockchain--or anything written to it. And even if such
@@ -165,4 +165,86 @@ an event *does* happen, it wouldn't be an instantaneous burning of Bitcoin's
 Library of Alexandria. The hash function could be replaced with a quantum-safe
 version, or another chain robust to said attack could take Bitcoin's place, and
 back up the ledger of all historical Bitcoin transactions to a new protocol.
-*
+* 47 Future societies may think of the year 2022 AD as the year 13 AS, with
+"After Satoshi" as the new "Anno Domini," and the block clock as the new
+universal time.
+* 49 As noted, the full scope of what the Bitcoin blockchain represents is
+nothing less than the history of an entire economy. Every transaction is
+recorded since *t*=0. Every fraction of a BTC is accounted for, down to one
+hundred millionth of a Bitcoin. Nothing is lost.
+* 51 We can now see how the expansion of blockspace is on track to give us a
+*cryptographically verifiable macrohistory*, or cryptohistory for short. This
+is the log of everything that billions of people choose to make public: every
+decentralized tweet, every public donation, every birth and death certificate,
+every marriage and citizenship record, every crypto domain registration, every
+merger and acquisition of an on-chain entity, every financial statement, every
+public records -- all digitally signed, timestamped, and hashed in freely
+available public ledgers.
+* 52 We call this indelible, computable, digital, authenticatable history the
+*ledger of record*.
+
+### Political Power and Technological Truth
+* 55 *Political mascot model: history is written by winners pretending to be
+acting on behalf of losers*. This is a variant of the political determinist
+model, also known as "offense archaeology," and practiced by the modern
+American, Chinese, and Russian establishments -- all of whom portray
+themselves as victims.
+* 57 One of the most time-honored techniques to mobilize public animosity
+against the enemy and to justify military action is the atrocity story. This
+technique, says Professor Lasswell, has been used "with unvarying success in
+every conflict known to man."
+* 57 Coming from a different vantage point, Rene Girard would call this a
+"founding murder." Once you see this technique, you see it everywhere. Somewhat
+toned-down versions of the atrocity story are the go-to technique used to
+justify expansions of political power.
+    * If we don't force people to take off their shoes at the airport, people
+will die!
+    * If we don't stop people from voluntarily taking experimental curative
+drugs, people will die!
+    * If we don't set up a disinformation office to stop people from making
+hostile comments online, people will die!
+* 58 Often this completely ignores the death caused by that force itself. For
+example, when the FDA "prevented" deaths by cracking down on drug approvals
+after thalidmide, it caused many more deaths via Eroom's Law and drug lag.
+* 58 And sometimes the atrocity story is just completely fake; before Iraq was
+falsely accused of holding WMD, it was falsely accused of tossing babies from
+incubators.
+* 58 ...just as the atrocity story is a tool for political power, unfortunately
+so too is genocide denial -- as we can see from The New York Times' Pulitzer-
+winning coverup of Stalin's Ukrainian famine.
+* 59 *Technological determinist model: technology is the driving force of
+history* ...Hundreds of years later, we don't care that much about the laws of
+Isaac Newton's time, but we do care about Newton's laws.
+* 61 *Helix model: linear and cyclical history can coexist*...which says that
+from one viewpoint history is indeed progressive, from another it's genuinely
+cyclical, and the reconciliation is that we move a bit forward technologically
+with each turn of the corkscrew rather than collapsing.
+* 62 *Ozymandias model: civilization can collapse*. History shows us that
+technological progress is not inevitable. The Fall of Civilizations podcast
+really makes this clear. Gobekli Tepe is one example.
+* 64 *Idea Maze model: those who overfit to history will never invent the
+future*. This is the counterargument to the Train Crash model -- past results
+may not predict future performance, and sometimes you need to have a beginner's
+mindset to innovate. Generally this works better for opt-in technologies and
+investments than top-down modifications of society like communism.
+* 65 *idea maze*...The relevant bit here is that just because a business
+proposition didn't work in the past doesn't necessarily mean it won't work
+today. The technological and social prerequisites may have dramatically
+changed, and doors previously closed may now have opened.
+* 67 History is the entire record of everything humanity has done. It's a very
+rich data structure tht we have only begun to even think of *as* a data
+structure.
+* 69 Once you reluctantly recognize that not *every* aspect of a sociopolitical
+order can be derived from an objective calculation, and that some things really
+*do* depend on an arbitrary consensus, you realize that we need to maintain a
+balance between political power and technological truth.
+    * We have a political theory of history that says "social and political
+incentives favor the propagation of politically useful narratives."
+    * We have a technological theory of history that says "financial and
+technical incentives favor the propagation of technological truths."
+    * We have a set of examples that show how politically powerful actors were
+constrained by decentralizing technology.
+    * We have more examples that show that some facts really are determined by
+societal consensus, while others are amenable to decentralized verification.
+    * And we understand why groups need both to survive; the backwards will be
+beaten, while the unpopular will never have political power in the first place.
