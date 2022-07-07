@@ -248,3 +248,7 @@ constrained by decentralizing technology.
 societal consensus, while others are amenable to decentralized verification.
     * And we understand why groups need both to survive; the backwards will be
 beaten, while the unpopular will never have political power in the first place.
+
+### God, State, Network
+
+* 71? Many progressive atheists are by no means astatists; they worship the State as if it were God. And many libertarian atheists may not believe in either God *or* the State, but they do believe in the Network - whether that be their social network or their cryptocurrency.
