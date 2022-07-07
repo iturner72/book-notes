@@ -251,4 +251,24 @@ beaten, while the unpopular will never have political power in the first place.
 
 ### God, State, Network
 
-* 71? Many progressive atheists are by no means astatists; they worship the State as if it were God. And many libertarian atheists may not believe in either God *or* the State, but they do believe in the Network - whether that be their social network or their cryptocurrency.
+* 73 Many progressive atheists are by no means astatists; they worship the
+State as if it were God. And many libertarian atheists may not believe in
+either God *or* the State, but they do believe in the Network - whether that be
+their social network or their cryptocurrency.
+* 74 The full global displacement of God by the State (something already
+clearly underway in France since 1789) led to the giant wars of the 20th
+century, Democratic Capitalism vs Nazism vs Communism. These new faiths
+replaced g-o-d with g-o-v, faiths which centered the State over God as the most
+powerful force on earth.
+* 75 Put another way, what's the most powerful force on earth? In the 1800s,
+God. In the 1900s, the US military. And by the mid-2000s, encryption. Because
+as Assange put it, no amount of violence can solve certain kinds of math
+problems. So it doesn't matter how many nuclear weapons you have; if property
+or information is secured by cryptography, the state can't seize it without
+getting the solution to an equation.
+* 76 It's about using encryption and crypto to protect freedom of speech,
+freedom of association, freedom of contract, prevention from discrimination
+*and* cancellation via pseudonymity, individual privacy, and truly equal
+protection under rule-of-code--even as the State's paper-based guarantees of
+the same become ever more hollow.
+*
