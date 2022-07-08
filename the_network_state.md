@@ -365,4 +365,81 @@ of humanity.
 * 88 AI could be tuned and trained on particular corpora rather than the
 general web. What would Jesus do (WWJD), in an app? What would Lee Kuan Yew do?
 What would David Ben-Gurion do? What would George Washington do?
-*
+* 91 The NSA won't need to hack its way in, it's get a front door. And then it
+will likely get hacked in turn, spraying all of your data over the internet.
+* 91 As a preview, that's where the One Commandment comes in. The concept is
+that you don't want or need to start an entirely new religion to build a
+startup society, but you *do* need a moral innovation of some kind.
+
+### People of God, People of the State, People of the Network
+* 94 Stereotypically, the peopple of God offer thoughts and prayers, the people
+of the State say "there oughta be a law!", and the people of the Network write
+some code.
+* 94 They gray tribe is the easiest to analyze. It is fair to say that they are
+primarily people of the Network Leviathan. These technological progressives are
+not just atheists, they are also *astatists*, as they do not typically believe
+in either God or the State. They are genuinely internationalists in a way
+neither red nationalists nor blue faux internationalists are, as they don't
+subscribe to American exceptionalism, and interact with people from other
+countries through the Network as equals.
+* 95 Blue Tribe: Left-Authoritarians, Left-Libertarians
+    * The blue tribe is the most powerful in Western society today, and has
+two main internal factions: the left-authoritarians who worship the State, and
+the left-libertarians who are (unconsciously) people of the Network.
+* 96 Wokeness is a Doctrine, not a Religion
+    * "a belief or set of beliefs held and taught by a church, political party,
+or other group."
+    * Each doctrine has a Leviathan, a most powerful force. And a religion is
+then just a type of doctrine.
+    * Wokeness *does* have cognates to many aspects of Christianity -- we all
+have the Calvinist original sin of bigotry, we're going to the warm hell of
+climate change unless we repent, unbelievers must "recant," heresy must be
+suppressed, the West's beliefs must be evangelized at gunpoint, and so on.
+* 97 Blue State: Left-Authoritarians
+    * For the left-authoritarians among the blues, their primary Leviathan is
+the State, which is very real and can do violence against its/their enemies, as
+opposed to what they think of as an imaginary God.
+    * This is why State-worshippers mock the concept of "thoughts and prayers"
+in favor of "passing a law."
+    * This is also why left-authoritarians tend to take for granted that all
+ills can be solved by "praying for relief" to the State, by forming some
+agency, by appropriating ever mor money. Taxes are secular tithes, and the
+Gov-fearing man is like the God-fearing man -- you simply cannot pay enough
+money and respect to the state, because as the DNC video says outright,
+"government is the one thing we all belong to." It's not about results, it's
+about fealty.
+* 98 Even thought they culturally love the State and hate the Network, it's
+important to not that the left-authoritarians in the US *have* managed to
+recently take control of big chunks of the Network, through placing
+sympathizers in key positions at Big Tech companies during the techlash and
+Great Awokening of the 2010s. (There are incipient signs of pushback here,
+though, at places like Netflix and even Google, where the very wokest are
+being terminated.)
+* 98 What do left-authoritarians generally look like from an occupational
+standpoint? The body of left-authoritarians are the NPCs paying the NYT
+monthly subscriptions for the official "truth," slavishly turning their heads
+with every new software update, insisting that masks don't work before they do,
+reliably surging behind the current thing. These are just foot soldiers, but
+interestingly the most important left-authoritarians aren't the alected
+officials.
+* 99 ...we call it NYT/USD, to emphasize their source of truth and digital
+economy relative to BTC/web3 and CCP/RMB.
+* 99 Go read the descriptions of the prizes they award to each other, and
+you'll see them celebrate themselves for making something that was previously
+volitional newly mandatory or forbidden. "Our report led to government action!"
+Whether that action was the bombing of Libya or the banning of plastic straws
+makes no nevermind; impact is impact.
+* 99 Laws aren't the only form of impact. Hetting someone fired is too. We
+talk of hit pieces and calcel culture as if they're aberrations, but they're
+actualy the core of left-authoritarian culture. Recall that the most
+prestigious thing any establishment journalist ever did was Watergate: namely,
+getting a president fired while selling millions of copies of their newspaper.
+* 101 The Soviets had a state-controlled press, but America now had a
+press-controlled state.
+* 103 ...an important insight is that behind many of these left-authoritarian
+journalists (and activists and nonprofits) is an old-money zillionaire, a
+nepotistic heir of some kind. You won't find someone at The Atlantic
+criticizing Laurene Powell Jobs, you won't find someone at NPR going after
+Soros, and you won't find someone at The New York Times Company that even
+publicly *admits* that their boss, Arthus Gregg Sulzberger, is a rich white
+male neoptist.
