@@ -280,40 +280,40 @@ easily freeze, seize, ban, or print. In theory this is just a special case of
 the point on encryption, but its implications are broad: all manner of
 financial instuments, corporate vehicles, accounting, payroll, and the like can
 be done on-chain outside the control of states.
-    * 3. *Peer-to-Peer > State Media* There are two kinds of state media:
+    * *3. Peer-to-Peer > State Media* There are two kinds of state media:
 state-controlled media as in China's Xinhuanet, or state-*control* media as in
 America's The New York Times. The latter controls the state, the former is
 controlled by the state, but both fight freedom of speech. Network-facilitated
 P2P communication is anathema to them, particularly if end-to-end encrypted.
-    * 4. *Social > National* When the network identity is more salient than
+    * *4. Social > National* When the network identity is more salient than
 the neighor relationship, it challenges the very premise of the Westphalian
 state, which is that (a) people who live geographically near each other share
 values and (b) therefore laws should be based on geographic boundaries. The
 alternative is that only people who are *goedesically* near each other in the
 social network share values, and therefore the laws that govern them should be
 based on network boundaries.
-    * 5. *Mobile > Sessile* Mobile is making us more mobile. And law is a
+    * *5. Mobile > Sessile* Mobile is making us more mobile. And law is a
 function of latitude and longitude; as you change your location, you change the
 local, state, and federal laws that apply to you.
-    * 6. *Virtual Reality > Physical Proximity* As a complement to mobile, the
+    * *6. Virtual Reality > Physical Proximity* As a complement to mobile, the
 Network offers another way to opt out od State-controlled physical
 surroundings: namely, to put on a VR (or AR) headset, at which point you are in
 a completely different world with different people surrounding you and
 different laws.
-    * 7. *Remote > In-person* The concept of the nework state as a division of
+    * *7. Remote > In-person* The concept of the nework state as a division of
 the world by people rather than by land is particularly important here, as
 network states are natively built for getting voluntary subscription revenue
 from people around the world. The diaspora *is* the state.
-    * 8. *International > National* The Network gives people more of a *choice*
+    * *8. International > National* The Network gives people more of a *choice*
 over what specific State they are subject to. For example, they can move a
 server hosting their website from country to country with a few clicks.
-    * 9. *Smart Contracts > Law* We're still in the early days of smart
+    * *9.Smart Contracts > Law* We're still in the early days of smart
 contracts, but as we get well-debugged and formally-verified contract
 libraries, this is an area where the Network is poised to take over from the
 State. Imagine truly international law: it's done programmatically rather than
 via pieces of paper, across borders outside the domain of legacy states, and by
 global technologists rather than country-specific lawyers.
-    * 10. *Cryptographic Verification > Official Confirmation* Perhaps the most
+    * *10. Cryptographic Verification > Official Confirmation* Perhaps the most
 important arena in which the Network is stronger than the state is in the
 nature of truth itself. It's the ultimate triumph of the technological trooth
 view of history as there are now technical *and* financial incentives for
