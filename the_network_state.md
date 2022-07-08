@@ -266,9 +266,103 @@ as Assange put it, no amount of violence can solve certain kinds of math
 problems. So it doesn't matter how many nuclear weapons you have; if property
 or information is secured by cryptography, the state can't seize it without
 getting the solution to an equation.
-* 76 It's about using encryption and crypto to protect freedom of speech,
+* 75 It's about using encryption and crypto to protect freedom of speech,
 freedom of association, freedom of contract, prevention from discrimination
 *and* cancellation via pseudonymity, individual privacy, and truly equal
 protection under rule-of-code--even as the State's paper-based guarantees of
 the same become ever more hollow.
+* 75 The Network is the Next Leviathan
+    * *1. Encryption > State Violence* When there is strong encryption government
+can't crack, that means communications states can't eavesdrop on, transactions
+they can't intercept, and digital borders they can't penetrate.
+    * *2. Cryptoeconomy > Fiat Economy* ...Bitcoin being money the State can't
+easily freeze, seize, ban, or print. In theory this is just a special case of
+the point on encryption, but its implications are broad: all manner of
+financial instuments, corporate vehicles, accounting, payroll, and the like can
+be done on-chain outside the control of states.
+    * 3. *Peer-to-Peer > State Media* There are two kinds of state media:
+state-controlled media as in China's Xinhuanet, or state-*control* media as in
+America's The New York Times. The latter controls the state, the former is
+controlled by the state, but both fight freedom of speech. Network-facilitated
+P2P communication is anathema to them, particularly if end-to-end encrypted.
+    * 4. *Social > National* When the network identity is more salient than
+the neighor relationship, it challenges the very premise of the Westphalian
+state, which is that (a) people who live geographically near each other share
+values and (b) therefore laws should be based on geographic boundaries. The
+alternative is that only people who are *goedesically* near each other in the
+social network share values, and therefore the laws that govern them should be
+based on network boundaries.
+    * 5. *Mobile > Sessile* Mobile is making us more mobile. And law is a
+function of latitude and longitude; as you change your location, you change the
+local, state, and federal laws that apply to you.
+    * 6. *Virtual Reality > Physical Proximity* As a complement to mobile, the
+Network offers another way to opt out od State-controlled physical
+surroundings: namely, to put on a VR (or AR) headset, at which point you are in
+a completely different world with different people surrounding you and
+different laws.
+    * 7. *Remote > In-person* The concept of the nework state as a division of
+the world by people rather than by land is particularly important here, as
+network states are natively built for getting voluntary subscription revenue
+from people around the world. The diaspora *is* the state.
+    * 8. *International > National* The Network gives people more of a *choice*
+over what specific State they are subject to. For example, they can move a
+server hosting their website from country to country with a few clicks.
+    * 9. *Smart Contracts > Law* We're still in the early days of smart
+contracts, but as we get well-debugged and formally-verified contract
+libraries, this is an area where the Network is poised to take over from the
+State. Imagine truly international law: it's done programmatically rather than
+via pieces of paper, across borders outside the domain of legacy states, and by
+global technologists rather than country-specific lawyers.
+    * 10. *Cryptographic Verification > Official Confirmation* Perhaps the most
+important arena in which the Network is stronger than the state is in the
+nature of truth itself. It's the ultimate triumph of the technological trooth
+view of history as there are now technical *and* financial incentives for
+passing down true facts, regardless of the sociopolitical advantages any given
+government might have for suppressing them. To foreshadow a bit, this *ledger
+of record* is history written by the Network rather than the State.
+* 79 As mentioned before, Uber and Lyft are better regulators than the State's
+paper-based taxi medallions, email is superior to the USPS, and SpaceX is out-
+executing NASA...if you care about toe US census, the Network gives a real-time
+survey which is far more up to date than the State's 10 year process.
+* 79 Applying the "Network > State" formulation to recent events, think about
+January 2021, when -- at the behest of the New Tork Times Company and all of
+mainstream media -- Google, Apple, Amazon, Facebook, and Twitter combined to
+deplatform a sitting president and disappear his supporters' app from the
+internet. This was undeniable proof of the US government's impotence, because
+the "most powerful man in the world" was clearly no longer even the most
+powerful man in his own country.
+* 80 Some exaplles of "State > Network" include Ross Ulbricht's arrest by the
+US government, the persecution of Julian Assange and Edward Snowden, China's
+crackdown on cryptocurrency, the European Union's GDPR regulation, the COVID
+lockdowns that inhibited any digital nomad's ability to exit, the rising number
+of government internet shutdowns, and the US establishment's push to censor the
+internet.
+* 81 Let's review a few cases of particular importance:
+    * *1. SF city government > Bay Area tech founders.* Despite how competent the
+tech founders of SF were on the Network, the political billionairs of the San
+Francisco city government managed to use their control of the State to turn the
+city into a hellhole.
+    * *2. CCP > Chinese tech founders.* China had its own establishment-driven
+techlash. The huge cost of pausing of the massive Alibaba IPO on some
+regulatory pretense was a signal. The CCP-controlled Chinese State beat the
+international Network of Chinese tech founders.
+    * *3. Biasing AI with AI Bias* The fundamental concept is about asserting
+moral control over a technological field. AI "ethics" doesn't really contest
+what is true or false, it contests what is good and bad. And what is bad?
+Anything that advances a politically unfavorable narrative. As a concrete
+example, in 2021, Ukraine was widely reported to be a corrupt country full of
+Azov Battalion Nazis. By mid 2022, those reports would have been reclassified
+as "disinformation" and pushed down to page 10 of the search results, if the AI
+bias people had their way.
+    * *4. Digital Deplatforming* ...in the West, if you say something the
+regime doesn't like on Twitter, your post disappears, and possibly your
+account, and--in American protectorates like the UK--maybe you're brought in
+for "tea" by the security forces.
+* 88 One important synthesis that deserves special mention is the
+"Network/God": a Network God, and AI God, a GPT-9 or DALL∙E 10 that gives
+instant, superhuman answers to difficult questions using the knowledge of all
+of humanity.
+* 88 AI could be tuned and trained on particular corpora rather than the
+general web. What would Jesus do (WWJD), in an app? What would Lee Kuan Yew do?
+What would David Ben-Gurion do? What would George Washington do?
 *
