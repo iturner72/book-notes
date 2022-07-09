@@ -434,6 +434,14 @@ talk of hit pieces and calcel culture as if they're aberrations, but they're
 actualy the core of left-authoritarian culture. Recall that the most
 prestigious thing any establishment journalist ever did was Watergate: namely,
 getting a president fired while selling millions of copies of their newspaper.
+* 100 After Watergate, the left-authoritarians knew that they were the boss of
+the boss, that they could get the president fired, that they could "hold
+someone accountable" -- and, conversely, that no one could really hold *them*
+accountable in any way. For example, what was the punishment for printing the
+"disinformation" that led to, say, the Iraq War, or the Holodomor? Suspension
+from social media? Reparations for the dead? Or nothing? Much easier to pin it
+all on a single Nixon, or even a Stalin for that matter, than a decentralized
+mass of nameless left-authoritarians.
 * 101 The Soviets had a state-controlled press, but America now had a
 press-controlled state.
 * 103 ...an important insight is that behind many of these left-authoritarian
@@ -443,3 +451,40 @@ criticizing Laurene Powell Jobs, you won't find someone at NPR going after
 Soros, and you won't find someone at The New York Times Company that even
 publicly *admits* that their boss, Arthus Gregg Sulzberger, is a rich white
 male neoptist.
+* 103 There is a split among ble Americans. Some of them, the left-
+libertarians, are actually best modeled as people of the Network -- meaning,
+the social network, They truly aren't primarily loyal to the Democrat party or
+even the institutions that are upstream of it, but to their community online --
+which increasingly diverges from the party line.
+* 105 The three-legged stool of Reaganism -- the religious conservatives, the
+secular nationalists, and the internationalist capitalists -- side with the
+God, State, and Network Leviathans respectively.
+* 107 Red State: Secular Nationalists
+    * These are the national security hawks, the people who may not like the
+left-authoritarians but who will nevertheless reflexively support the US in
+every foreign intervention.
+    * ...after all, they aren't vurning their own country down! -- but
+unfortunately, on foreign policy they are helping to burn down *other*
+people's countries, and often for no good reason.
+* 110 It's really crucial to understand that the US establishment is *not*
+more ethical than the CCP when it comes to civil liberties. It's just less
+competent!
+* 112 Red Network: Internationalist Capitalists
+    * We identify them as people of the Network. Today that kind of capitalism
+is almost synonymous with internet startups and technology. The most valuable
+companies in the world were born on the Network. And the future of network
+capitalism is crypto-capitalism, because it's not just rransactions that can
+be represented on-chain -- it's entire financial statements, and companies
+themselves, and eventually the entire economy.
+    * On balance, I'm sympathetic to this group as well, but it has its own
+internal issues. For one thing, Bitcoin Maximalism in particular is similar to
+Woke Capital in its fundamentalism.
+* 112 Red State vs Red Network
+    * ...in the event of any conflict between the Network and the State, such
+as a possible struggle between the inflating dollar and the deflationary
+Bitcoin, the right-statists could take the side of the national flag while the
+right-capitalists take the side of the digital currency.
+    * If we add up all these pieces, we get a possible future where the left-
+and right-libertarians from both parties line up against the left- and
+right-authoritarians.
+*
