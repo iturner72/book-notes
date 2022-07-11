@@ -487,4 +487,181 @@ right-capitalists take the side of the digital currency.
     * If we add up all these pieces, we get a possible future where the left-
 and right-libertarians from both parties line up against the left- and
 right-authoritarians.
-*
+* 117 You can think of the "people of the Network" as technological
+progressives, and the "people of the State" as political progressives
+(charitably) or technologica conservatives (perhaps more realistically).
+* 117 ...the people of the Network start by thinking about getting a *piece of
+the network* to call their own. A domain name, something they can build up from
+scratch, starting with a bare website like reddit.com and ending up with a
+massive online destination that everyone voluntarily seeks out. The primary
+goal of the technological progressive, the tech founder is to build -- and for
+no one to have power over them.
+* 120 ...there *was* a period from roughly 1933-1970 when the centralized US
+gvernment did the Hoover Dam, the Manhattan Project, and Apollo. The transistor
+and early internet came out of this era as well. And there were some later
+innovations also catalyzed by the State (albeit often by non-bureaucrats who
+managed to commandeer bureaucrat funds) like the Humane Genome Project and the
+self-driving car.
+* 120 ...it's also true for the period *before* the (well-intentioned)
+Vannevar Bush memo that kicked off the government centralization of science.
+After all, most of physics -- from Newton to Maxwell to Einstein -- was
+discovered before the National Science Foundation (NSF) was even created.
+* 121 ...it's true that there was a period mid-century where all other actors
+besides the US and USSR were squashed down and centralized states dominated
+innovation. But it's not because they were necessarily better at *innovating*,
+it's because they were better at *dominating*, due to the centralized tech of
+that time. It was more about the Enormous State than the Entrepreneurial State.
+And that's why the technological progressives of the Network don't reflexively
+genuflect before the political progressives of the State.
+* 123 ...as Ray Dalio has noted, things may not stay flat in historical terms
+for long. As such, the blue and red statists may be in for a rude shock. Using
+the lens of the Leviathans, they really think their God, the State, can never
+fail.
+
+### If the News is Fake, Imagine History
+* 126 If the News Fake, Imagine History
+    * Remember the "oops" on the Iraq War, after the media corporations that
+were supposed to "hold the government accountable" instead helped justify the
+invasion of Iraq under false pretenses?
+    * Remember the thousands of reports on "Russiagate" that completely
+disappeared after the Mueller report?
+    * Remember when the NYT said Hillary Clinton had a 91% chance to win,
+giving the strong impression that the 2016 election wasn't even close?
+    * Remember when they said YouTube's remaining freedom of speech was a bad
+thing in the US, and then praised its freedom of speech the next day when it
+was helpful in getting their content into Russia?
+    * Remember when Kara Swisher reported that innocent high school student
+Nick Sandmann had done something wrong for merely standing still in front of a
+man who strode up to him pounding a drum?
+    * Remember when Kara Swisher's Recode also said COVID-19 was "contained,"
+before it ended up killing more than a million Americans?
+    * Remember all the official disinformation on COVID, how they called people
+racists for warning about it, and said that masks didn't work before they did?
+    * Remember when everone switched sides on vaccines, and everything else
+related to COVID, as Michael Solana ably chronicled here?
+    * Remember when the US establishment published reports credulously
+predicting that inflation would be transitory?
+    * And remember when there was minimal mainstream coverage of the 2017
+battle for Mosul, the world's largest military operation since the invasion of
+Iraq in 2003, the war that Obama was supposed to have ended?
+* 128 In each of these cases, we have something predicted to go to zero that
+ends up at millions, or certainty that winds up a nullity, or a hot war
+featuring the US military and 482 suicide car bombings that somehow registered
+on the public consciousness as zero.
+* 128 *Channel distortion*. That which favors the US establishment is magnified
+100X, while that which disfavors it is downranked 100X or silenced entirely,
+such that the net distortion is 10,000X or more. We can think of this as
+analogous to *channel distortion* in signal processing. Megia corporations
+aren't just censors, they're *sensors* - and self-interested ones.
+* 129 *Narrative alignment*. The way the establishment determines what to put
+on the front page out of millions of possible stories should remind you of the
+political power theory of history. It's only things that support the narrative:
+their favored state policies will always succed, thir disfavored tech
+competitors will always fail, their errors are hoest mistakes, your errors are
+firing offenses, the opponents of the establishment are x-ists and traitors,
+free speech is the enemy, and so on.
+* 129 *Power over truth*. In these incidents, if you stop to count, you often
+realize that the reports were off not by say 50%, but by 1000X or more. Why do
+these "reporters" still have their jobs, then? Because their job wasn't to
+make money, but to make power.
+* 132 ...in the 1990s and 2000s, the American establishment could seem to eat
+its cake and have it too -- enjoying the rhetorical windfall of claiming to
+have a free society, while in practice holding an enormous distribution
+advantage over the common man ("never argue with a man who buys ink by the
+barrel").
+* 132 The Establishment Launched the Counter-Decentralization
+    * ...in 2013, the techlas plus the Great Awokening, by what Jack Bratich
+calls a "war of restoration" by an establishment that had been economically
+disrupted by the Network but that retained the capability to morally denounce
+its enemies.
+    * Their rivals were basically everyone -- tech, Trump, China, Russia,
+Israel, Brazil, Hungary, Brexiteers, Macron -- everyone that wasn't a loyal
+part of the US establishment's social network.
+    * America's establishment spent down huge amounts of reputation, but they
+managed to wokify Google, Amazon, Apple, and the major tech companies,
+deplatform Trump and get him out of office, and terrorize the country with
+massive riots.
+* 134 Here are some quick links that may surprise you about the past:
+    * In 1958, President Nasser of Egypt laughed at the idea that Egyptian
+women would eber be forced to wear the *hijab*. Surprise: the Muslim world was
+far more secular within livnig memory.
+    * AferWorld War 2, Operation Paperclip put reformed German scientists to
+work on the American space program. Surprise: the real *Hidden Figures* were
+Nazis.
+    * Germany sponsored Vladimir Lenin, and bankers in New York funded Leon
+Trotsky to foment the Russian Revolution. Surprise: the Russian Revolution
+wasn't done wholly by Russians.
+    * The Ochs-Sulzberger family, which owns The New York Times Company, owned
+slaves but didn't report that fact in ther 1619 coverage.
+    * New York Times correspondent Walter Duranty won a Pulitzer Prize for
+helping the Soviet Union starve Ukraine into submission, 90 years before the
+Times decided to instead "stand with Ukraine."
+    * Herbert Matthews, also a New York Times correspondent, helped Castro win
+power in Cuba, leading the murderous Cuban revolution and the subsequent Cuban
+missile crisis that almost resulted in nuclear war.
+    * Another American "journalist," Edgar Snow, wrote books such as *Red Star
+Over China* that praised Chairman Mao to the havens before, during, and after
+Mao embarked on programs of mass murder and collectivization.
+    * The "liverating" Soviet Red Army raped its way across Eastern Europe in
+the 1940s, the same communists that The Times extolled as giving women a
+"better sex life" in its 2017 anniversary series on the Russian Revolution.
+* 139 More than 20 years ago, *Reason Magazine* ran a story that still holds up
+well today, called *Hollywood's Missing Movies*, about how the film industry
+airbrushed the drama of the Cold War out of the 20th century. So it's not just
+that the movie industry ran positive prtrayals of US establishment journalists,
+they also ran positive portrayals of out-and-out communitsts.
+* 141 Some reading on techno-economic history:
+    * patrickcollison.com/fast - how fast construction once was.
+    * wtfhappenedin1971.com - how many economic indicators went off track in
+1971, around the time the US got off the gold standard.
+    * J Storrs Hall: *Where's My Flying Car?* - how the world used to be on an
+icreasing energy production curve till the regulatory varrier of the 1970s.
+    * Matt Ridley: *How Innovation Works* - how tech founders always had to
+fight against the establishment, much like the present day.
+    * William Rees-Mogg and James Dale Davidson: *The Sovereign Individual* -
+how the centralized power of the 20th century is actually historically
+aberrant.
+    * Ray Dalio: *Principles of the Changing Economic Order* - how today's
+America resembles the Dutch and British empires of the past in terms of its
+monetary overextension.
+    * Peter Turchin: *Ware and Peace and War* - how quantitative methods can
+identify recurrent cycles.
+    * William Straus and Neil Howe: *The Fourth Turning* - how a cyclic theory
+of history forecasts a serious American conflict in the 2020s (written in the
+mid-1990s).
+    * Brian McCullough: *How the Internet Happened: From Netscape to the
+iPhone* - reminds us that the tech era is very new, only really about 10 years
+old, and only began in earnest with iPhone adoption.
+    * Kai-Fu Lee: *AI Superpowers* - how the recent history of the Chinese tech
+buildout in the 2010s shows that they aren't just copycats.
+* 142 Some reeading on *20th Century* history:
+    * Curtis Yarvin: *Unqualified Reservations* - a broad survey of Western
+historical anomalies, with a focus on the 20th and 19th centuries.
+    * Aleksandr I. Solzhenitsyn: *The Gulag Archipelago* - what the Soviet
+Union was actually like.
+    * Yuri Slezkine: *The House of Government* - how the Soviet Union actually
+worked.
+    * Janet Malcom: *The Journalist and the Murderer* - how journalists
+"befriend and betray" their subjects for clicks, a book taught in journalism
+schools as something of a how-to manual.
+    * Antony C. Sutton: *Wall Street and the Bolshevik Revolution* and *Wall
+Street and the Rise of Hitler* - how different groups of capitalists funded
+the communist and fascist revolutions respectively.
+    * Ashley Rindsberg: *The Gray Lady Winked* - how the New York Times
+systematically misrepresented the truth over the 20th century.
+    * Nicholson Baker: *Human Smoke* - how World War 2 was far more brutal and
+confusing than conventionally conveyed in textbooks.
+    * Ion Grillo: *El Narco - Inside Mexico's Criminal Insurgency* - how
+Mexico is far more beset by violence than commonly understood, and how this
+relates to recent Americal influence.
+    * Wolfgang Schivelbush: *Three New Deals* - how Roosevelt's New Deal was
+directly inspired by fascist Italy and Germany.
+    * Frank Dikotter: *The Cultural Revolution* - how Mao's cultural revolution
+resembles the wokeness of modern America, with te BLM riots of 2022 proving
+particularly similar.
+    * Amity Shlaes: *The Forgotten Man* - how FDR's "bold, persistent
+experimentation" helped turn a recession into a Great Depression.
+    * Adem Fergusson: *When Money Dies* and Mel Gordon: *Volutous Panic* - the
+monetary and cultural character of the Weimar Republic, and how it resembles
+present day Emerica.
+
