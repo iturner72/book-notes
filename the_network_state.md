@@ -663,5 +663,65 @@ particularly similar.
 experimentation" helped turn a recession into a Great Depression.
     * Adem Fergusson: *When Money Dies* and Mel Gordon: *Volutous Panic* - the
 monetary and cultural character of the Weimar Republic, and how it resembles
-present day Emerica.
+present day America.
+
+### Fragmentation, Frontier, Fourth Turning, Future is Our Past
+* 146 ...a movie like 2011's *Contagion* that depicts a competent CDC is now
+just too far away from reality to permit suspension of disbelief. So insead we
+get a movie like 2021's *Don't Look Up*, which depicts a chaotic America that's
+still somehow the center of events, still the country which the world relies on,
+but whose internal chaos causes it to fall short.
+* 148 Fragmentation Thesis
+    * *The Sovereign Individual*, written in 1999, is an incredible book that
+nailed many aspects of our digital future decades in advance, Bitcoin prime
+among them.
+    * ...in short the thesis is that after many generations in which technology
+favored centralization (railroads, telegraph, radio, television, movies, mass
+production) since about 1950 it is now favoring decentralization (transistor,
+personal computer, internet, remote work, smartphone, cryptocurrency).
+    * At the time, the mid-century US was more corporatist than
+entrepreneurial. Yes, the system was capitalism. It was all about joining the
+big company and working your way up, not founding one, except for the rare and
+just beginning startup phenomenon on the West Coast, which was a million-fold
+less common than it is now.
+* 149 The Frontier Thesis
+    * In the late 1900s, Fredrick Jackson Turner gave an influential talk on
+the concept of the frontier as the crucial driving force in American history.
+At that time, it was understood that the free land of the frontier was crucial
+to the US in several ways - as a way for the abmitious to seek their fortunes,
+as a national aspiration in the form of Manifest Destiny, as a bare land for
+social experiments.
+    * Today of course, the concept of the frontier and Manifest Destiny is not
+only not admired, but has been pathologized since the 60s by the same
+deconstructionism that is one half of wokeness. You know the story: the
+American frontiersmen, like Columbus before them, were racists, colonialists,
+and imperalists.
+    * It's old-fashinoned, but it's probably healthier to think of the Native
+Americans more like the 300 Spartans than as helpless victims - brave warriors
+who fought valiantly but lost to superior forces.
+    * Humanity managed to survive through a bloody 20th century. After 1991,
+the frontier *reopened* as commerce on the internet was legalized. By the late
+2010s, the combination of centralization and wokification (in the West) and
+Xi-ification (in China) threatened to close this frontier too, but BTC and
+web3 and the open metaverse have given the digital frontier a new lease on
+life.
+* 154 The Fourth Turning Thesis
+    * *The Fourth Turning* and *Ages of Discord* both predict very significant
+unrest within the US in the coming years. Ray Dalio does aas well in
+*Principles for Dealing with the Changing World Order*, though he confines
+most of his comments to monetary apocalypse. Their models are somewhat related.
+    * *The Fourth Turning* came out in 1997 and is based on a quasi-cyclical
+theory of Anglo-American history, where conflict erupts roughly every 75 years.
+    * If you believe in these patterns and want a possible underlying driver of
+them, 75 years is about one long human lifespan. So perhaps those who do not
+remember history really *are* doomed to repeat it.
+* 155 The Future is Our Past Thesis
+    * Today, the internet frontier reopens; back then, the western frontier
+closed.
+    * Today, we experience COVID-19; back then we experienced the Spanish Flu.
+    * Today, we have tech billionaires; back then we had the captains of
+industry.
+    * Today, founders like Elon Musk and Jack Dorsey seem to be winning against
+establishment jouralists; back then, the likes of Ida Tarbell demagogues and
+defeated Rockefeller.
 
