@@ -722,6 +722,27 @@ closed.
     * Today, we have tech billionaires; back then we had the captains of
 industry.
     * Today, founders like Elon Musk and Jack Dorsey seem to be winning against
-establishment jouralists; back then, the likes of Ida Tarbell demagogues and
+establishment jouralists; back then, the likes of Ida Tarbell demagogued and
 defeated Rockefeller.
+    * Today, we have cryptocurrencies; back then we witnessed the era of
+private banking
+    * Today, we have the inflation and cultural conflict of Weimar America;
+back then, we had the inflation and cultural conflict of Weimar Germany.
+    * Today, we have Airbnb; back then, we had flophouses.
+    * Today, we have Uber; back then, we had gypsy cabs.
+    * Today, The New York Times sides with Ukraine to fight nationalists
+Russia; back the, The New York Times sided with communist Russia to starve out
+Ukraine.
+    * Today, we're seeing so-far unsuccessful calls for wealth seizures in the
+US; back then, we saw Executive Order 6102, the successful seizure of gold.
+    * Today, we're seeing the rise of the pseudonymous founder and startup
+societies; back then, in the 1770s, we saw pseudonymous founders of startup
+countries.
+    * Today, we're seeing the re-encryption of the map; futher back in time,
+before 1492, maps had *terra incognita*.
+* 159 This model would explain why we're seeing an inversion: there was an
+upward arc that favored the centralized State, but now we're in the middle
+of a downward arc that favors the decentralized Network. So various historical
+events are recurring with the opposite results, like the fluid flowing in the
+reverse. And that's the thesis on how our Future is Our Past.
 
