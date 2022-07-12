@@ -867,4 +867,13 @@ your time."
 flaw, mathematical breakthrough, or quantum computer that leads to the
 irreparable failure of the Bitcoin protocol.
 
+### A Bipolar America and a Tripolar Triangle
+* 236 Communist Capital, Woke Capital, Crypto Capital
+    * Communist Capital: You must submit | CCP | RMB | Loyalty | Hard Power |
+Eastern | State | Harmony | Loyalty, Unity | AI | One leader
+    * Woke Capital: You must sympathize | NYT | USD | Voice | Soft Power |
+Western | State | Left Democracy | Elections, Protest | Social | Few leaders
+    * Crypto Capital: You must be sovereign | BTC | Web3 | Exit | Hard Money |
+Global | Network | Right Democracy | Markets, Migration | Crypto | No leaders
+
 ###
