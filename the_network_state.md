@@ -838,3 +838,19 @@ they can copy each other's proven moral innovations.
 ## Chapter 3: The Tripolar Moment
 
 ### NYT, CCP, BTC
+* 232 Today's world is becoming tripolar. It is NYT vs CCP vs BTC. That's the
+American Establishment vs the Communist Party of China vs the Global Internet.
+* 232 Woke Capital is the ideology of America's ruling class as explicated by
+America's ruling newspaper, The New York Times. It's capitalism that enables
+decentralized censorship, cancel culture, and American empire. It's
+drone-strike democracy.
+* 232 Communist Capital is the ideology of the Chinese Communist Party. It's
+capitalism cheched by the centralized power of the Chinese party-state, as
+summarized: Leninist, Confucianist, Capitalist, and Nationalist.
+* 232 Crytpo Capital is the international ideology of Bitcoin and web3. It's
+stateless capitalism, capitalism without corporations, decentralized
+censorship-resistance, and neutral international law. And it's the second pole
+*within* both the US and China, the one that domestic regime opponents align
+around.
+
+###
