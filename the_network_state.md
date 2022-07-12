@@ -809,3 +809,32 @@ it, in media, academia, nonprofits, and the unfireable civil service.
     * 26 out of 27 of the richest congressional districts
     * >77% of political donations from Facebook, Apple, Amazon, Microsoft,
 Google
+
+### The One Commandment
+* 217 Communities are Causes First, Companies Second: Every new startup society
+needs to have a moral premise at its core, one that its founding nation
+subscribes to, one that is supported by a digital history that a more powerful
+state can't delete, one that justifies its existence as a righteous yet
+peaceful protest against the powers that be.
+* 217 With the one commandment you are instead offering a *single issue*
+community, and attracting not single-issue voters but single-issue *movers*.
+* 222 Your Body, Your Choice: the post-FDA Society:
+    * This is the medical sovereignty zone, the FDA-free society.
+    * You begin your startup society with Henninger's history of FDA-caused
+drug lag and Taborrok's history of FDA interference with so-called "off label"
+prescription.
+    * You point out how many millions were killed by its policies, hand out
+t-shirts like ACT-UP did, show *Dalls Buyers Blub* to all prospective
+residents, and make clear to all new members why your cause of medical
+sovereignty is righteous.
+    * With diplomatic recognition, you could then teake the existing American
+codebase and add one crucial new feature: the absolute right for anyone to buy
+or sell any medical product without third party interference. Your body, your
+choice. That's how you'd get an FDA-free zone.
+* 229 ...so long as *some* one-commandment-based startup societies succeed,
+they can copy each other's proven moral innovations.
+
+
+## Chapter 3: The Tripolar Moment
+
+### NYT, CCP, BTC
