@@ -895,3 +895,19 @@ factories themselves are all in China.
 users -- are becoming a *media* power that will eventually topple the NYT, much
 as the 20th century US's media power eventually outcompeted that of the Soviet
 Union.
+
+### Submission, Sympathy, Sovereignty
+* 248 The CCP is the most obvious: you must submit. They're the Chinese
+Communist Party, and they're powerful, so you must bow your head.
+* 248 The NYT pole is slightly more subtle: they demand you must *sympathize*.
+After all aren't you white, or male, or straight, or cis, or abled, or wealthy,
+or a member of one of an ever-multiplying number of privileged categories --
+and therefore an oppressor on *some* dimension? Because *you're* powerful,you
+must sympathize, and bow your head to those you have ostensibly oppressed.
+* 248 The BTC pole is the opposite of both of these. It demands you must be
+*sovereign*. Thay means rather than bending to the CCP, or slitting your wrists
+as NYT demands, you hold your head up high. You hold your private keys locally,
+you don't trut centralized corporations or governments, you're self-sufficient
+and autarkic, you're living off the grid. This pole is strong on the global
+internet, though it's facing pushback from bothe CCP and NYT.
+*
