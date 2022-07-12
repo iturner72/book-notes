@@ -853,4 +853,18 @@ censorship-resistance, and neutral international law. And it's the second pole
 *within* both the US and China, the one that domestic regime opponents align
 around.
 
+### The Dated and the Timeless
+* 234 It is possible, even likely, that the US Establishment sheds its skin
+once again, downplaying wokeness and emphasizing loyalty to the state, just as
+they transitioned overnight from the "Global War on Terror" to the domestic war
+on your tweets.
+* 234 It is possible, although less likely, that George Soros, Peter Zeihan,
+Gordon Chang, and Roger Garside eventually prove right, that Xi Jinping is
+displaced from his position atop the Communist Party of China in the 2022 Party
+Congress, and/or that the CCP switches back to "Hide your strength and bide
+your time."
+* 234 It is possible, although less likely still, that there is some fatal
+flaw, mathematical breakthrough, or quantum computer that leads to the
+irreparable failure of the Bitcoin protocol.
+
 ###
