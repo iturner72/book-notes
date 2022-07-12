@@ -746,3 +746,66 @@ of a downward arc that favors the decentralized Network. So various historical
 events are recurring with the opposite results, like the fluid flowing in the
 reverse. And that's the thesis on how our Future is Our Past.
 
+### Left is the New Right is the New Left
+* 161 Marx's concept of a class struggle has been so influential that people
+don't realize that sometimes those revolutionary classes *won*, and became
+ruling classes. And then in turn fought the subsequent revolutionary classes.
+* 161 Understanding this is important if you want to build a startup society.
+Unless you are significantly differentiated from the establishment -- unless
+you have a "10X value proposition", as a venture capitalist would put it --
+you're not going to attract citizens.
+* 164 ...consent can bound the scope of moral innovation. The communist
+* revolutions of the 20th century were evil not just because of their murderous
+results, but because they ran a giant human experiment on people against their
+will. Those who wanted to opt out, to exit, were stopped by Berlin Walls a Iron
+Curtains.
+* 175 First the Republicans was concerned about the virus, and the Democrats
+were calling people racists for paying attention to it. Then once Trump
+starting saying the virus wasn't serious, positions flipped, with the Democrats
+calling for (and implementing) lockdowns and the Republicans fighting them on
+libertarian grounds. Then Trump flipped again to supporting vaccines, while
+Biden, Harris, and other Democrats said they wouldn't trust a rushed Trump
+vaccine. Then the vaccine came out (the same one developed under the Trump
+Administration's Operation Warp Speed!) and many Democrats were suddenly all in
+favor of mandating that which they once wanted to avoid, while many Republicans
+now booed this as an intolerable infringement on liberty.
+* 175 You can rationalize these twists and turns. Those who do so commonly
+invoke Keynes: "When the facts change, I change my mind -- what do you do,
+sir?"
+* 183 The Unified Cycle
+    * The left cycle starts with a group of revolutionary leftists that then
+become institutional rightists.
+    * The right cycle starts with a group of determined rightists that then
+become decadent leftists.
+    * The libertarian cycle starts wth a group of ideological libertarians that
+end up building a bureaucratic state.
+* 183 ...within our lives, we've seen many examples of a startup disrupting an
+incumbent through scrappy tactics, becoming the incumbent themselves, and then
+employing incumbent tactics to defend itself against a new wave of startups
+coming up against it.
+* 190 ...in practice, communism was slavery, because the workers had to
+surrender 100% of their earnings to te state. As such, the Stakhanov posters
+were more cynical than any capitalist breakroom infographic.
+* 190 ...be as it may, communism had *traction*. At its peak it covered "26% of
+the land surface of the globe." It was a secular ideology that commanded the
+zeal of a religious movement -- pure State-worship, in our terminology, the
+total replacement of G-o-d with G-o-v.
+* 193 ...after 1991, there was no more *centralized* left, no more communism,
+aside from holdouts like Cuba and North Korea that were of no global
+consequence. Instead it became all about the *decentralized* left, the fusion
+of the civil rights movement and Foucaltian deconstructionism, what we now
+call wokeness.
+* 193 If you;ll note, the wokes don't have a single leader like Stalin. They
+have no single book like *The Communist Manifesto*. They don't even like to be
+named. This is notable for a movement that is otherwise so interested in verba
+prestidigation, in renaming things!
+* 194 Wokes are primarily people of the Network, as their habitat is outside
+the elected State. The control circuity for the US government resides outside
+it, in media, academia, nonprofits, and the unfireable civil service.
+* 198 Democrats have:
+    * 97% of journalists' political donations
+    * 98% of Twitter employees' political donations
+    * >91% of professors in the top US universities
+    * 26 out of 27 of the richest congressional districts
+    * >77% of political donations from Facebook, Apple, Amazon, Microsoft,
+Google
