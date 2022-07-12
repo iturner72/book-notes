@@ -876,4 +876,22 @@ Western | State | Left Democracy | Elections, Protest | Social | Few leaders
     * Crypto Capital: You must be sovereign | BTC | Web3 | Exit | Hard Money |
 Global | Network | Right Democracy | Markets, Migration | Crypto | No leaders
 
-###
+### Moral Power, Martial Power, Money Power
+* 238 Back then, the Soviet Union was the moral power, the Nazis were the
+military power, and the Americans were the money power. Today NYT is the moral
+power, CCP is the martial power, and BTC is the money power.
+* 240 On the moral point, go back and look at any recent NYT headline and note
+how many of the articles involve a *moral* rather than factual premise as the
+core point. Free speech is bad, white people are bad, communism was good...this
+is the kind of thing they are focused on. And it is in this sense that NYT is
+a moral power.
+* 245 China is just better at deployment in the physical world than the US
+government or military, as we can see from (a) the public infrastructure
+comparison, (b) the multibillion dollar failures of the American Ford-class
+aircraft carrier, the F-25 manned aicraft, the Littoral Combat Ship, and the
+Zumwalt destroyer, and (c) the fact that the manufacturing know-how and the
+factories themselves are all in China.
+* 246 The less-obvious point is that BTC -- and its adjacent group of web3
+users -- are becoming a *media* power that will eventually topple the NYT, much
+as the 20th century US's media power eventually outcompeted that of the Soviet
+Union.
