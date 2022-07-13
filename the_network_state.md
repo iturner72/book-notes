@@ -1034,3 +1034,32 @@ billions of writers and sensors around the world.
 * 280 ...if you put all that together, all value is digital. Everything starts
 on the computer, generates cryptocurrency, and can be used either to buy
 digital goods or to pay robots to materialize things in the physical world.
+
+### Foreseeable Futures
+* 285 AR Glasses Bridge Physical and Digital Worlds
+    * Augmented reality glasses give you instant-on access to the digital world
+in your field of view, and perhaps darken with another touch to give you
+*virtual* reality. Anyone can teleport into or out of your field of vision with
+your consent, you can "right click" on any object to get AI-informed metadata
+on it, and you can get computer-guided instructions to execute almost any
+physical procedure from repairing a machine to sewing.
+    * AR glasses would reduce "screen" time in one sense, freeing you up to
+compute on the go without looking at a screen per se, but increase digital time
+in another sense, as people would constantly have these HUDs active to see the
+world.
+    * If combined with some kind of gesture interface, you might be able to use
+your hands to do anything in the digital realm. So, with AR glasses, the
+digital and physical realms fully blend, and people would actually be able to
+see and interact with an open metaverse in real life.
+* 287 Now anyone can create a cryptocurrency, st monetary policy, and see what
+happens. Perhaps the closest thing to experimental macroeconomics prior to
+cryptocurrency was the experience of setting up & scaling massive two-sided
+marketplaces like Airbnb, eBay, Google Ads, etc.
+* 287 Naive libertarianism and progressivism both fail. Why? Basically people
+want to make money on those platforms. They absolutely do respond to
+incentives, unlike the naive progressive model that it'll all be altruistic
+behavior. But the marketplace operator has immense power to shape incentives
+for good or ill. So the naive livertairian belief in a fully decentralized
+Hayekian order does not always come about.
+
+
