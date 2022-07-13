@@ -916,4 +916,30 @@ don't necessarily need to be dead center. For example, I'd personally err much
 closer to the sovereignty pole than our current culture, and try to develop the
 technologies to enable this.
 
-###
+### Conflicts and Alliances
+* 251 *NYT + CCP vs BTC* This is the State vs the Network. It's when the
+NYT-controlled American empitre and the CCP-controlled Chinese empire team up
+to attack BTC, perhaps on the grounds of "climate" or some other thinly veiled
+excuse to maintain state power.
+* 252 *NYT + BTC vs CCP* This is Western voice and exit together vs Eastern
+control. It's when NYT's interests in disrupting the Chinese regime and BTC's
+interests in providing globally uncensorable savings overlap to provide a thorn
+in the side for CCP. The web3 part of BTC/web3 becomes particularly important
+here, because it provides hard-to-censor global services that complement
+digital gold, which on its own is necessary but not sufficient for freedom.
+* 252 *BTC + CCP vs NYT* This is the post-American world against the American
+empire. Against the inflating dollar, China and crypto together can do
+something neither can alone. The CCP/RMB pole runs a Chinese system that is
+already at scale, cpable of operating completely outside the dollar, and based
+on a more modern digital yuan to boot. The BTC/web3 part of this aligns
+American dissidents with global crypto holders, and promotes neutral protocols
+that take away American root access (but also don't grant it to China).
+* 254 ...one of our premises is that the Indians, Israelis, American
+dissidents, Chinese liberals, tech founders/investors, and people from other
+countries that want to *maintain* their own sovereignty will need to avail
+themselves of BTC/web3 for decentralized communication, transaction, and
+computation. But to fully explain why, we'l need to go through a scenario for
+the future that isn't either remaining under the thumb of US or Chinese
+centralization, nor about crypto-anarchic decentralization, but rather about
+conscious recentralization into opt-in startup societies.
+
