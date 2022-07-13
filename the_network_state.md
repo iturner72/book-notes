@@ -910,4 +910,10 @@ as NYT demands, you hold your head up high. You hold your private keys locally,
 you don't trut centralized corporations or governments, you're self-sufficient
 and autarkic, you're living off the grid. This pole is strong on the global
 internet, though it's facing pushback from bothe CCP and NYT.
-*
+* 249 One might arguej -- and I would agree -- that while these three poles and
+their opposite three extremes are bad, thay are not all *equally* bad, and you
+don't necessarily need to be dead center. For example, I'd personally err much
+closer to the sovereignty pole than our current culture, and try to develop the
+technologies to enable this.
+
+###
