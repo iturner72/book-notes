@@ -1005,3 +1005,32 @@ technology to change humanity in fundamental ways. Conversely, anarcho-
 primitivists think technology is bad, and want to return to the wild, de-
 industrialize, and abandon technology. They think of humans as pollution on
 this great Earth.
+
+### Technoeconomic Axes
+* 271 ...over the last 20 years, we've gone from 30 minute sitcoms to 30 second
+clips and 30 episode Netflix binges. From a stable 9-5 job to a gig economy
+task or a crypto windfall. From a standard life scripts to 30 year olds living
+with their prents and 20 year old startup CEOs.
+* 271 One analogy is to a centrifuge. If you take a sample of biological fluid
+from your body and centrifuge it, you'll see a bunch of layers that were
+previously mixed together. Then they all get separated out. That's what the
+internet is doing to society, to institutions. It's just centrifuging it into
+its constituent parts, whether that b albums separated into songs or newspapers
+disaggregated into artcles.
+* 275 The digital transition happens in three phases: there's the physical
+version, the intermediate form, and then the internet-native version. If you're
+into electrical engineering, you can think of this as analog, to
+analog/digital, to natively digital.
+* 276 *Dashboards > newspapers*. If you are in tech, the first thing you look
+at each day may be a personal or company dashboard, like your fitbit or your
+sales. This is *good*. The first thing you look at each day shouldn't be random
+stories someone else picked. Should be carefully selected metrics you want to
+improve. This is a good vector of attack to definitionally disrupt newspapers.
+* 276 *on-chain event feeds > Twitter > newspapers*. Because news breaks on
+Twitter. So, eventually, the next kind of newspaper will look something like a
+cryptographically verified version of Twitter. The first draft of history will
+be the raw on-chain event feed, written directly to the ledger of record by
+billions of writers and sensors around the world.
+* 280 ...if you put all that together, all value is digital. Everything starts
+on the computer, generates cryptocurrency, and can be used either to buy
+digital goods or to pay robots to materialize things in the physical world.
