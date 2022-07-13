@@ -943,3 +943,55 @@ the future that isn't either remaining under the thumb of US or Chinese
 centralization, nor about crypto-anarchic decentralization, but rather about
 conscious recentralization into opt-in startup societies.
 
+
+### Chapter 4: Decentralization, Recentralization
+
+## The Possible Futures
+* 256 It's not about *the* future, it's about the *possible* futures.
+* 256 ...any tale of the past is necessarily abridged, abbreviated, edited, and
+idiosyncratic. You can't convey 5000 years of written records any other way.
+And our tale of *History as Trajectory* is no different: it's like the "why
+now" slide at the beginning of every entrepreneur's deck, a practical history
+of particular events that lead to the feasibility of the network state. But we
+cited our references, so you can check our facts.
+* 256 Think of the *Tripolar Moment* chapter as being very much a worldview
+circa mid-2022; like the Kalman filter, we reserve the right to incorporate
+new information to update it.
+* 256 First, *volatility* is rising because the internet increases veriance.
+Social media is social volatility (go viral or get canceled), and
+cryptocurrency is financial volatility (go to the moon or get rekt). Volatility
+makes correct predictions more difficult, but offers upside for those who
+predict correctly.
+* 258 We aren't as interested in betting on manipulation-prone government
+statistics. According to the Chinese government of 2021, the number of COVID
+deaths in China from mid 2020-2022 was zero. According to the San Francisco
+government of 2021, the crime rate in SF was declining. According to the US
+establishment of 2021, the inflation of the dollar was transitory. All this
+reminds us of the Soviet government of 1932, who said the harvest in Ukraine
+was glorious.
+* 260 We then game out one specific science fiction scenario in detail that we
+think is unfortunately quite plausible: *American Anarchy, Chinese Control,
+and the International Intermediate*. In this scenario, we project a Second
+American Civil War triggered in part by a broke US government that attempts
+Bitcoin seizures, a situation we call American Anarchy. Unlike the first Civil
+War, this would be a stochastic struggle between two Networks rather than an
+explicit dispute betweeen two States.
+* 261 Think of the American-Anarchy-vs-Chinese-Control scenario as a strong
+form model of how NYT, BTC, and CCP could collide, with startup societies and
+network states arising out of that atom-smasher as deliberately created
+alternatives to Wokeness, Maximalism, *and* Chinese Communism.
+* 261 our goal in thinking all this through is not pessimistic but pragmatic:
+to change what we can change, by setting up a fourth pole as an alternative to
+the failing US establishment, to maximalist crypto-anarchy, *and* to the
+centralized surveillance state of the CCP.
+* 261 We call the raw material for this fourth pole the *International
+Intermediate*. It includes American centrists, Chinese liberals, Indians,
+Israelis, web3 technologists, and essentially everyone from around the world
+that wants to avoid both the American and Chinese whirlpools.
+* 263 ...the rest of the world will need to lead. They can't hope for the US
+establishment or CCP to figure it out. And that's the *Recentralized Center*:
+a circle of startup societies and network states built by pragmatic founders,
+a group of high-trust communities architected as intentional alternatives to
+failed states and surveillance states alike.
+
+
