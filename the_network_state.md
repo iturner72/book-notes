@@ -1026,7 +1026,7 @@ at each day may be a personal or company dashboard, like your fitbit or your
 sales. This is *good*. The first thing you look at each day shouldn't be random
 stories someone else picked. Should be carefully selected metrics you want to
 improve. This is a good vector of attack to definitionally disrupt newspapers.
-* 276 *on-chain event feeds > Twitter > newspapers*. Because news breaks on
+* 276 *On-chain event feeds > Twitter > newspapers*. Because news breaks on
 Twitter. So, eventually, the next kind of newspaper will look something like a
 cryptographically verified version of Twitter. The first draft of history will
 be the raw on-chain event feed, written directly to the ledger of record by
@@ -1062,4 +1062,140 @@ behavior. But the marketplace operator has immense power to shape incentives
 for good or ill. So the naive livertairian belief in a fully decentralized
 Hayekian order does not always come about.
 
-
+### American Anarchy, Chinese Control, International Intermediate
+* 289 Squint past the pandemic's half-ignored, TSA-like COVID regulations and
+you saw a half-ignored, TSA-like COVID regulator - namely, a failing state that
+people did half-ignore, and arguably had to half-ignore, because the USA itself
+was now the TSA, and the TSA, they knew, was safety theater.
+* 289 Today, in the territory governed by this inept bureaucracy, we now see
+    power outages, supply-chain shortages, rampant flooding, and uncontrolled
+    fires. We see roits, arsons, shootings, stabbings, robberies, and murders.
+    We see digital mobs that become physical mobs. We see a complete loss of
+    trust in institutions from the state to the media. We see anti-capitalism
+    and anti-rationalism. We see states breaking away from the US federal
+    government, at home and abroad. And we see the End of Power, the Revolt of
+    the Publi, and the defeat of the military, the inflation of the dollar, and
+    -- looming ahead - an American anarchy
+* 290 ...many non-whites will switch sides from Democrat Blue to Bitcoin Orange,
+    because whether black, white, Latino, or Asian, everyone's savings will be
+    crushed by inflation.
+* 291 The US is not really a "nation state" any more, but a binational country
+    comprised of two warring ethnic groups that disagree on fundamental moral
+    premises. It is about "god, gays, and guns", but it's also about censorship,
+    surveillance, and inflation.
+* *State capacity is way down*. The competent America of mid-century, the
+    left/right fusion that FDR put together, the America that combined a
+    powerful centralized state with social conservatism, the America depicted in
+    countless movies, the America that won World War Two and the Cold War --
+    that country is over. This US government can't build a bathroom in San
+    Francisco, let alone a cost-effective fighter jet, destroyer, combat ship,
+    or aircraft carrier.
+* 291 *Economic prosperity is declining*. All the political infighting of the
+    last decade happened during a period of relative prosperity, even if it was
+    based on the artificial expedient of printing money. But now that we face
+    potentially years of inflation and stagnation, unhappiness will increase.
+    Already you're seeing articles coming trying to acclimatize people to lower
+    standards of living, to "eat bugs and live in a pod." And Turchin's
+    cliodynamical graphs put numbers to these feelings.
+* 292 *Envy is increasing*. This is normally phrased in terms of "inequality",
+    and that is indeed one way to look at it, but let's rotate it by a few
+    degrees and talk about *envy*. The return of great fortunes, the rise of
+    social media, and the decline in religion has led to escalating envy. Every
+    day, people can see others online who appear to be better off than they are,
+    and who appear to be rising while they are falling. Whether that rise is
+    real or not, whether it is due to the other person's own efforts or not --
+    it doen't really matter to the person who feels they aren't getting ahead,
+    who feels they are falling behind.
+* 292 *Foreign military defeat looms*. I remarked on this is early 2021, months
+    before the defeat in Afghanistan gave yet another example of the gap between
+    US military rhetoric and reality, where Kabul wan't going to fall in a few
+    days and then it did.
+* 292 *US states are pulling away from the feds*. ...there *has* beena
+    multi-decadal trand wherein states have been pulling away from the federal
+    government and each other on matters lik guns, immigration, abourtion,
+    gambling, marijuana, and other matters.
+* 294 *Authority has lost respect*. The old American left said something like
+    "we all need to work for the common good" while the old right said something
+    like "pay your dues and you'll achieve the American dream." The new left
+    says "we are all equal" and the new right says "you ain't the boss of me."
+* *National divorce is discussed*. Secassion is now officially part of the
+    platform for Texas' Republicans. And there have been an increasing number of
+    pieces on the topic of "national divorce" from Democrats and Republicans
+    alike...
+* 294 *Radicalized movements reject the status quo* Bitcoin Maximalism is by far
+    the most important ideollogy in the world that many people haven't heard of
+    -- yet. There's philisophical depth to Maximalism. It represents a
+    root-and-branch rejection of the inflation that powers the US government and
+    thus pays for everything. It fuses the worldview of Mises, Rothbard, Hayek,
+    and Ron Paul with Bitcoin. It naturally aligns with the loss of trust in
+    institutions, with the suspicious individual who (understandably!) no longer
+    trusts the federal government of US institutions on anything. ...it's a push
+    from an ideological direction the Wokes are ill-prepared for, because it's
+    an aracial ultra-libertarianism rather than the white nationalism that folks
+    like Marche and Walter *think* will be their foe.
+* 295 I disagree with the fndamental moral premise of Maximalism (as do I (
+    iturner.eth hahaha)), which is that Bitcoin is the only coin and all other
+    digital assets are sins. I don't believe in one coin anymore than I believe
+    in one state or one god. But I understand the power that such a belief
+    system has. Americans don't believe in one god anymore, don't believe in
+    monotheism. So their choice is between on state and one coin, between
+    ideological monostatism and mononumism.
+* 297 *Bitcoin seizure could be the trigger event*. ...one I see as particularly
+    likely is a combination of (a) ruinous inflation followed by (b) a soaring
+    BTC/USD pri and then (c) the attempt by an insolvent federal government to
+    seize Bitcoin from citizens.
+* 298 ... the general concept of asset seizure isn't really even very sci-fi
+    given the overnight freezing of funds for Canadian truckers and 145M Russian
+    nationals. The main difference is that cryptocurrency is built to be hard to
+    freeze. A bankrupt state can and will try to seize funds held at centralized
+    exchanges, but fr those that have taken their funds off exchanges, the state
+    will need to go house-to-house, and rubber hoses don't scale.
+* 298 A US establishment attempt to seize Bitcoin in a time of high inflation
+    would be like a repeat of FDR's gold seizure (Executive Order 6102), except
+    it's be done during a time of *declining* state capacity rather than rising
+    centralization.
+* 302 Bitcoin Maximalism is a movement that knows it can't "Make America Great
+    Again", because that America no longer exists and perhaps never did, so it's
+    willing to take the entire fiat system down.
+* 308 The Path to Chinese Control
+    * *Shutting down opposition across the spectrum*. Whether that opposition is
+        Maoist (like Bo Xilai), democratic (like Hong Kong and Taiwan), Islamic
+        (like the Uighurs), Christian (like the churches), technologist (like
+        Jack Ma and other founders), or even ultra-nationalist, the CP stands at
+        the middle of an ideological circle and constantly monitors everyone for
+        deviation.
+    * *Inculcating Chinese nationalism*. Just as the US has gone through the
+        Great Awokening snice 2013, Chinese society has been driven by Xuexi
+        Qiangguo into a phase of ultra-nationalism. There is opposition to this
+        internally, but it remains to be seem whether it actually *flips* the
+        nationalism or simply moderates it.
+    * *Building a surveillance state*. Much has been written on this, but the
+        sheer scale of what has been built in't well understood.
+    * *Hooking it into AI*. Read Kai-Fu Lee's AI Superpowers and supplement it
+        with Dan Wang's letters.
+    * *Piloting the system during COVID*. The green/yellow/red health codes
+        rolled out on WeChat during the early days of COVID are used for travel
+        restrictions - and have been repurposed to simply prevent people from
+        traveling in a deniable way.
+    * *Cutting off digital and physical exit*. Misbehavior in China can get you
+        removed from WeChat, which is like unpersoning you given how many
+        services it's hooked into, public and private. More recently, China has
+        repeatedly make it difficult to leave the country on the grounds that
+        doing so would spread COVID: "Trips in or out of the country made by
+        mainland citizens in 2021 plunged nearly 80% compared with the level in
+        2019, NIA data showed."
+    * *Selling to other governments*. Both China and the US have sold
+        surveillance technology to the globe, but one difference is that China
+        can execute better in the physical world - so smart cities built with
+        Chinese technology have full-stack surveillance.
+    * *Justifying as anti-imperialism*. The educational system and the
+        big-screen movies like *Battle of Lack Changjin* and *Wolf Warrior 2*
+        posision China as defending itself from Western Imperialism.
+    * *Pointing to relative stability*. The "Harmonious Society" narrative begun
+        under Hu Jintao has been mentioned less in an international context by
+        Xi Jinping, who has not exactly been pursuing harmony abroad.
+    * *China Coup could be the trigger event*. The US establishmet has put out
+        videos and articles that come close to calling for a coup in China.
+        George Soros broadly hints at it in speeches. And folks like Roger
+        Garside literally wrote a book on it.
+*
