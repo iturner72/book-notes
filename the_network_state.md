@@ -994,4 +994,14 @@ a circle of startup societies and network states built by pragmatic founders,
 a group of high-trust communities architected as intentional alternatives to
 failed states and surveillance states alike.
 
-
+### Sociopolitical Axes
+* 264 New sociopolitical axes are emerging. Seeing the world through old lenses
+risks being caught blindsided by the political equivalent of a runaway truck.
+People who thought the financial crisis of 2008 was unthinkable just weren't
+looking at the right graphs. Michael Burry was, though.
+* 266 An important emerging political axis is transhumanism versus anarcho-
+primitivism. Transhumanists think technology iis good, and want to use
+technology to change humanity in fundamental ways. Conversely, anarcho-
+primitivists think technology is bad, and want to return to the wild, de-
+industrialize, and abandon technology. They think of humans as pollution on
+this great Earth.
