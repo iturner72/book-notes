@@ -1213,3 +1213,47 @@ was now the TSA, and the TSA, they knew, was safety theater.
     the many billions of people in the International Intermediate can align
     around web3 to try to build alternatives to American Anarchy and Chinese
     Control. And that subset we call the *Recentralized Center*.
+
+### Victory Conditions and Surprise Endings
+* 317 ... let's start with a famous libertarian story: "The Pencil." The idea
+    is that no one person can make a pencil. After all, a seemingly simple
+    pencil is composed of wood,graphite, yellow paint, the metal that contains
+    the eraser, and the eraser rubber itself. But creating each of these things
+    in-house would require running a variety of different agricultural and
+    mining operations. So instead of having one person do all of that, the
+    capitalist system makes a pencil in a "networked" way. We use prices as an
+    API, to that different organizations can spin up, produce components in a
+    cost-effective way, use their profits to grow oir maintain themselves, and
+    adapt without coordinating with each other.
+* 317 If you run a two-sided marketplace, you'll find contra Hayek that not
+    *all* knowledge is local. For example, Sidecar lost to Uber because drivers
+    set prices themselves, as opposed to setting them centrally. Hayekians would
+    agree that Disecar's approach was optimal: drivers have local knowledge and
+    central planning can't work. But Uber's centrall planning *did* work. They
+    had a global view of supply and demand. And riders wanted speed, not price
+    shopping.
+* 318 ..."the supply chain" become actual computable objects when you have every
+    transaction and vendor in the same database. Basically, all the blockchain
+    supply chain concept actually *could* work, but only if all payments (and
+    hence receipts) are on-chain -- or in something *like* a blockchain, which
+    is what the digital yuan may be. China can algorithmically coordinate the
+    supply chain of millions of cooperating humans in a way no one has ever been
+    able to do before...It's essentially the vision of *Red Plenty*,
+    Soviet-style central planning made feasible with superior computation *and*
+    robotics -- so that the robots actually did what you said they'd do, and
+    didn't have that pesky self-interest getting in the way like humans did.
+    It'd be a riff on Aaron Bastani's fully automated luxury communism, where
+    the communistic parts would be the robotic parts -- as they would lack any
+    economic interests of their own, and move as one.
+* 320 I don't like this world, because it cuts against the convenient scenario
+    that obtained in the late 20th century, where the system that produced
+    freedom also produced prosperity. But the experience of two-sided
+    marketplaces shows it is a possibility.
+* 320 A key thesis of *The Sovereign Individual* - and an important argument for
+    Bitcoin and cryptocurrencies more generally - is that if a government cannot
+    seize money, then it cannot start wars. Why? If a state can't coerce, it
+    can't pay to enforce conscription, or pay the conscripts themselves, or
+    seize the money to pay for all the equipment needed to prosecute the
+    expensive industrialized wars of the 20th and early 21st century.
+
+###
