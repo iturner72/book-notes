@@ -1257,7 +1257,6 @@ was now the TSA, and the TSA, they knew, was safety theater.
     expensive industrialized wars of the 20th and early 21st century.
 
 ### Towards a Recentralized Center
-
 * 323 Recentralization is not about going full circle and making zero progress.
     It's the helical theory of history. Recentralization, done right, is a cycle
     back to centralization from one vantage point but a step forward from
@@ -1281,4 +1280,206 @@ was now the TSA, and the TSA, they knew, was safety theater.
     concepts, charts, calculations, and citations that suggest big changes are
     in the offing? And what might a network state even look like?
 
-###
+### On Nation States
+* 328 The most obvious definition is that a nation state is a geographic region
+    of the world ruled by a group of humans we call a government. It's what we
+    talk about when we refer to "countries" like the United States of America
+    and the People's Republic of China. It's a flag-labeled region on a
+    political map of the globe.
+* 332 The six essential parts of the stats: borders, population, central
+    government, international sovereignty, diplomatic recognition, and the
+    domestic monopoly on violence.
+* 332 Understanding the term "nation state" requires us to distinguish the
+    nation (a group of people with common descent, history, culture, or
+    language) from the state (their givernment). They are not the same.
+* 333 In a sense, the nation and the state are as different as labor and
+    management in a factory. The former are the masses and the latter are the
+    elite.
+* 336 What is a Nation?
+    * Oxford's definition: A large body of people united by common descent,
+    history, culture, or language, ingabiting a particular country or territory.
+    * *A large body of people*: has to be of a substantial size (10-100k+?)
+    * *united*: members see themselves as being part of the same group.
+    * *common descent*: shared genetics, have intermarried more with each other
+        than people outside the nation.
+    * *(or) history*: shared past, have lived near each other for some time.
+    * *(or) culture*: shared dress, food, mannerisms, religion, and/or customs.
+    * *(or) language*: shared spoken and/or written tongue.
+    * *inhabiting a particular...territory*: found in a specific region of the
+        globe.
+* 339 Examples with variation
+    * nations *with* states (Japanese, Spanish)
+    * nations *without* states (Kurds, Catalonians)
+    * nations with *partially sovereign* states (Taiwan)
+    * multiethnic states that are trying to create *proposition nations*
+        (America, Singapore, France)
+    * imposed multiethnic states that don't even have a proposition to bind them
+        (many "states" formed as shotgun marriages in the aftermath of European
+        colonialism)
+    * civilization states that are multiethnic, but have *long-standing cultural
+        ties* that unify their constituent nations (China, India)
+* 340 A Philosophical Approach
+    * *Rousseau*: if a group of people boluntarily consents to being bound by
+        the same governing authority, they are a nation.
+    * *Marx*: a nation is a convenient group supported by a Great Power to
+        destabilize a rival. Regarding communism, the nation is a group to lead
+        to aquire political supremacy and a boundary to transcend to unite the
+        proletariat.
+    * *Locke*: if two groups lay claim to the same territory, the more "rational
+        and industrious" should be considered a nation.
+    * *John Stuart Mill*: if a group consents to the same governing authority,
+        and is capable of attaining control over a piece of land, they should be
+        considered a nation. Mill's concept of utility, however, trumps consent.
+    * *Hegel*: a nation is formed by its institutions imbuing a sense of shared
+        ehtics. War tests that ethical duty and is not inherently evil, but a
+        natural condition of anarchic interstate relations.
+    * *JG Herder*: IF a group shares language and descent, it is a nation, a
+        concept known as primordialism. Moreover, small nations should be
+        independent from larger nations that want to assimilate them into
+        different languages.
+    * *JG Fichte*: like Herder, seperate languages and ethnicities define
+        separate nations. Moreover, a state can build a nation through
+        education, guiding the populace towards a shared cultural and linguistic
+        identity.
+    * *Ernest Renan*: a nation is those with "common glories" and sacrifices in
+        the past and "the will to continue them in the present." The existence
+        of a nation is represented by a "daily plebiscite" that constitutes the
+        *present consent* of a people.
+    * *Ernest Hellner*: nations are peoples sharing (via schooling) language,
+        culture, and forms of communications particularly adapted to modern
+        society.
+    * *Benedict Anderson*: nations are just social constructs, imagined
+        communities, based on linguistic connections driven by "print
+        capitalism."
+    * *Eric Hobsbawm*: nations must have a historic association with a current
+        state, a long-established linguocultural administrative elite, and a
+        proven capacity for conquest.
+* 343 What is a State?
+    * *Border*: a clearly defined territory
+    * *Population*: one or more nations that live within that territory
+    * *Central government*: the ability to create laws
+    * *Interstate sovereignty*: in theory, control over domestic affairs without
+        interference by other states
+    * *Recognition*: diplomatic recognition by other states
+    * *Domestic monopoly on violence*: the ability to maintain order inside the
+        territory
+* 345 How a state differs from a nation
+    * The state is a political and legal entity, while a nation is a cultural,
+        ethnic, and psychological identity.
+    * The state is bound by laws and threat of force, while a nation is bound by
+        sentiments and linguistic/genetic/cultural alignment.
+    * The state is top-down and hierarchical, while the nation is bottom-up and
+        peer-to-peer.
+    * And, as above, the state has a fixed territory, a government and
+        sovereignty over a territory, while a nation typically has shared
+        language, culture, and/or ancestry.
+* 346 The Philosophical Approach
+    * *Plato*: the state should make possible the conditions under which
+        everyone can provide for themselves and seek the Good.
+    * *Aristotle*: all communities aim at some good, and the state is the
+        highest kind of community, aiming at the highest of goods.
+    * *Locke*: The state is legitimate if it enforces contracts and acts as the
+        guarantor of private property.
+    * *Carlyle*: The state should be run by a hero that provides order.
+    * *Schmitt*: The state embodies a clear friend-enemy distinction.
+    * *Marx*: The state is meant to organize the proletariat against the ruling
+        class.
+    * *Keynes*: The state should intervene to smooth the business cycle and
+        support full employment.
+    * *Rawls*: The state distributes social goods and economic opportunities
+        equally to its free citizens according to the theory of justice as
+        fairness.
+    * *Hobbes*: THe state possess absolute authority, and this powerful
+        Leviathan makes anti-social men behave in pro-social ways.
+    * *Rousseau*: The state is legitimate if people have consented to a "Social
+        Contract" in which they self-rule and ideally do not abdicate
+        sovereignty to potentially disaligned representatives.
+    * *Samuelson*: The state is meant to provide public goods that private
+        actors would not be able to supply.
+    * *Lee Kuan Yew*: The state should provide its people with the maximum
+        enjoyment of freedoms and respect the family unit. The state should
+        embrace multiple nations yet demand loyalty.
+* 353 ...you don't need to get full sovereignty but can instead contract with an
+    existing sovereign for defense. In fact, this is sctually what most "real"
+    countries already do -- few truly have full sovereignty, as most contract
+    out their defense in a similar manner to the US or (nowadays) China.
+* 355 ...for a fundamentally digital entity with physical decentralization
+    around the world, the primary mode will be nonviolent digital deense through
+    secrecy, pseudonymity, decentralization, and encryption. In different ways,
+    Google and Bitcoin protect many millions of people's digital gootprint
+    without an enormous army.
+* 355 The Peace of wesphalia in 1648 resolved these issues (does the King or the
+    Pope rule) and is considered by many to be the origin of the European nation
+    state. The Westphalian peace divided territory by lines on a map. Over each
+    territory thus delineated, there was a government that represented the
+    people in that territory, with the right to exercise force on their behalf.
+    And these "sovereign" states were supposed to leave each other alone.
+* 355 How does a Nation State Expand and Contract?
+    * *Demographically*. By reproduction or immigration. A nation grows when it
+        sees more birth than death. Note that there can be a difference here
+        between expansion of the state and the nation!
+    * *Geographically*. By conquest (e.g., Ivan the Terrible's expansion of
+        Russia), by acquisition (e.g., the Louisiana Purchase), or by agreement
+        (e.g., Singapore's involuntary separation from Malaysia).
+    * *Economically*. By trade and opening of markets. This is not always
+        peaceful: see the British East India Company, Smedley Butler, and the
+        Opium Wars.
+    * *Ideologically*. By education and conversion. Revolutionary France
+        invested heavily in educating all citizens to speak French, expanding
+        the self-identified French nation*Ideologically*. By education and
+        conversion. Revolutionary France invested heavily in educating all
+        citizens to speak French, expanding the self-identified French nation.
+* 358 What is not a Nation State?
+    * *Multiethnic empires* like the Soviet Union were not traditional nation
+        states because they had more than one nationality within their
+        boundaries.
+    * *Stateless nations* like the Kurds are not nation states because they lack
+        a formally recognized territory and government.
+    * *Transnational movements* like the Catholic Church are not nation states
+        because the set of all believers id not contained within a territorial
+        state that is administers.
+    * *Terrorist groups* like ISIS which operate across borders and have seized
+        territory at times aren't considered states because they lack diplomatic
+        recognition (due to their heinous crimes!).
+    * *Nomadic tribes* like the Romani and Masai are not nation states, because
+        they migrate between countries. Indeed, most of humanity used to live
+        like this, with farming/soldiering being a relatively recent innovation,
+        and we may return to something like it with the advent of digital
+        nomadism.
+    * *Multijurisdictional corporations* like Google have more people on their
+        servers than most countries, and do control huge chunks of their users'
+        lives, such as their messages and balances. However, they are a
+        transitional form towards our concept of the network state, as their
+        users lack the national conscuousness of a nation and their governance
+        lacks the qualities we've come to expect from a state.
+    * *Ethnic diasporas* like the Japanese or Armenian diasporas are not nation
+        states. They may have business districts, and some degree of community
+        organization in those regions, but they are just a tendril of a nation
+        rather than a full nation, and certainly lack the properties of a full
+        state.
+    * *Local clans* like the Pashtun and Hazara of Afghanistan are not nation
+        states. They are different nations within a failed state.
+    * *Supernational entities* like the European Union, WTO, or IMF are also not
+        nation states, and are more similar to the Catholic Church in terms of
+        their cross-jurisdictional influence.
+* 359 What Technological Developments underpin the Modern Nation State System?
+    * *Mapmaking*. It's only possible to have a map of the world which wee
+        divide into nation states if we have a map of the world. You don't have
+        to be a cartographic connoisseur to know that such a map did not exist
+        in 1492, when Columbus sailed the ocean blue in search of an India to
+        trade with.
+    * *Printing*. Not just the printing press, but the entire practice of *print
+        capitalism* helped give rise to the nation state. Just as Facebook and
+        Google wnated everyone on the internet so they could expand their
+        customer base, the new commercial printers of the 1500s wanted
+        everyone to speak the same language so they could maximize sales for
+        their goods.
+    * *Shooting*. "God made men, but Same Colt made them equal." Feudalism was
+        enforced by horseback riding knights in shining armor with heavy swords;
+        guns changed that. Guns reduced the importance of physical inequality.
+* 361 So: a combination of mapmaking, printing, and shooting helped set the
+    stage for the post-Westphalian nation state, where a map delimited borders,
+    a printed document established the law, and a guy with a gun shot you for
+    crossing those borders or breaking the law.
+
+### On Network States
