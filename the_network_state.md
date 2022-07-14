@@ -944,9 +944,9 @@ centralization, nor about crypto-anarchic decentralization, but rather about
 conscious recentralization into opt-in startup societies.
 
 
-### Chapter 4: Decentralization, Recentralization
+## Chapter 4: Decentralization, Recentralization
 
-## The Possible Futures
+### The Possible Futures
 * 256 It's not about *the* future, it's about the *possible* futures.
 * 256 ...any tale of the past is necessarily abridged, abbreviated, edited, and
 idiosyncratic. You can't convey 5000 years of written records any other way.
