@@ -1256,4 +1256,15 @@ was now the TSA, and the TSA, they knew, was safety theater.
     seize the money to pay for all the equipment needed to prosecute the
     expensive industrialized wars of the 20th and early 21st century.
 
-###
+### Towards a Recentralized Center
+
+* 323 Recentralization is not about going full circle and making zero progress.
+    It's the helical theory of history. Recentralization, done right, is a cycle
+    back to centralization from one vantage point but a step forward from
+    another.
+* 324 The way to demonstrate it's a step forward is via mass exodus of people
+    from both American Anarchy and Chinese Control to the recentralized center,
+    to high-trust startup societies and network states.
+
+## Chapter 5
+
