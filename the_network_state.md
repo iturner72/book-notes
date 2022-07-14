@@ -1198,4 +1198,18 @@ was now the TSA, and the TSA, they knew, was safety theater.
         videos and articles that come close to calling for a coup in China.
         George Soros broadly hints at it in speeches. And folks like Roger
         Garside literally wrote a book on it.
-*
+* 312 China is the #2 economy, the #2 military, and the #2 in tech unicorns. All
+    of that happened from a standing start over the last 40-odd years, since
+    Deng's rurnaround of China (called Boluan Fanzhuang).
+* 312 Moreover, as noted in *What about China, huh?*, it's not that the US
+    establishment is more *ethical* than the CCP when it comes to civil
+    liberties, it's just less competent. After all, the US establishment also
+    does warrantless surveillance via the NSA, unconstitutional search and
+    seizure via the TSA, arbitrary confiscation of property via civil
+    forfeiture, censorship of political keywords just like WeChat, and has
+    pushed for disinformation agencies, civilian disarmament, digital
+    censorship, and the like.
+* 315 ...rather than being the Third World / non-aligned movement, a subset of
+    the many billions of people in the International Intermediate can align
+    around web3 to try to build alternatives to American Anarchy and Chinese
+    Control. And that subset we call the *Recentralized Center*.
