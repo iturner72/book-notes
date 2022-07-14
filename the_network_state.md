@@ -1266,5 +1266,19 @@ was now the TSA, and the TSA, they knew, was safety theater.
     from both American Anarchy and Chinese Control to the recentralized center,
     to high-trust startup societies and network states.
 
-## Chapter 5
+## Chapter 5: From Nation States to Network States
 
+### Why Now?
+* 327 Why now? After almost 400 years of the Westphalian nation state, why do we
+    think the status quo could change?
+* 327 First, the status quo. What is the modern nation state, anyway? What is a
+    nation, for that matter? How was state formation enabled long ago by
+    technological innovations like mapmaking and print capitalism? When did the
+    political events transpire that led to the rise of the nation state? And
+    what were the historical alternatives?
+* 327 What are the contemporary catalysts, the technological and political
+    developments that promise to alter centuries of practice? What are the
+    concepts, charts, calculations, and citations that suggest big changes are
+    in the offing? And what might a network state even look like?
+
+###
