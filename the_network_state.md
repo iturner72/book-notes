@@ -1483,3 +1483,177 @@ was now the TSA, and the TSA, they knew, was safety theater.
     crossing those borders or breaking the law.
 
 ### On Network States
+* 362 What is a Network State? A network state is a social network with a moral
+    innovation, a sense of national consciousness, a recognized founder, a
+    capacity for collective action, an in-person level of civility for
+    collective action, an integrated cryptocurrency, an archipelago of
+    crowdfunded physical territories, a virtual capital, and an on-chain census
+    that proves a large enough population, income, and real estate footprint to
+    attain a measure of diplomatic recognition.
+* 363 Admission to this social network is selective, people can lose their
+    account privileges for bed behavior, and everyone who's there has
+    explicitly opted in by applying to join. That application process could
+    involve public proof of alignment via writing, a career history that
+    demonstrates common values, or the investment of time and energy into the
+    society to obtain digital assets. Joining the network that underpins a
+    netwok state is *not* a purely economic proposition, not something that can
+    be bought with money alone. It's a concrete version of Rousseau's social
+    contract as a literal smart contract, one that all sighn before entering, a
+    way to turn an abstract proposition into an actual nation.
+* 364 *A moral innovation*. A network stte grows out of a startup society that is
+    premised on a moral innovation, where veryone within the society thinks some
+    principle X is good that the rest of the world thinks is bad, or vice versa.
+    This is the proposition part of a proposition nation.
+* 365 *A recognized founder*. A state, like a company, needs a leader.
+    Especially early on. But truly strong leadership comes from consent and
+    buy-in, not propaganda or force. Hence, it's important to have a recognized
+    founder, one that people actually listen to and choose to follow by joining
+    the communit.
+* 365 *A capacity for collective action*. This is a combination of collective
+    purpose (which is like the mission statement of a company, but for a
+    community) and the capacity to *act* on that purpose. The process of
+    building a network state includes a network union. From the very outset it
+    organizes people to work together for the benefit of their chosen community
+    through the familiar interface of their screens. This, again, is quite
+    different from current "social" networks like Twitter, which give individual
+    scores for likes and followers but no team dashboard, no way of setting and
+    achieving tangible goals as a group.
+* 368 *An in-person level of civility*. In the 90s and 2000s it was
+    attention-getting when people were grossly incivil to each other online, as
+    it was a funny contrast to the generally civil offline world. Now it's just
+    old, and not funny anymore. High trust in turn comes from alignment towards
+    a collective purpose and a sense of national consciousness.
+* 368 *An integrated cryptcurrency*. This is the digital backbone of the network
+    state. It manages the internal digital assets, the smart contracts, the web3
+    citizen logins, the birth and marriage certificates, the property
+    registries, the public national statistics, and essentially every other
+    bureaucratic process that a nation state manages via pieces of paper.
+    Because it's protected by encryption, it can coordinate all the functions of
+    a state across the borders of legacy nation states.
+* 368 *An archipelago of crowdfunded physical territories*. This is the physical
+    footprint of the network state. Rather than buying territory in one place,
+    or trying to negotiate sovereignty up front, you build the community in the
+    cloud and then crowdfund physical real estate on the earth. For example, you
+    can make the flag of a network state appear to anyone with augmented reality
+    glasses and the right NFT. You can also make doors open on command for
+    community members, where their ENS name is their login. The point is that
+    the network state is *not* a purely digital thing. It has a substantial
+    physical component: all the building around the world crowdfunded by its
+    members.
+* 369 *A virtual capital*. A network state is physically distributed, but its
+    people still digitally assemble in one place. That cloud assembly point
+    could initially be something as modest as a Discord channel, but will
+    eventually be a private subnetwork of the open metaverse. That means a
+    virtual reality (VR) environment with aspects that can be seamlessly
+    projected into the physical world with augmented reality (AR) glasses, so
+    that you can see digital buildings and/or people in the real world.
+* 369 *An on-chain census that proves a large enough population, income, and
+    real estate footprint*. A distributed society needs a distributed census.
+    Unlike the US census, and more like Facebook's census of its userbse, a
+    startup society's censu can be conducted in real-time rather than every ten
+    years. But how do you really prove that a given startup society *really* has
+    10,000 residents and one billion dollars in annual income and 10M square
+    meters in its real estate footprint? Each of these elements can be
+    established via on-chain data. We already have techniques for
+    proof-of-human, proof-of-income (via on-chain accounting) and
+    proof-of-real-estate (via blockchain real estate).
+* 370 *Attain a measure of diplomatic recognition*. Diplomatic recognition
+    requires a putative state to have *clout*, and clout is in turn established
+    by a publicly verifiable on-chain census of population, income, and real
+    estate, to *prove* that your growing society is as large as you say it is.
+* 371 *No social network*. If there's no social network, you have no digital
+    profiles, no messaging, no community fora,no mass media, and no easy way to
+    recruit from the internet.
+* 371 *No recognized founder*. With no recognized leader, you have no way of
+    making contentious decisions or setting the agenda. A founder is the best
+    kind of leader, because they have the legitimacy associated with building an
+    organization from scratch. Unlike a dictator, their authority isn't *forced*
+    upon the population, and anyone can exit at any time.
+* 371 *No sense of national consciousness*. If there is no sense of national
+    consciousness, there is no nation underpinning the network state. It's just
+    a bunch of random people with nothing in common.
+* 371 *No capacity for collective action*. A group of people that lacks a
+    capacity for collective action - like most online communities, frankly -
+    isn't going to get anywhere.
+* 371 *No in-person level of civility*. A group of people that constantly tears
+    each other down won't build an outhouse together, let alone a state.
+* 371 *No integrated cryptocurrency*. After the financial deplatforming of
+    Western proles and foreign elites, of Canadian truchers and 145M Russians,
+    it's clear that digital finance is a weapon of war. So without a sovereign
+    digital currency (and, more generally, a sovereign system of record) there
+    is no sovereignty.
+* 371 *No archipelago of crowdfunded physical territories*. You can do many things
+    online, but not everything. Without physical territory you can't build
+    FDA-free xones, or NRC-free areas, or the Keto Kosher community, or many
+    kinds of substantive parallel societies.
+* 371 *No virtual capital*. Network states are not city states. City states were
+    defeated by nation states for a reason: they are physically centralized and
+    have limited scale.
+* 373 *No on-chain census that proves a large enough population, income, and
+    real estate footprint*. The US Census is in the US Constitution for a
+    reason; you need to know something about your people to run a government.
+    The hard part isn't how to *collect* the data; with modern technology it can
+    be slurped up and dashboarded in real-time, rather than collected every ten
+    years on millions of pieces of paper. No, the hard part is getting people to
+    *believe* the data, given the huge incentives for faking the numbers. That
+    means establishing a cryptographically auditable information supply chain, a
+    transparent way of gathering the numbers for the network state census.
+* 374 *No measure of diplomatic recognition*. Many libertarians don't get the
+    concept of diplomatic recognition, just like many progressives don't get the
+    desirability of starting new countries, so this point is worth discussing.
+    Basically, without diplomatic recognition, you aren't considered real.
+    That's why micronations don't work. They have no organic community, so they
+    have no answer to the question of "you and what army?"
+* 376 *Digital first*. The digital network of the internet is primary.
+* 376 *Composition*. A network state is composed of a national network (the
+    equivalent of the nation) and a governance network (the analog of the
+    state).
+* 376 *Terra incognita returns*. The network state system assumes many pieces of
+    the internet will become invisible to other subnetworks.
+* 377 *Terra nullius returns*. The network state system further assumes that
+    unclaimed digital territory always exists in the form of new domain names,
+    crypto usernames, plots of land in the metaverse, social media hangles, and
+    accounts on new services.
+* 377 *Bottom-up migration of people*. It is a probabilistic digital division of
+    *people* rather than a deterministic physical divsion of *land*. People
+    migrate digitally and physically between network states; the citizenry is as
+    dynamic as the land of a nation state is static.
+* 377 *N networks per citizen*. Unlike the nation state system, where most
+    people have citizenship in only one state, in the network state system,
+    every person can in principle be a member of more than on state, just as
+    they can hold passports in more than one country, or be holders of more thn
+    one cryptocurrency, or be users of more than one social network. Of course,
+    they can spend most of their time in one network state.
+* 377 *Legitimacy from physical migration and digital choice*. Cryptography
+    ensures that this choice is demonstrably free and uncoerced, because no
+    state can easily seize an individual's private keys.
+* 378 *Decentralized administration*. The governance netwoek is composed of a
+    founder/chief executive and their engineers. They write laws in code to
+    specify what is mandatry, encouraged, discouraged, and forbidden. These laws
+    are interperted by impartial servers and enforced by cryptography.
+* 378 *Domestic monopoly of root access*. The governance network of a network
+    state has root access to an administrative interface where law enforcement
+    can flip digital switched as necessary to maintain or restor domestic order,
+    just like the sysadmins of today's tech companies.
+* 379 *International sovereignty via cryptography*. For a network state,
+    sovereignty is private keys. If access to the aforementioned administrative
+    interface is controlled by private keys rather than a username/password
+    combination, then the same encryption techniques that make it difficult for
+    an outsider to seize an individual's private keys can make it difficult for
+    a foreign rival to steal a legitimate government's private keys.
+* 379 *Digital diplomatic recognition*. Network states can recognize each other
+    bilaterally (similar to an API integration) or multilaterally (e.g., by
+    supporting the same blockchains). Diplomatic recognition is then about
+    interoperability and compatibility: are the file formats and on-chain
+    records used by one network state honored by another?
+* 379 *Chains manage cooperation and constraint*. Public blockchains are the
+    equivalent of international law in a network state system.
+* 380 *Pax Bitcoinica*. The ultimate guarantor of exit, and of the network state
+    system at large, is Bitcoin. It sits above every state and constrains it
+    from printing infinite quantities of money, from lawlessly seizing the funds
+    of its citizens, and from waging forever war.
+* 382 ...the legitimacy of a network state comes not from top-down declamations,
+    but from bottom-up consent, as each netizen has *opted in*. A truly
+    oppressive or incompetent network state loses them to exit, or doesn't gain
+    citizens in the first place. And no state is strong enough to block the
+    ultimate exit that cryptocurrency represents.
