@@ -1657,3 +1657,43 @@ was now the TSA, and the TSA, they knew, was safety theater.
     oppressive or incompetent network state loses them to exit, or doesn't gain
     citizens in the first place. And no state is strong enough to block the
     ultimate exit that cryptocurrency represents.
+* 383 *The network is the nation*. The organic, vountary, bottom-up nation that
+    underpins the state is formed online in a network. This could be on the
+    basis of language, culture, proposition, or some combination thereof.
+* 383 *The network is the territory*. We can understand this if we think about
+    domain names, social profiles, and ENS names -- digital land can be created
+    for free, but access to that land can become very valuable (and, when
+    deplatforming is in the cards, very contentious).
+* 383 *The network is the state*. How does a network state create and enforce
+    laws? Digitally. It's Locke's justification of the state as the protector of
+    private property, in the form of a digital registry.
+* 384 *The Network is the Leviathan*. The Network here is a candidate for the
+    most powerful force in the world, where the Leviathan in the Hobbsian sense
+    is not divinity (God) or military (the State) but community and cryptography
+    (Network).
+* 385 *Startups create Centralized Networks, but Chains create Decentralized
+    Networks*.
+    * *Free the backend*. That's what Satoshi did: he reopened the frontier,
+        gave us a cloud without corporations. He showed us how to create digital
+        networks without any single centralized authority.
+    * *Free the login*. The other, related way out is to retrofit an existing
+        centralized social network to enable web3 login (shoutout gm.xyz), such
+        that users can contact each other *outside* the service and their
+        usernames are not locked into the system.
+* 400 Path to the Network State
+    * *Network union*. A wholly digital entity, organized in a social tree
+        structure, that engages in collective action on behalf of its members.
+    * *Network archipelago*. A network union that begins acquiring and
+        networking properties in the physical world. The physical interaction is
+        key for building trust.
+    * *network state*. A network archipelago that gains diplomatic recognition
+        from at least one legacy state. The diplomatic recognition is key for
+        attaining sovereignty.
+* 404 ...the founders of a network union that wants to become a network state
+    can't be misanthropic, or even isolationist in mentality. A live and let
+    live mentality won't be enough; you'll need to recruit people who win and
+    help win.
+* 421 The nation state was enabled by maps of the world, tools to communicate
+    laws, and the guns to enforce them. The network state is enabled by the
+    creation of a new world (the internet), the software to code and communicate
+    policies, and the cryptography to enforce them.
