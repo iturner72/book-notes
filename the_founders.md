@@ -6,6 +6,24 @@ by Jimmy Soni
 the book here: https://www.amazon.com/Founders-Paypal-Entrepreneurs-Shaped-Silicon/dp/1501197266*
 
 ### Introduction
+* xii If you have used the internet at all in the last twenty years, you''ve
+    touched a product, service, or website connected to the creators of PayPal.
+    The founders of several of our era's defining firms -- the creators of
+    YouTube, Yelp, Tesla, SpaceX, LinkedIn, and Palantir, among others -- were
+    early PayPal employees; others occupy top posts at Google, Facebook, and
+    Silicon Valley's leading venture capital firms.
+* xii As a group, thy constitute one of the most powerful and successful
+    networks ever created -- power and influence captured in the controversial
+    phrase the "PayPal Mafia," Several billionaires and many multimillionairs
+    have emerged from PayPal's ranks; the group's combined net worth is higher
+    than the GDP of New Zealand.
+* xv ...PayPal's was an iconoclastic culture. Its earliest hires included high
+    school drop-outs, ace chess players, and puzzle champions--often chosen
+    because of their eccentricities and peculiarities, not in spite of them.
+* xvi After nearly endless setbacks--a brutal merger, tens of millions of
+    dollars lost to fraud, and a tough climate for technology stocks--PayPal
+    pulled off the improbable: a stunningly successful IPO, and its acquisition,
+    the same year, by eBay for $1.5 billion.
 
 ###
 ...
