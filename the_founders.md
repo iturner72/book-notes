@@ -25,14 +25,49 @@ the book here: https://www.amazon.com/Founders-Paypal-Entrepreneurs-Shaped-Silic
     pulled off the improbable: a stunningly successful IPO, and its acquisition,
     the same year, by eBay for $1.5 billion.
 
-###
+## Part 1: Sicilian Defense
+
+### 1 Building Blocks
+* 5 "My standard self-definition as a programmer had always been that I started
+    with these decrepit computers," Levchin said. "Iw was all...very procedural
+    programming in various different assembly languages...[It] probably made me
+    slightly more elitist, but certainly made me very tenacious as a developer.
+    I never really had an option to take the easy way out, I guess."
+* 12 ...Nosek and Banister gave Levchin a crash course on libertarianism. The
+    two had codounded a libertarian student group, and Banister coded the
+    group's website. Together they tried to indoctrinate Levchin, encouraging
+    him to attend various libertarian events and read books like Ayn Rand's *The
+    Fountainhead* and Friedrick Hayek's *The Road to Serfdom*.
+* 14 "I remember once coming over to her house and, right when I got there,
+    going into the bathroom to write code." Knocking on the dorr his girlfriend
+    asked, "What are you even doing here?" "What? We're dating," he replied,
+    confused at the question. "No, this is not dating. You are coding in my
+    bathroom."
+
+### 2 The Pitch
+* 28 Thiel posed a question early on the Levchin: *Take any positive integer.
+    Some have an odd number of unique divisors, and some have an even number of
+    unique divisors. Describe the subset of all z integers that have exactly an
+    even number of divisors.*
+    * Answer: Find the number of perfect squares less than *z* and subtract that
+        number from*z*-1.
+* 28 Levchin asked back: *Imagine you have two ropes of variable density. If you
+    set either rope on fire, despite burning at varying speeds, it will be
+    entirely gone in one hour. Using the two ropes, measure exactly 45 minutes.*
+    * Answer: Simultaneously light both ends of one rope and one end of the
+        other rope, The first rope will burn out in 30 minutes. When it does,
+        light the unlit end of the other rope. When the second rope burns out,
+        45 minutes will have passed.
+
+### 3 The Right Questions
+
 ...
-### Butoned-Up
+### 13 Buttoned-Up
 
 (I had the idea to start taking notes on github when I was on page ~ 200, will
 go back and fill in the previous chapters later)
 
-### Ambition's Debt
+### 14 Ambition's Debt
 * 238 Confinity and X.com internal conflict was not known to the board until the
 coup was planned to boot Elon from the CEO position by Max, Thiel and others
 * 242 Elon following the successful coup: "It's easy to be bitter and hate them
