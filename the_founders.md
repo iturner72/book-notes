@@ -60,6 +60,14 @@ the book here: https://www.amazon.com/Founders-Paypal-Entrepreneurs-Shaped-Silic
         45 minutes will have passed.
 
 ### 3 The Right Questions
+* 45 In February 1999, Zip2 sold to Compaq Computer for $307 million in cash...
+    For Musk, the purchase meant a $21 million payday.
+* 46 "My bank account went from, like, %5,000 to $21,005,000," he said. He was
+    twenty-seven years old. With his fresh millions, Musk bought himself a condo
+    in Palo Alto and a $1 million McLaren F1 sports car.
+
+### 4 What Matters to Me is Winning
+*
 
 ...
 ### 13 Buttoned-Up
