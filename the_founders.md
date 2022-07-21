@@ -67,8 +67,20 @@ the book here: https://www.amazon.com/Founders-Paypal-Entrepreneurs-Shaped-Silic
     in Palo Alto and a $1 million McLaren F1 sports car.
 
 ### 4 What Matters to Me is Winning
-*
+* 49 Musk's critique extended even to seemingly vital funancial infrastructure
+    like stock exchanges: "I said, 'Well, why don't we just allow people to
+    trade with each other? So if I want to send you stick, why don't I just send
+    you a share of whtever?' I don't need to go through anything. The exchange
+    is unnecessary."
+* 53 Musk rolled much of his Zip2 windfall into X.com, investing $12.5 million
+    and purchasing the X.com domain with personal funds.
+* 59 He'd arrive at the X.com office early -- the financial marketsopened at
+    6:30 a.m. PST, by which time Fricker would already be hard at work. By
+    contrast, Musk would regularly conclude his work day at thee or four in the
+    morning with a catnap on his office floor -- just hours before Fricker would
+    arrive.
 
+### 5 The Beamers
 ...
 ### 13 Buttoned-Up
 
