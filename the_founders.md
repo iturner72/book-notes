@@ -81,6 +81,23 @@ the book here: https://www.amazon.com/Founders-Paypal-Entrepreneurs-Shaped-Silic
     arrive.
 
 ### 5 The Beamers
+* 72 "A successful and aggressive leveraging of the e-finance platform could
+    turn Confinity into a global financial institution, offering a complete
+    suite of customer banking services. Under this scenario, Confinity would
+    push all the way to an IPO."
+* 78 Picture the scene: A few technophiles are at lunch in Palo Alto. The check
+    arrives, and the onerous task of dividing up the bill begins. One diner
+    reminds the group that they have PalmPilots, which include a calculator and
+    Confinity's money-beaming software. Presto: debts beamed, tab divided.
+* 79 In February 1999, Levchin attended the International Financial Cryptography
+    Association conference. Hosted in Anguilla, a sliver of a Caribbean island,
+    the annual gethering drew the leading players in academic cryptography and
+    digital currencies. (To this day Thiel, who attended the 2000 conferece,
+    harbors a theory that Satoshi Nakamoto -- the mysterious founder of the
+    cryptocurrency Bitcoin -- was among the attendees.
+
+### 6 Hosed
+
 ...
 ### 13 Buttoned-Up
 
