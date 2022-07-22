@@ -193,3 +193,13 @@ the book here: https://www.amazon.com/Zero-One-Notes-Startups-Future/dp/08041392
     cult--or even a mafia.
 
 ### 11 If You Build It, Will They Come?
+* 131 SpaceX shows that it can be done. Within just a few years of launching his
+    rocket startup. Elon Musk persuaded NASA to sign billion-dollar contracts to
+    replace the decommissioned space shuttle with a newly designed veddel from
+    SpaceX.
+* 139 Nerds might wish that distribution could be ignored and salesmen banished
+    to another planet. All of us want to believe that we make up our own minds,
+    that sales doesn't work on us. But it's not true. Everybody has a product to
+    sell--no matter whether you're an employee, a founder, or an investor. It's
+    true even if your company consists of just you and your computer. Look
+    around. If you don't see any sales-people, you're the salesperson.
