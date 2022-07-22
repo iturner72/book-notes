@@ -122,3 +122,13 @@ the book here: https://www.amazon.com/Zero-One-Notes-Startups-Future/dp/08041392
     Chance. You are not a lottery ticket.
 
 ### 7 Follow The Money
+* 86 Our results at Founders Fund illustrate this skewed pattern: Facebook, the
+    best investment in our 2005 fund, returned more than all the others
+    combined. Palantir, the second-best investment, is set to return more than
+    the sum of every other investment aside from Facebook.
+* 90 The most common answer to the question of future value is a diversified
+    portfolio: "Don't put all your eggs in one basket," everyone has been told.
+    As we said, even the best venture investors have a portfoliom but investors
+    who understand the power law make as few investments as possible.
+
+### 8 Secrets
