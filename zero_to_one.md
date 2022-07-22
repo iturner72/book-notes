@@ -56,3 +56,14 @@ the book here: https://www.amazon.com/Zero-One-Notes-Startups-Future/dp/08041392
     condition of every successful business.*
 
 ### 4 The Ideology of Competition
+* 37 Had I actually clerked on the Supreme Court, I probably would have spent my
+    entire career taking depositions or drafting other people's business deals
+    instead of creating anything new. It's hard to say how much would be
+    different, but the opportunity costs were enormous. All Rhodes Scholars had
+    a great future in their past.
+* 43 If you can recognize competition as a destructive force instead of a sign
+    of value, you're already more sane than most. The next chapter is about how
+    to use a clear head to build a monopoly business.
+
+### 5 Last Mover Advantage
+*
