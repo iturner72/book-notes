@@ -132,3 +132,19 @@ the book here: https://www.amazon.com/Zero-One-Notes-Startups-Future/dp/08041392
     who understand the power law make as few investments as possible.
 
 ### 8 Secrets
+* 93 Every one of today's most famous and familiar ideas was once unknown and
+    unsuspected. The mathematical relationship between a triangle's sides, for
+    example, was secret for millennia. Pythagoras had to think hard to discover
+    it.
+* 98 People are scared of secrets because they are scared of being wrong. By
+    definition, a secret hasn't been vetted by the mainstream. If your goal is
+    to never make a mistake in your life, you shouldn't look for secrets. The
+    prospect of being lonely but right--dedicating your life to something that
+    no one else believes in--is already hard. The prospect of being lonely and
+    *wrong* can be unbearable.
+* 106 So who do you tell? Whoever you need to, and no more. In practice, there's
+    always a golden mean between telling no-body and telling everybody--and
+    that's a company. The best entrepreneurs know this: every great business is
+    built around a secret that's hidden from the outside.
+
+### 9 Foundations
