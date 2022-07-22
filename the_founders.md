@@ -156,6 +156,7 @@ the book here: https://www.amazon.com/Founders-Paypal-Entrepreneurs-Shaped-Silic
     bullshit tolerance is low, but Peter is like zero."
 
 ### 9 The Widget Wars
+*
 
 ...
 ### 13 Buttoned-Up
