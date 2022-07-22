@@ -66,4 +66,21 @@ the book here: https://www.amazon.com/Zero-One-Notes-Startups-Future/dp/08041392
     to use a clear head to build a monopoly business.
 
 ### 5 Last Mover Advantage
-*
+* 48 Every monopoly is unique, but they usually share some combination of the
+    following characteristics: proprietary technology, network effects,
+    economies of scale, and branding.
+* 56 Sequencing markets correctly is underrated, and it takes discipline to
+    expand gradually. The most successful companies make the core
+    progression--to first dominate a specific niche and then scale to adjacent
+    markets--a part of their founding narrative.
+* 57 But since we expanded the market for payments overall, we have Visa far
+    more business than we took. The overall dynamic was net positive, unlike
+    Napster's negative-sum struggle with the U.S. recording industry. As you
+    craft a plan to expand to adjacent markets, don't disrupt: avoid competition
+    as much as possible.
+* 58 being the first mover doesn't do you any good if someone else comes along
+    and unseats you. It's much better to be the *last* mover--that is, to make
+    the last great development in a specific market and enjoy years or even
+    decades of monopoly profits.
+
+### 6 You Are Not A Lottery Ticket
