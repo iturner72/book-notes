@@ -84,3 +84,41 @@ the book here: https://www.amazon.com/Zero-One-Notes-Startups-Future/dp/08041392
     decades of monopoly profits.
 
 ### 6 You Are Not A Lottery Ticket
+* 63 Optimists welcome the future; pessimists fear it:
+    * *Indefinite Pessimism* Even today pessimism still dominates huge parts of the
+    world. An *indefinite pessimist* looks out onto a bleak future, but he has
+    no idea what to do about it.
+    * *Definite Pessimism* A *definite pessimist* believes the future can be known,
+    but since it will be bleak, he must prepare for it. Perhaps surprisingly,
+    China is probably the most definitely pessimistic place in the world today.
+    * *Definite Optimism* To a *definite optimist*, the future will be better than
+    the present if he plans and works to make it better. From the 17th century
+    through the 1950s and '60s, definite optimists led the Western world.
+    * *Indefinite Optimism* To an *indefinite optimist*, the future will be
+        better, but he doesn't know how exactly, so he won't make any specific
+        plans. He expects to profit from the future but sees no reason to design
+        it concretely.
+* 71 At no point does anyone in the chain know what to do with money in the real
+    economy. But in an indefinite world, people actually *prefer* unlimited
+    optionality; money is more valuable than anything you could possibly do with
+    Only in a definite future is money a means to an end, not the end
+    itself.
+* 72 The philosophy of the ancient world was pessimistic: Plato, Aristotle,
+    Epicurus, and Lucretius all accepted strict limits on human potential. The
+    only question was how best to cope with our tragic fate.
+* 74 Our ancestors sought to understand and extend the human lifespan. In the
+    16th century, conquistadores searched the jungles of Florida for a Fountain
+    of Youth. Francis Bacon wrote that "the prolongation of life" should be
+    considered itw own branch of medicine--and the noblest.
+* 75 Eroom's law--that's Moore's law backward--observes that the number of new
+    drugs approved per billion dollars spent on R&D has halved every nine years
+    since 1950.
+* 78 Actually, most everybody in the modern world has already heard an answer to
+    this question: progress without planning is what we call "evolution." Darwin
+    himself wrote that life tends to "progress" without anybody intending it.
+* 81 A startup is the largest endeavor over which you can have definite mastery.
+    You can have agency not just over your own life, but over a small and
+    important part of the world. It begins by rejecting the unjust tyranny of
+    Chance. You are not a lottery ticket.
+
+### 7 Follow The Money
