@@ -97,6 +97,29 @@ the book here: https://www.amazon.com/Founders-Paypal-Entrepreneurs-Shaped-Silic
     cryptocurrency Bitcoin -- was among the attendees.
 
 ### 6 Hosed
+* 85 Scheduled for the morning of Friday, July 23, 1999, Levchin and the team
+    pulled back-to-back all-nighters, double- and triple-checking code until
+    just before the event. As the sun rose that Friday, Levchin realized he'd
+    been wearing the same pair of pants several days in a row. *I need to change
+    my pants*, he thought to himself. So Levchin got in his car, drove home, and
+    swapped out pants. Pants upgraded, he raced to Buck's.
+* 96 "We are living in the heaven of PalmPilots," observed Reid Hoffman, a
+    Stanford friend of Thiel's and early Confinity board member, "and we could
+    walk into every single restaurant and go to each table and ask how many
+    people have PalmPilots." He guessed the answer was between zero and one per
+    restaurant. "And that means your use case can only be used between zero and
+    one times, per restaurant, per meal cycle! You're hosed! It's over on this
+    idea."
+* 98 In hiring David Sacks, Thiel pulled rank and overruled the team's
+    objections. This was a rare move for Thiel, who believed Sacks a rare
+    candidate: After all, few people would come into an interview guns blazing
+    *against* their prospective employer's flagship product. Thiel values
+    bracing honesty, and he trusted that Sacks would speak candidly. "Peter
+    said, 'I need people here I can scream at,'" Sacks remembered.
+
+### 7 Money Talks
+*
+
 
 ...
 ### 13 Buttoned-Up
