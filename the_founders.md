@@ -118,8 +118,44 @@ the book here: https://www.amazon.com/Founders-Paypal-Entrepreneurs-Shaped-Silic
     said, 'I need people here I can scream at,'" Sacks remembered.
 
 ### 7 Money Talks
-*
+* 108 To Musk, money merely represented "[entries] in a database." X.com was
+    just uniting the world's "entries" into one database---and cutting out the
+    profit-seeking intermediaries. "My vision for [X.com]," Musk proclaimed,
+    "was essentially the global center for all money."
+* 117 In many ways, X.com was a prototypical Palo Alto start-up, but X.com did
+    break with Silicon Valley orthodoxy in one critical respect: it used
+    Microsoft products as the backbone of its technical architecture rather than
+    building atop an open-source operating system like Linux.
+* 119 In the summer of 1999, X.com's banking heavyweights tried to oust Mustk as
+    CEO, then fled. Following their departures, the company's head count
+    numbered in the low single digits.
 
+## Part 2: Bad Bishop
+
+### 8 If You Build It
+* 128 Indeed, Musk was frustrated that X.com's other products didn't generate
+    the same excitement. "We would shoe people the hard part--the agglomeration
+    of financial services---and nobody was interested. Then we'd show people the
+    email payments--which was the easy part--and everybody was interested," Musk
+    explained in a 2012 commencement speech at CalTech. "So I think it's
+    important to take feedback from your environment. You want to be as
+    closed-loop as possible."
+* 130 Giacomo DiGrigoli, another product team member, remembered Sacks's
+    frustration with one particular design. "[Sacks] was like, 'I do not
+    understand why this is so complicated! This should be as easy as email!'"
+    DiGrigoli recalled. Soon, a photo of David Sacks with the words "As Easy as
+    Email!" graced the office walls.
+* 135 Levchin even resisted helping the eBay user who had asked for assistance
+    with the PayPal logo. "I definitely made some motions to prevent eBay
+    growth," he said. He flirted with blocking the eBay URL from Confinity's
+    servers outright.
+* 142 Thiel abhorred bureaucracies, and now that Confinity was growing, he
+    risked being ensnared by the very things he had abandoned upon leaving law
+    firm life--management, paperwork, meetings. "Peter is even less tolerant of
+    bullshit than I am," the famously administrivia-averse Musk remarked. "My
+    bullshit tolerance is low, but Peter is like zero."
+
+### 9 The Widget Wars
 
 ...
 ### 13 Buttoned-Up
