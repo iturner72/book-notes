@@ -25,3 +25,17 @@ the book here: https://www.amazon.com/Zero-One-Notes-Startups-Future/dp/08041392
     bound together by a sense of mission have changed the world for the better.
 
 ### 2 Party Like It's 1999
+* 16 Dot-com mania was intense but short--18 months of insanity from September
+    1998 to March 2000. It was a Silicon Valley gold rusg: there was money
+    everywhere, and no shortage of exuberant, often sketchy people to chase it.
+* 18 We gave new customers $10 for joining, and we gave them $10 more every time
+    they reffered a friend. This got us hundreds of thousands on new customers
+    and an exponential growth rate.
+* 18 When we raised $100 million the next month, our lead investor took the
+    *Journal's* back-of-the-envelope valuation as authoritative. (Other
+    investors were in even more of a hurry. A South Korean firm wired us $5
+    million without first negotiating a deal or signing any documents. When I
+    tried to return the money, they wouldn't tell me where to send it.)
+
+### 3 All Happy Companies Are Different
+*
