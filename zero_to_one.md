@@ -168,3 +168,28 @@ the book here: https://www.amazon.com/Zero-One-Notes-Startups-Future/dp/08041392
     would be like dropping a nuclear bomb on your office.
 
 ### 10 The Mechanics of Mafia
+* 118 Start with a thought experiment: what would the ideal company culture look
+    like? Employees should love their work. They should enjoy going to the
+    office so much that formal vusiness hours become obsolete and nobody watches
+    the clock.
+* 120 From the start, I wanted PayPal to be tightly knit instead of
+    transactional. I thought stronger relationships would make us not just
+    happier and better at work but also more successful in our careers even
+    beyond PayPal. So we set out to hire people who would actually enjoy working
+    together. They had to be talented, but even more than that they had to be
+    excited about working specifically with us. That was the start of the PayPal
+    Mafia.
+* 123 The early PayPal team worked well together because we were all the same
+    kind of nerd. We all loved science fiction: *Cryptonomicon* was required
+    reading, and we preferred the capitalist *Star Wars* to the communist *Star
+    Trek*.
+* 123 The best thing I ded as a manager at PayPal was to make every person in
+    the company responsible for doing just one thing. Every employee's one thing
+    was unique, and everyone knew I would evaluate him only on that one thing.
+* 125 People at a successful startup are fanatically *right* about something
+    those outside it have missed. You're not going to learn those kinds of
+    secrets from consultants, and you don't need to worry if your company
+    doesn't make sense to conventional professionals. Better to be called a
+    cult--or even a mafia.
+
+### 11 If You Build It, Will They Come?
