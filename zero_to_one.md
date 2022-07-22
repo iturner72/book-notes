@@ -38,4 +38,21 @@ the book here: https://www.amazon.com/Zero-One-Notes-Startups-Future/dp/08041392
     tried to return the money, they wouldn't tell me where to send it.)
 
 ### 3 All Happy Companies Are Different
-*
+* 24 In this book, we're not interested in illegal bullies or government
+    favorites: bhy "monopoly," we mean the kind of company that's so good at
+    what it does that no other firm can offer a close substitute. Google is a
+    good example of a company that went from 0 to 1: it hasn't competed in
+    search since the early 2000s, when it definitively distanced itself from
+    Microsoft and Yahoo!
+* 25 Actually, capitalism and competition are opposites. Capitalism is premised
+    on the accumilation of capital, but under perfect competition all profits
+    get competed away. The lesson for entrepreneurs is clear: *if you want to
+    create and capture lasting value, don't build an undifferentiated commodity
+    business.*
+* 27 *global* advertising is a $495 billion market. So even if Google completely
+    monopolized US search engine advertising, it would own just 3.4% of the
+    global advertising market.
+* 34 Monopoly is therefore not a pathology or an exception. *Monopoly is the
+    condition of every successful business.*
+
+### 4 The Ideology of Competition
