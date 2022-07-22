@@ -148,3 +148,23 @@ the book here: https://www.amazon.com/Zero-One-Notes-Startups-Future/dp/08041392
     built around a secret that's hidden from the outside.
 
 ### 9 Foundations
+* 108 When you start something, the first and most crucial decision you make is
+    whom to start it with. Choosing a co-founder is like getting married, and
+    founder conflict is just as ugly as divorce.
+* 112 ...it's crucial to choose wisely: every single member of your board
+    matters. Even one problem director will cause you pain, and may even
+    jeopardize your company's future. A board of three is ideal. Your board
+    should never exceed five people, unless your company is publicly held.
+* 113 Whenever an entrepreneur asks me to invest in his company, I ask him how
+    much he intends to pay himself. A company does better the less it pays the
+    CEO--that's one of the single clearest patterns I've noticed from investing
+    in hundreds of startups. *In no case should a CEO of an early-stage,
+    venture-backed startup receive more than $150,000 per year in salary*.
+* 115 Startups don't need to pay high salaries because they can offer something
+    better: part ownership of the company itself. Equity is the one form of
+    compensation that can effectively orient people toward creating value in the
+    future.
+* 116 Sending out a company-wide email that lists everyone's ownership stake
+    would be like dropping a nuclear bomb on your office.
+
+### 10 The Mechanics of Mafia
