@@ -219,10 +219,22 @@ the book here: https://www.amazon.com/Founders-Paypal-Entrepreneurs-Shaped-Silic
     okay, Peter's not here. So, I guess I'll be CEO.'"
 
 ### 12 Buttoned-Up
-*
+* 196 I think there's something very special about the all-nighter ethic...
+    There's definitely something about the nocturnal lifestyle for engineers
+    specifically that really opens up the chakras of creativity or code-writing.
+    People het slightly sillier, but also maybe a little more creative.
+* 197 "There was this weird peer pressure. If you left, people were like,
+    'You're leaving already? You've only been here for like fourteen hours? Are
+    you tired?' So there was that, but there was also a lot of bonding."
+* 204 Then, Bhargava had a thought: What if X.com generated its own onetime
+    equivalent? Specifically, the company could manufacture four digit passcodes
+    by sending two random deposits of under $1 to a user's bank account. If a
+    user received $.35 and $.07, for example, they could now enter the code
+    "3507" on the PayPal website. Entered successfully, the onetime code
+    confirmed bank account access--and without grainy faxes or snail-mailed
+    checks.
 
-...
-### 13 Buttoned-Up
+### 13 The Sword
 
 (I had the idea to start taking notes on github when I was on page ~ 200, will
 go back and fill in the previous chapters later)
