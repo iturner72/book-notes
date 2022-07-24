@@ -176,6 +176,39 @@ the book here: https://www.amazon.com/Founders-Paypal-Entrepreneurs-Shaped-Silic
     putting a gun to my head.'"
 
 ### 10 Crash
+* 158 In early 2000, Thiel and Musk were set to meet with Mike Moritz at
+    Sequoia's office at 2800 Sand Hill Road in Menlo Park to discuss the merger.
+    Musk offered Thiel a lift from Palo Alto.
+* 159 Thiel recalls the car in front of them coming fast into view--then Musk
+    swerving to avoid it. The McLaren hit an embankment, was tossed into the
+    air--"like a sicus," Musk remembered--then slammed violently into the
+    ground. "The people that saw it happen thought we were goin to die," he
+    recalled.
+* 163 The joint company was on track to spend almost $25 million that quarter
+    alone, with salaries, bonus payments, credit card fees, and fraud tearing
+    through its balance sheet. "If we were standing on the roof of our building
+    throwing wads of hundred-dollar bills over the side of the building,"
+    remarked Reid Hoffman, "we'd be spending money less [quickly]."
+* 170 Former employees point to the $100 million round's timing as a watershed
+    for PayPal. "I don't think people know how precarious it was," Kement
+    offered. "If we hadn't raised that $100 million round, there would be no
+    PayPall."
+* 170 Mark Woolway extended the counterfactual:" If the team hadn't closed that
+    one humdred million," Woolway said, "there would be no SpaceX, no LinkedIn,
+    and no Tesla."
+* 171 Thiel presented a solution: the company should take the $100 million
+    closed in March and transfer it to his hedge fund, Thiel Capital. He would
+    then use that money to short the public markets. "It was abeautiful logic,"
+    board membner Tim Hurd of MDP remembered. "One of the elements of PayPal was
+    that they were untethered from how people did stuff in the real world."
+* 171 Moritz "just lost his mind," a board member remembered, berating Thiel:
+    "Peter, this is really simple: If this board approves that idea, I'm
+    resigning!"
+* "The tide was changing and Peter is always pessimistic, but he recognizes it
+    is changing, and he was definitely right," Malloy said. "We would have made
+    more money [investing] than anything we did at PayPal."
+
+### 11 The Nut House Coup
 
 ...
 ### 13 Buttoned-Up
