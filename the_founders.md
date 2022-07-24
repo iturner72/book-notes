@@ -235,9 +235,20 @@ the book here: https://www.amazon.com/Founders-Paypal-Entrepreneurs-Shaped-Silic
     checks.
 
 ### 13 The Sword
-
-(I had the idea to start taking notes on github when I was on page ~ 200, will
-go back and fill in the previous chapters later)
+* 221 Musk proposed a solution: rewriting the PayPal.com codebase. He thought
+    the original codebass--built by the Confinity engineers on a Linux
+    foundation--ought to be reconstructed from scratch on a Microsoft platform,
+    like X.com's original site. Musk believed this would yieldd stability and
+    efficiency. He dubbed the effort "PayPal 2.0," and it became known within
+    the company as V2.
+* 223 "Linux in 2019 was not Linux in 2000," Musk said. "Linux in 2000 was very
+    primitive. It didn't have much support...So why the fuck are we using
+    Linux?"
+* 233 In the late summer and early fall of 2000, Levchin found sympathizers in
+    other X.com executives. All had participated in the mutiny against a prior
+    CEO. What worked once, they thought, could work again. So began the
+    clandestine effort to cut Musk--X.com's cofounder, CEO, and biggest
+    individual shareholder--out of the company.
 
 ### 14 Ambition's Debt
 * 238 Confinity and X.com internal conflict was not known to the board until the
