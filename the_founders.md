@@ -156,7 +156,26 @@ the book here: https://www.amazon.com/Founders-Paypal-Entrepreneurs-Shaped-Silic
     bullshit tolerance is low, but Peter is like zero."
 
 ### 9 The Widget Wars
-*
+* 145 X.com and Confinity spent the turn of the twenty-first century locked in a
+    tense battle for customer growth. THis contest consumed both companies from
+    the end of 1999 through early 2000, driving employees and leaders alike to
+    the brink and leaving lasting scars.
+* 149 Levchin hung a banner in the office reading "Memento Mori" with an X.com
+    logo. "Memento Mori" is an ancient Latin philosophical maxim which
+    translates to "Remember that you must die."
+* 150 Thiel determined that X.com could simply spend Confinity out of existence.
+    "Peter was good to recognize that they were a real threat," Malloy said. And
+    Thiel didn't like to lose. "Show me a good loser," Thiel once said to a
+    Confinity employee, "and I'll show you a loser."
+* 155 Eventually, the two sides reached a hard-won provisional agreement. While
+    Confinity would remain the junior partner, what had begun as a 92-8
+    acquisition had been hammered into aa 55-45 one.
+* 156 Harris responded by dropping the bomb: he told Musk that absent a deal (50
+    50 split) between the two companies, he would resign as X.com's CEO. Musk
+    remembers saying, "'Bill, we need to raise a round. And you're basically
+    putting a gun to my head.'"
+
+### 10 Crash
 
 ...
 ### 13 Buttoned-Up
