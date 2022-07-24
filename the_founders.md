@@ -204,11 +204,22 @@ the book here: https://www.amazon.com/Founders-Paypal-Entrepreneurs-Shaped-Silic
 * 171 Moritz "just lost his mind," a board member remembered, berating Thiel:
     "Peter, this is really simple: If this board approves that idea, I'm
     resigning!"
-* "The tide was changing and Peter is always pessimistic, but he recognizes it
-    is changing, and he was definitely right," Malloy said. "We would have made
-    more money [investing] than anything we did at PayPal."
+* 171 "The tide was changing and Peter is always pessimistic, but he recognizes
+    it is changing, and he was definitely right," Malloy said. "We would have
+    made more money [investing] than anything we did at PayPal."
 
 ### 11 The Nut House Coup
+* 185 The Nut House meeting revealed overlap between Sacks and Musk where they
+    had expected to be at odds. "By the time we left the Nut House that night,
+    we realized everybody was on the same page about this," one participant
+    said. "That is wan't working." That night, the assembled employees began
+    plotting a putsch against their CEO.
+* 191 "kind of by process of elimination, it was me," Musk recalled. "I wasn't
+    planning to be CEO. It was kind of like, 'If I don't do it, when who is? And
+    okay, Peter's not here. So, I guess I'll be CEO.'"
+
+### 12 Buttoned-Up
+*
 
 ...
 ### 13 Buttoned-Up
