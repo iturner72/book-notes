@@ -242,4 +242,29 @@ the book here: https://www.amazon.com/Zero-One-Notes-Startups-Future/dp/08041392
     dollar subsidy was unthinkable in the mid-2000s. It's unthinkable today.
 
 ### 14 The Founder's Paradox
-*
+* 173 Of the six people who started PayPal, four had built bombs in high school.
+    Five were just 23 years old--or younger. Four of us had been born outside
+    the United States. Three had ascaped here from communist countries: Yu
+    Panfrom China, Luke Nosek from Poland, and Max Levchin from Soviet Ukraine.
+* 173 The six of us could have been seen as eccentric. My first ever
+    conversation with Luke was about how he'd just signed up for cryonice, to be
+    frozen upon death in hope of medical resurrection.
+* 183 Before she joined the club in 2011, Amy Winehouse sang: "They tried to
+    make me go to rehab, but I said, 'No, no, no.'" Maybe rehab seemed so
+    unattractive because it blocked the path to immortality. Perhaps the only
+    way to be a rock god forever is to die an early death.
+* 188 The lesson for business is that we need founders. If anything, we should
+    be more tolerant of founders who seem strange or extreme; we need unusual
+    individuals to lead companies beyond mere incrementalism.
+* 189 That we need individual founders in all their peculiarity does not mean
+    that we are called to worship Ayn Randian "prime movers" who claim to be
+    independent of everybody around them. In this respect Rand was a merely
+    half-great writer: her villains ere real, but her heros were fake. There is
+    no Galt's Gulch. There is no secession from society.
+
+### Conclusion: Stagnation Or Singularity?
+* 195 Our task today is to find singular ways to create the new things that will
+    make the future not just different, but better--to go from 0 to 1. The
+    essential first step is to think for yourself. Only by seeing our world
+    anew, as fresh and strange as it was to the ancients who saw it first, can
+    we both re-create it and preserve it for the future.
