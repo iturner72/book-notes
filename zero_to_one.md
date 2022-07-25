@@ -229,3 +229,17 @@ the book here: https://www.amazon.com/Zero-One-Notes-Startups-Future/dp/08041392
     advanced fraud detection.
 
 ### 13 Seeing Green
+* 164 An industry premised on the supposed twilight of fossil fuels was
+    blindsided by the rise of fracking. In 2000, just 1.7% of America's natural
+    gas came from fracked shale. Five years later, that figure had climbed to
+    4.1%.
+* 166 Tesla is one of the few cleantech companies started last decade to be
+    thriving today. They rode the social buzz of cleantech better than anyone,
+    but they got the seven questions right, so their success is instructive.
+* 167 In January 2010--about a year and a half before Solyndra imploded under
+    the Obama administration and politicized the subsidy question--Tesla secured
+    a $465 million loan from the U.S. Department of Energy. A half-billion
+    dollar subsidy was unthinkable in the mid-2000s. It's unthinkable today.
+
+### 14 The Founder's Paradox
+*
