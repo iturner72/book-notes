@@ -44,7 +44,16 @@ the book here: https://www.amazon.com/Archipelago-Peterson-introduction-Aleksand
     after cucumbers or apples, they were liable to get *twenty* years in camp.
 
 ### 3 The Interrogation
-
+* 49 The interrogator, without sking one single question, and sometimes without
+    even allowing Chebotaryev to sit down, would pick up the telephone: "Take
+    away the prisoner from 107!" And so they came to get him and took him back
+    to his cell. No sooner had he lain down on his board bunk than the lock
+    rattled: "Chebotaryev! To interrogation. Hands behind your back!" And when
+    he got there: "Take away the prisoner from 107!"
+* 56 But neither our education, nor our upbringing, nor our experience perpares
+    us in the slightest for the greatest trial of our lives: being arrested for
+    nothing and interrogated about nothing.
+*
 
 
 
