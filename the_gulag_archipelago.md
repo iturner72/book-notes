@@ -37,6 +37,14 @@ the book here: https://www.amazon.com/Archipelago-Peterson-introduction-Aleksand
     occupation (an extreme of poverty to which the peasants had not been driven
     even in serfdom) the courts handed out a full measure: *ten* years for what
     ranked as an especially dangerous theft of socialist property.
+* 35 ...on June 4, 1947, a decree was issued which outdid them all. It was
+    instantly christened "Four-sixths" by the undismayed prisoners. If a young
+    girl sent into the fields to get a few ears of grain took along two friends
+    for company ("an organized gang") or some twelve-year-old youngsters went
+    after cucumbers or apples, they were liable to get *twenty* years in camp.
+
+### 3 The Interrogation
+
 
 
 
