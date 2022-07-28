@@ -59,5 +59,16 @@ the book here: https://www.amazon.com/Archipelago-Peterson-introduction-Aleksand
     with turpentine.
 
 ### 4 The Bluecaps
+* 71 To know what it meant to be a bluecap one had to experience it! Anything
+    you saw was yours! Any apartment you looked at was youre! Any woman was
+    yours! Any enemy was struck from your path! The earth beneath your feet was
+    yours! The heaven above you was yours --it was, after all, like your cap,
+    sky blue!
+* 75 If only it were all so simple!  If only there were evil people somewhere
+    insidiously committing evil deeds, and it were necessary only to separate
+    them from the rest of us and destroy them. But the line dividing good and
+    evil cuts through the heart of every human being. And who is willing to
+    destroy a piece of his own heart?
+*
 
 
