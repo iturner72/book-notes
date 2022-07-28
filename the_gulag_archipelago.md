@@ -53,7 +53,11 @@ the book here: https://www.amazon.com/Archipelago-Peterson-introduction-Aleksand
 * 56 But neither our education, nor our upbringing, nor our experience perpares
     us in the slightest for the greatest trial of our lives: being arrested for
     nothing and interrogated about nothing.
-*
+* 60 ...they could give you a salt-water douche in the throat and then leave you
+    in a box for a day tormented by thirst (Karpunich). Or that they might
+    scrape the skin off a man's back with a grater till it bled and then oil it
+    with turpentine.
 
+### 4 The Bluecaps
 
 
