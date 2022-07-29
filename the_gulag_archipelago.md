@@ -75,5 +75,17 @@ the book here: https://www.amazon.com/Archipelago-Peterson-introduction-Aleksand
     and it will rise up a thousandfold in the future.
 
 ### 5 First Cell, First Love
+* 84 For a week or a month you had been an abandoned waif, alone among enemies,
+    and you had already said good-bye to reason and to life; and you had already
+    tried to kill yourself by "falling" from the radiator in such a way as to
+    smash your brains against the iron cone of the valve. Then all of a sudden
+    you were alive again, and were brought in to your friends. And reason
+    returned to you.
+* 93 The Russians were carrying the whole war on their shoulders--and this was
+    the Russian lot. Why? What is the right course of sction if our mother has
+    sold us to the gypsies? No, even worse, thrown us to the dogs? Does she
+    really remain our mother? If a wife has become a whore, are we really still
+    bound to here in fidelity? A Motherland that betrays its soldiers--is that
+    really a Motherland?
 
-
+### 6 That Spring
