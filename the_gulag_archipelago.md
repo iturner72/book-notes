@@ -69,6 +69,11 @@ the book here: https://www.amazon.com/Archipelago-Peterson-introduction-Aleksand
     them from the rest of us and destroy them. But the line dividing good and
     evil cuts through the heart of every human being. And who is willing to
     destroy a piece of his own heart?
-*
+* 81 We have to condemn publicly the very *idea* that some people have the right
+    to repress others. In keeping silent about evil, in burying it so deep
+    within us that no sign of it appears on the surface, we are *implanting* it,
+    and it will rise up a thousandfold in the future.
+
+### 5 First Cell, First Love
 
 
