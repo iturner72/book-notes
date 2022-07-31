@@ -203,3 +203,68 @@ the book here: https://www.amazon.com/Zero-One-Notes-Startups-Future/dp/08041392
     sell--no matter whether you're an employee, a founder, or an investor. It's
     true even if your company consists of just you and your computer. Look
     around. If you don't see any sales-people, you're the salesperson.
+
+### 12 Man And Machine
+* 141 Everyone expects computers to do more in the future--so much more that
+    some wonder: 30 years from now, will there be anything left for people to
+    do? "Software is eating the world," venture capitalist Marc Andreessen has
+    announced with a tone of inevitabillity.
+* 144 As computers become more and more powerful, they won't be substitutes for
+    humans: they'll be complements.
+* 146 ...after we sold PayPal in 2002... The next year, I pitched Alex Karp, an
+    old Stanford classmate, and Stephen Cohen, a softwae engineer, on a new
+    startup idea: we would use the human-commputer hybrid approach from PayPal's
+    security system to identify terrorist networks and financial fraud.
+* 146 We already knew the FBI was interested, and in 2004 we founded Palantir, a
+    software company that helps people extract insight from ivergent sources of
+    information. The company is on track to book sales of $1 billion in 2014,
+    and *Forbes* has called Palantir's software the "killer app" for its rumoed
+    role in helping the goernment locate Osama bin Laden.
+* 147 In addition to helping find terrorists, analysts using Palantir's software
+    have been able to predict where insurgents plant IEDs in Afghanistan;
+    prosecute high-progile insider trading cases; take down the largest child
+    pornography ring in the world; support the Centers for Disease Control and
+    Prevention in fighting foodborne disease outbreaks; and save both commercial
+    banks and the government hundreds of millions of dollars annually through
+    advanced fraud detection.
+
+### 13 Seeing Green
+* 164 An industry premised on the supposed twilight of fossil fuels was
+    blindsided by the rise of fracking. In 2000, just 1.7% of America's natural
+    gas came from fracked shale. Five years later, that figure had climbed to
+    4.1%.
+* 166 Tesla is one of the few cleantech companies started last decade to be
+    thriving today. They rode the social buzz of cleantech better than anyone,
+    but they got the seven questions right, so their success is instructive.
+* 167 In January 2010--about a year and a half before Solyndra imploded under
+    the Obama administration and politicized the subsidy question--Tesla secured
+    a $465 million loan from the U.S. Department of Energy. A half-billion
+    dollar subsidy was unthinkable in the mid-2000s. It's unthinkable today.
+
+### 14 The Founder's Paradox
+* 173 Of the six people who started PayPal, four had built bombs in high school.
+    Five were just 23 years old--or younger. Four of us had been born outside
+    the United States. Three had ascaped here from communist countries: Yu
+    Panfrom China, Luke Nosek from Poland, and Max Levchin from Soviet Ukraine.
+* 173 The six of us could have been seen as eccentric. My first ever
+    conversation with Luke was about how he'd just signed up for cryonice, to be
+    frozen upon death in hope of medical resurrection.
+* 183 Before she joined the club in 2011, Amy Winehouse sang: "They tried to
+    make me go to rehab, but I said, 'No, no, no.'" Maybe rehab seemed so
+    unattractive because it blocked the path to immortality. Perhaps the only
+    way to be a rock god forever is to die an early death.
+* 188 The lesson for business is that we need founders. If anything, we should
+    be more tolerant of founders who seem strange or extreme; we need unusual
+    individuals to lead companies beyond mere incrementalism.
+* 189 That we need individual founders in all their peculiarity does not mean
+    that we are called to worship Ayn Randian "prime movers" who claim to be
+    independent of everybody around them. In this respect Rand was a merely
+    half-great writer: her villains ere real, but her heros were fake. There is
+    no Galt's Gulch. There is no secession from society.
+
+### Conclusion: Stagnation Or Singularity?
+* 195 Our task today is to find singular ways to create the new things that will
+    make the future not just different, but better--to go from 0 to 1. The
+    essential first step is to think for yourself. Only by seeing our world
+    anew, as fresh and strange as it was to the ancients who saw it first, can
+    we both re-create it and preserve it for the future.
