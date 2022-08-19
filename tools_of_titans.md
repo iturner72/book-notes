@@ -784,9 +784,10 @@ hilarious.
 
 ### Sebastian Junger
 * 420 Sebastian Junger (@sebastianjunger) is the #1 *New York Times*
-    best-selling author of *The Perfect Storm, Fire, a Death, in Belmont, War*,
+    best-selling author of *The Perfect Storm, Fire, A Death in Belmont, War*,
     and *Tribe*.. As an award-winning journalist, he has received both a
     National Magazine Award and a Peabody Award.
+
 
 
 
