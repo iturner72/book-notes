@@ -21,15 +21,15 @@ the book here: https://www.amazon.com/Zero-One-Notes-Startups-Future/dp/08041392
     technological development, mostly confined to IT.
 * 10 New technology tends to come from new ventures--startups. From the Founding
     Fathers in politics to the Royal Society in science to Fairchild
-    Semiconductor's "traightorous eight" in business, small groups of people
+    Semiconductor's "traitorous eight" in business, small groups of people
     bound together by a sense of mission have changed the world for the better.
 
 ### 2 Party Like It's 1999
 * 16 Dot-com mania was intense but short--18 months of insanity from September
-    1998 to March 2000. It was a Silicon Valley gold rusg: there was money
+    1998 to March 2000. It was a Silicon Valley gold rush: there was money
     everywhere, and no shortage of exuberant, often sketchy people to chase it.
 * 18 We gave new customers $10 for joining, and we gave them $10 more every time
-    they reffered a friend. This got us hundreds of thousands on new customers
+    they referred a friend. This got us hundreds of thousands on new customers
     and an exponential growth rate.
 * 18 When we raised $100 million the next month, our lead investor took the
     *Journal's* back-of-the-envelope valuation as authoritative. (Other
@@ -39,13 +39,13 @@ the book here: https://www.amazon.com/Zero-One-Notes-Startups-Future/dp/08041392
 
 ### 3 All Happy Companies Are Different
 * 24 In this book, we're not interested in illegal bullies or government
-    favorites: bhy "monopoly," we mean the kind of company that's so good at
+    favorites: by "monopoly," we mean the kind of company that's so good at
     what it does that no other firm can offer a close substitute. Google is a
     good example of a company that went from 0 to 1: it hasn't competed in
     search since the early 2000s, when it definitively distanced itself from
     Microsoft and Yahoo!
 * 25 Actually, capitalism and competition are opposites. Capitalism is premised
-    on the accumilation of capital, but under perfect competition all profits
+    on the accumulation of capital, but under perfect competition all profits
     get competed away. The lesson for entrepreneurs is clear: *if you want to
     create and capture lasting value, don't build an undifferentiated commodity
     business.*
@@ -128,7 +128,7 @@ the book here: https://www.amazon.com/Zero-One-Notes-Startups-Future/dp/08041392
     the sum of every other investment aside from Facebook.
 * 90 The most common answer to the question of future value is a diversified
     portfolio: "Don't put all your eggs in one basket," everyone has been told.
-    As we said, even the best venture investors have a portfoliom but investors
+    As we said, even the best venture investors have a portfolio but investors
     who understand the power law make as few investments as possible.
 
 ### 8 Secrets
