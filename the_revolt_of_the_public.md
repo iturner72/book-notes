@@ -3,7 +3,7 @@
 by Martin Gurri
 
 *I, Ian Turner own this book and took these notes for my own learning, purchase
-the book here:* https://www.amazon.com/Founders-Paypal-Entrepreneurs-Shaped-Silicon/dp/1501197266
+the book here:* https://www.amazon.com/Revolt-Public-Crisis-Authority-Millennium/dp/1732265143
 
 ### Prelude To A Turbuent Age
 * 23 "(My 93-year-old mother has kept her subscription to the *Washington Post*
