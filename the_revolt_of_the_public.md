@@ -72,3 +72,38 @@ the book here:* https://www.amazon.com/Revolt-Public-Crisis-Authority-Millennium
 * 39 If Jack Valenti (head of Motion Picture Association of America) had had the
     power to sentence Shawn Fanning to 19.5 years in a federal penitentiary, I'm
     fairly certain he would have done so.
+* 46 Roland Schatz, a brilliant commercial practitionaer of agenda-setting
+    theory, has identified a level of media diffusion below which a message
+    sinks without notice, but above which it quickly rises to public attention.
+    Schatz calls this boundary the *awareness threshold*, and has estimated the
+    tipping point at 15 percent of diffusion. Scholars have charted a similar
+    trajectory for the adoption of every kind of innovation, including new
+    political beliefs. "Critical mass" occurs at between 10 and 20 percent of
+    adoption -- the level at which enough diffusion networks become "infected"
+    by the virus of change to make the latter self-sustaining.
+* 50 The reality of the new environment is that the golbal information sphere,
+    rather than any one medium or platform, erupts into nearly very political
+    conflict, and not infrequently helps determine the outcome. Unlike, say, TV
+    or Facebook, the information spere can't be blocked by government. It's too
+    redundant. Info leaks in anyhow.
+* 50 This was demonstrated under almost lab conditions in Egypt on Friday, Jan
+    28, 2011: the moment the government shut the door on its population's access
+    to the internet. Mobile phone service was disrupted as well. Mubarak, on the
+    brink of the precipice, wanted to change sides on the dictator's dilemma,
+    withdraw his gamble on modernity. He imagined he could push Egypt back into
+    the past, to the comfortable days before the Fifth Wave.
+* 52 Its agents dropped Al Jazeera's signal from the Nilesate satellite, and
+    orchestrated the physical intimidation of Al Jazeera staff in Egypt. These
+    efforts collided with the redundancy factor and came to nothing. Other Arab
+    channels offered Al Jazeera space on their satellites, and much of Al
+    Jazeera's footage came from amateurs who could not be shut down or
+    intimidated.
+* 53 YouTube amplified this sentiment, re-hosting video from Al Jazeera and
+    other broadcasters, as well as raw footage from cell phone cameras that
+    somehow found a path to the web. Unlike TV or live streaing, YouTube could
+    select the most visually dramatic moments, and make them searchable. It
+    archived spontaneity: a defiant young man suddenly gunned down by security
+    forces, a bizarre horse and camel charge by Mubarak supporters into the
+    crowd at Tahrir Square.
+
+### My Thesis
