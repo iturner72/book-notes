@@ -1698,4 +1698,3 @@ was now the TSA, and the TSA, they knew, was safety theater.
     creation of a new world (the internet), the software to code and communicate
     policies, and the cryptography to enforce them.
 
-    ajskdfja;skldf
