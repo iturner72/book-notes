@@ -107,7 +107,6 @@ the book here:* https://www.amazon.com/Revolt-Public-Crisis-Authority-Millennium
     crowd at Tahrir Square.
 
 ### My Thesis
-<<<<<<< HEAD
 * 57 But it turns out that fascination ith surface glitter has obscured our view
     to what is transpiring in the depths. There, human beings interact with
     platforms and information, ane are changed by the interaction, and the
@@ -157,6 +156,3 @@ the book here:* https://www.amazon.com/Revolt-Public-Crisis-Authority-Millennium
     mediator class created by mass media, and, under authoritarian rule,
     controlled by the regime.
 
-=======
-* Hi Virginia
->>>>>>> 9d3f669931095a5597415535ea4af3f62b4e6110
