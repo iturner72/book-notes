@@ -107,3 +107,52 @@ the book here:* https://www.amazon.com/Revolt-Public-Crisis-Authority-Millennium
     crowd at Tahrir Square.
 
 ### My Thesis
+* 57 But it turns out that fascination ith surface glitter has obscured our view
+    to what is transpiring in the depths. There, human beings interact with
+    platforms and information, ane are changed by the interaction, and the
+    accumulated changes have shaken and battered established institutions from
+    companies and universities to governments and religions.
+* 58 My thesis is a simple one. We are caught between an old world that is
+    decreasingly able to sustain us intellectually and spiritually, maybe even
+    materially, and a new world that has not yet been born. Given the character
+    of the forces of change, we may be stuck for decades in this ungainly
+    posture. You who are young today may not live to see its resolution.
+* 58 Each side in the struggle has a standard-bearer: *authority* for the old
+    industrial scheme that has dominated globally for a century and a half, the
+    *public* for the uncertain dispensation striving to become manifest. The
+    conflict is so asymmetrical that is seems impossible for the two sides
+    actually to engage. But they do engage, and the battlefield is everywhere.
+* 58 The industrial age insisted on portentous-sounding names of great
+    seriousness and formality, to validate the organizations that spoke with the
+    voice of authority: "Bank of America," "National Broadcasting Corporation,"
+    "*New York Times.*"
+* 59 The digital age loves self-mocking names, which are a way to puncture the
+    formal stiffness of the established order: "Yahoo!," "Google," "Twitter,"
+    "Reddit, "Flickr," "Photobucket," "Bitcoin." I feel reasonable sure that
+    the founders of Google never contemplated naming their company "National
+    Search Engine Corporation" and Mark Zuckerberg of Facebook never felt
+    tempted by "Socia Connections Center of America." It wasn't the style.
+* 60 Against this citadel of the status quo, the Fifth Wave has raised the
+    *network*: that is, the public in revolt, those despised amateurs now
+    connected to one another by means of digital devices.
+* 62 Since power wasn't a file that could be copied or shared, the political
+    battleground has tilted more in favor of hierarchy. Even the U.S government
+    during this period has been allowed to operate on the assumption that the
+    public are the enemy--for example, in airports and federal buildings.
+* 69 In the tectonic depths of social and political life, the balance of power
+    has fundamentally shifted between authority and obedience, ruler and ruled,
+    elite and public, so that each can inflict damage on the other but neither
+    can attain a decisive advantage. That is the non-utopian thesis of this
+    book. And it was arrived at, in part, by pursuing threads of analysis about
+    the nature and consequences of new media that were first spun by Clay
+    Shirky.
+* 76 A vast global information sphere, churning with controversies, points of
+    view, and rival claims on every subject becomes accessible to our hero. Its
+    volume and variety exceed that of the controlled media by many levels of
+    magnitude. If *Homo Informaticus* were to try to absorb this mass, his head
+    would explode. This is not what transpires. He will pick and choose. So will
+    other members of the public. By that very selectivity, that freedom to
+    choose its channels of information, the public breaks the power of the
+    mediator class created by mass media, and, under authoritarian rule,
+    controlled by the regime.
+
