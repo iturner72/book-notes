@@ -155,4 +155,8 @@ the book here:* https://www.amazon.com/Revolt-Public-Crisis-Authority-Millennium
     choose its channels of information, the public breaks the power of the
     mediator class created by mass media, and, under authoritarian rule,
     controlled by the regime.
-
+* 77 An accurate representation based on volume would show state media to be
+    microscopic, invisible, when compared to the global information sphere. This
+    is how *H. informaticus* experiences the changed environment: as an
+    Amazonian flood of irreverent, controversy-ridden, anti-authority content,
+    including direct criticism of the regime.
