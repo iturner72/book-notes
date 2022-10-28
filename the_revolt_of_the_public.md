@@ -5,7 +5,7 @@ by Martin Gurri
 *I, Ian Turner own this book and took these notes for my own learning, purchase
 the book here:* https://www.amazon.com/Revolt-Public-Crisis-Authority-Millennium/dp/1732265143
 
-### Prelude To A Turbuent Age
+### 1 Prelude To A Turbuent Age
 * 23 "(My 93-year-old mother has kept her subscription to the *Washington Post*
     stricly because she loves the corssword puzzles. I have shown her websites
     teeming with crossword puzzles, but she remains unmoved. My mother wants her
@@ -27,7 +27,7 @@ the book here:* https://www.amazon.com/Revolt-Public-Crisis-Authority-Millennium
     what promises to be a cataclysmic expansion of information and communication
     technology. Welcome, friend, to the Fifth Wave.
 
-### Hoder and Wael Ghonim
+### 2 Hoder and Wael Ghonim
 * 32 In theory, the Iranian regime is a Platonic republic, with wise guardians
     protecting the moral and material welfare of all. In practive, it resembles
     a sterile hybrid begot on the mafia by the Communist Party of the Soviet
@@ -106,7 +106,7 @@ the book here:* https://www.amazon.com/Revolt-Public-Crisis-Authority-Millennium
     forces, a bizarre horse and camel charge by Mubarak supporters into the
     crowd at Tahrir Square.
 
-### My Thesis
+### 3 My Thesis
 * 57 But it turns out that fascination ith surface glitter has obscured our view
     to what is transpiring in the depths. There, human beings interact with
     platforms and information, ane are changed by the interaction, and the
@@ -160,3 +160,5 @@ the book here:* https://www.amazon.com/Revolt-Public-Crisis-Authority-Millennium
     is how *H. informaticus* experiences the changed environment: as an
     Amazonian flood of irreverent, controversy-ridden, anti-authority content,
     including direct criticism of the regime.
+
+### 4 What The Public Is Not
