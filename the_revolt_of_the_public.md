@@ -162,3 +162,38 @@ the book here:* https://www.amazon.com/Revolt-Public-Crisis-Authority-Millennium
     including direct criticism of the regime.
 
 ### 4 What The Public Is Not
+* 87 Intoxicated by the successes of industrial organization the founders of
+    mass movements, and their admirers and imitators, sought to reduce political
+    action to pure mechanics. This was true of right and left, and regardless of
+    the actual content of the movement's ideology. The latter was usualy a hash
+    or pseudoscience, in any case: racial Darwinism for the Nazis, for example,
+    or "scientific materialism" for Marxist-Leninists.
+* 89 By the time the Soviet Union went out of business in 1991, the mass
+    movement, in the eyes of its potential followers, had become a dead relic
+    from a forgotten time. Desiccated specimens, which clung to places like Vube
+    and North Korea, served as illustrations of its utter failure.
+* 92 The relationship between the public and the crowd is not transparent.
+    Though closely associated with on another, the two are never identical. The
+    public, we know, is composed of private persons welded together by a point
+    of reference: what Lippmann called an interest in an affair,which can mean a
+    love of computer games or a political disposition.
+* 92 A crowd, on the contrary, is always *manifest*, and capable of great
+    physical destructiveness and ferocity. It is a form of action that submerges
+    the desires of many individuals under a single rough-hewn will. In direct
+    democracies like ancient Athens, it could be said to represent the will of
+    the sovereign people. Everywhere else, the crowd can represent nothing.
+* 95 In the new millenium, the public returned with a vengance, and its command
+    of the information sphere permitted much greater intimacy with the crowd
+    than had been structurally possible before. The public could invite itself
+    to protest on Facebook comment from the streets on Twitter, and reflect on
+    the larger meaning of the event on blogs, Tumblr, Reddit, and otheropen
+    platforms. For the first time in history, public opinion could fuse, moment
+    by moment, with the actions of the crowd.
+* 97 In the worldwide political collision between the new public and established
+    authority, the image of the crowd had assumed a decisive importance. A
+    willingness to face down power, even to die, in front of cell phone cameras,
+    has equalized the asymmetry of this conflict to a surprising extent.
+* 97 The vector of contagion was the information sphere, the weapon of choice
+    wasa the crowd. The resulting convulsion deserved a catchy name, but given
+    the failure of the global imagination on this point, I will call it, simply,
+    the year 2011.
