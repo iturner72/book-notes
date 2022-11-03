@@ -17,7 +17,7 @@ very much ignorant of financial vocab, but above average with crypto concepts*
     readers to understand this new technology that is here to stay.
 
 # 1 Ledgers, Bitcoin, Blockchains
-## A. Life In Databases
+## A Life In Databases
 * Modern life consists in large part of entries in databases.
 * If you have money, what you have is an entry in your bank's database saying
     how much money you have. If you have a share of stock, what you have is
@@ -36,7 +36,7 @@ very much ignorant of financial vocab, but above average with crypto concepts*
         system of laws and databases and trust itself. It's a towering and
         underappreciated achievement of modernity that we mostly do trust the
         database-keepers, and that they mostly are trustworthy.
-## B. What If You Don't Like It?
+## B What If You Don't Like It?
 * i. Distrust
     + But we don't always trust them, and they're not always trustworthy.
     + There are banks you can't trust to hold your money for you and places
@@ -94,6 +94,6 @@ very much ignorant of financial vocab, but above average with crypto concepts*
 
 # Docket
 Chapter 1, Section C, Subsection i, bullet 4, line 76: (Shots fired at gm???)
-[CDigitalCash](##C-Digital-Cash)
+[C-Digital-Cash](##C-Digital-Cash)
 (This is a hilariously bad reference, I'll figure out how to point directly to
 section maybe, but not quote itself...
