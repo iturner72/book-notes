@@ -52,6 +52,29 @@ very much ignorant of financial vocab, but above average with crypto concepts*
         making them interact with one another seamlessly?
     + What if there was one database, and everyone ran it?
 ### C. Digital Cash
+* Intro.
+    + In 2008, Satoshi Nakamoto published a method for everyone to run a
+        database, thus inventing "crypto."
+    + Satoshi invented "an electronic payment system based on cryptographic
+        proof instead of trust, allowing any two willing parties to transact
+        directly with each other without the need for a trusted third party."
+* i. Digression: What are you even reading? Why are you reading it? Why am I
+    writing it?
+    + When Satoshi invented Bitcoin, one Bitcoin was worth zero dollars: it was
+        just an idea he made up. At its peak last November, on Bitcoin was worth
+        more than $67,000, and the total value of all the crypto in circulation
+        was something like $3 trillion.
+    + Many people who got into crypto early got very rich very fast and were
+        very annoying about it.
+    + I didn't sit down and write 40,000 words to tell you that crypto is dumb
+        and worthless and will now vanish without a trace. That would be an odd
+        use of time. My goal here is not to convince you that crypto is building
+        the furute and that if you don't get on board you'll stay poor. My goal
+        is to convince you that crypto is interesting, that it has found some
+        new things to say about some old problems, and that even when those
+        things are wrong, they're wrong in illuminating ways.
+    + ...then some vague theoretical musings like "Well, maybe we could build a
+        social media network on web3?" (Shots fired at gm???)
 
 
 
@@ -70,3 +93,7 @@ very much ignorant of financial vocab, but above average with crypto concepts*
 
 
 ## Docket
+Chapter 1, Section C, Subsection i, bullet 4, line 76: (Shots fired at gm???)
+[a link](### C. Digital Cash)
+(This is a hilariously bad reference, I'll figure out how to point directly to
+section maybe, but not quote itself...
