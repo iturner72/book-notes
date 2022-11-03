@@ -94,6 +94,6 @@ very much ignorant of financial vocab, but above average with crypto concepts*
 
 # Docket
 Chapter 1, Section C, Subsection i, bullet 4, line 76: (Shots fired at gm???)
-[C-Digital-Cash](##C-Digital-Cash)
+[C-Digital-Cash](##-C-Digital-Cash)
 (This is a hilariously bad reference, I'll figure out how to point directly to
 section maybe, but not quote itself...
