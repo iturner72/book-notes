@@ -10,14 +10,14 @@ very much ignorant of financial vocab, but above average with crypto concepts*
 
 
 
-## Notes
+# Notes
 
-### Intro
+## Intro
 * Joel Weber proposes that he is perhaps wrong about crypto and encourages his
     readers to understand this new technology that is here to stay.
 
-## 1 Ledgers, Bitcoin, Blockchains
-### A. Life In Databases
+# 1 Ledgers, Bitcoin, Blockchains
+## A. Life In Databases
 * Modern life consists in large part of entries in databases.
 * If you have money, what you have is an entry in your bank's database saying
     how much money you have. If you have a share of stock, what you have is
@@ -36,7 +36,7 @@ very much ignorant of financial vocab, but above average with crypto concepts*
         system of laws and databases and trust itself. It's a towering and
         underappreciated achievement of modernity that we mostly do trust the
         database-keepers, and that they mostly are trustworthy.
-### B. What If You Don't Like It?
+## B. What If You Don't Like It?
 * i. Distrust
     + But we don't always trust them, and they're not always trustworthy.
     + There are banks you can't trust to hold your money for you and places
@@ -51,7 +51,7 @@ very much ignorant of financial vocab, but above average with crypto concepts*
         languages using modern software engineering principles, with the goal of
         making them interact with one another seamlessly?
     + What if there was one database, and everyone ran it?
-### C. Digital Cash
+## C. Digital Cash
 * Intro.
     + In 2008, Satoshi Nakamoto published a method for everyone to run a
         database, thus inventing "crypto."
@@ -78,22 +78,22 @@ very much ignorant of financial vocab, but above average with crypto concepts*
 
 
 
-## 2 What Does It Mean?
+# 2 What Does It Mean?
 
 
 
-## 3 The Crypto Financial System
+# 3 The Crypto Financial System
 
 
 
-## 4 Trust, Money, Community
+# 4 Trust, Money, Community
 
 
 
 
 
-## Docket
+# Docket
 Chapter 1, Section C, Subsection i, bullet 4, line 76: (Shots fired at gm???)
-[a link](### C. Digital Cash)
+[C.DigitalCash](##C.-Digital Cash)
 (This is a hilariously bad reference, I'll figure out how to point directly to
 section maybe, but not quote itself...
