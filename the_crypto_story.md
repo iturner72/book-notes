@@ -1,4 +1,4 @@
-## The Crypto Story
+# The Crypto Story
 
 by Matt Levine
 
