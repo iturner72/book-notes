@@ -51,7 +51,7 @@ very much ignorant of financial vocab, but above average with crypto concepts*
         languages using modern software engineering principles, with the goal of
         making them interact with one another seamlessly?
     + What if there was one database, and everyone ran it?
-## C. Digital Cash
+## C Digital Cash
 * Intro.
     + In 2008, Satoshi Nakamoto published a method for everyone to run a
         database, thus inventing "crypto."
@@ -94,6 +94,6 @@ very much ignorant of financial vocab, but above average with crypto concepts*
 
 # Docket
 Chapter 1, Section C, Subsection i, bullet 4, line 76: (Shots fired at gm???)
-[C.DigitalCash](##C.-Digital Cash)
+[CDigitalCash](##C-Digital-Cash)
 (This is a hilariously bad reference, I'll figure out how to point directly to
 section maybe, but not quote itself...
