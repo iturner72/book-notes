@@ -21,7 +21,7 @@ the book here:* https://www.amazon.com/Revolt-Public-Crisis-Authority-Millennium
     refer to the public as "it," but sometimes, in a certain context, as "them."
     Whether one or the other is correct, I leave for grammarians to decide. Both
     fit.
-* 28 It's early days. The transformation has barely gegun, and resistance by the
+* 28 It's early days. The transformation has barely begun, and resistance by the
     old order will make the consequences nonlinear, uncertain. But I think I
     have already established that we stand, everywhere, at the first moment of
     what promises to be a cataclysmic expansion of information and communication
@@ -197,3 +197,119 @@ the book here:* https://www.amazon.com/Revolt-Public-Crisis-Authority-Millennium
     wasa the crowd. The resulting convulsion deserved a catchy name, but given
     the failure of the global imagination on this point, I will call it, simply,
     the year 2011.
+
+### 5 Phase Change 2011
+* 99 The elites who control the institutions have never really trusted the
+    public, which they considered animalistic and prone to bouts of
+    destructiveness. A glimpse at any American airport today will confirm that
+    this horror of the top for the bottom has, if anything, grown more intense.
+    + What has changed, then, is the public's distrust for authority - and its
+        increased power, in the age of the Fifth Wave, to translate that
+        distrust into action.
+* 99 Pierre Rosanvallon, one of the few interesting political analysts today,
+    has written of the "rise of *sociey of distrust.*" The public, in a complex
+    society, must depend on specialist, experts, and intermediaries such as
+    political representatives, organized institutionally and hierarchically.
+    When the experts fail, the public can only appeal to other experts, often
+    from the same failed institution. The process has resembled a mutual
+    protection pact amoung elites. Failure typically gets blamed on insufficient
+    support: the CIA, for example, demanded and received a bigger budget after
+    9/11.
+* 103 [quote from 2011 demonstrattions in Spain]: *Some of use consider
+    ourselves more progressive, others more conservative. Some are believers,
+    others not. Some have well-defined ideologies, others consider ourselves
+    apolitical... But all of us are worries and outraged by the political,
+    economic, and social landscape we see around us. By the corruption of the
+    politicians, businessmen, bankers...*
+* 104 Damming ideology and party politics attracted many to the protest. Sheer
+    negation, hostility toward the status quo, became the shared point of
+    reference for networks and individuals advocating mutually inconsistent
+    ideals.
+* 107 What should be the public's expectations of government? We know the
+    *indignados*, along with millions of Spaniards, felt cheated of their
+    expectations to the point of outrage and revolt. Were they justified?
+* 108 But our answer also depends on the government's claims of competence over
+    whole domains of activity - whether such claims are sincere and true,
+    wishful thinking but false, or purely fraudulent. Once the public accepts
+    the claims, an expectiation will have been formed, and failure to perform
+    will appear like a breach of the social contract.
+* 109 Leviathan is a massive but invertebrate monster. Add the separation of
+    authorities normal to a parliamentary democracy, and you have, in the
+    Spanish government, a babble of voices, a muddle of cross purposes, and a
+    multitude of decision centers.
+* 109 The protesters were correct to charge the two major parties with espousing
+    identical princiciples and similar policies. Socialists and conservaties
+    differed on marginal questions - Middle East policy, social affairs - but
+    were of one mind on democracy, capitalism, the welfare state, the euro, and
+    the E.U. In a hindsight clouded with failure and distrust, this looked like
+    collusion, even corruption.
+* 110 A visitor to Spain in 2007 could have watched on TV a government-sponsored
+    commercial showing people literally hugging a tree, and another that
+    featured two women kissing. In May 2006 the socialist party had proposed in
+    parliament that certain "rights" be granted to four species of great apes.
+    The tacit assumption the task of lifting the country to a higher ethical
+    plane.
+* 111 Under the conditions of the Fifth Wave, the human consequences of their
+    failure couldn't be swept discreetly under the rug. The *indignados* were
+    born on Facebook, and Twitter globalized their grievances. The economic
+    crisis thus resembled a plane crash, a cataclusm out in the open, more than
+    a problem in economics. THe government had nowhere to hids.
+* 116 The who was plain enough. The protesters received support from the general
+    public, and benefited from the active participation of some working-class
+    elements - but this wasn't them. They did not represent the Israeli
+    population or its proletariat. Nearly all the organizers and most of the
+    demonstrators came from Tel Aviv's affluent, secular Ashkenazi families.
+    THis was a revolt of middle-class hipsters, not of the downtrodden.
+* 117 The left failed to insert any organizational strength or programmatic
+    clarity into the protests. If leftists were abundant, the sectarian spirit
+    of the people of the web was a far more powerful influence over the young
+    rebels. Hence the carefree incoherence of their demands. To give just one
+    example: proposals were floated to eliminate university tuition and increase
+    benefits for the faculty.
+* 121 I found strong demographic and behavioral affinities between Occupy Wall
+    Street participants and the public that took to the streets in Egypt, Spain,
+    and Israel. They were the same people, in different countries: young, middle
+    class, university educated - and, in the case of OWS, predominatly white.
+* 121 The organizers in New York and many other Occupy sites were,
+    disproportionatey, ararchists. To a somewhat lesser extent, that had been
+    the case in Spain as well.
+* 122 The y spread the notion that the top 1 percent of Americans tyrannized the
+    bottom 99 - and that they, a handful of white, middle-class youngsters,
+    represented the vast American public, the people, in revolt.
+* 122 The romance of condemnation, in my judgment, has become the most
+    conspicuous feature of President Obama's mode of governance. The
+    demonization of millionaires was a rhetorical pillar of the president's
+    successful 2012 campaign.
+* 123 When the media ignored the initial occupation, the organizers forgot their
+    anti-consumerism and turned to a commercial public relations firm, Workhorse
+    Publicity, for help with spreading the word of their revolution. The company
+    did so well that it actually won a professional award for its efforts.
+* 128 ...the White House, on October 16, proclaimed that President Obama was
+    "working for the interests of the 99 percent."
+* 130 *Everyone from all sides of London meet up at the heart of London
+    (central) OXFORD CIRCUS!! Bare SHOPS are gonna get smashed up so come get
+    some (free stuff!!!) fuck the feds we will send them back with OUR riot!>:O*
+* 132 *The Home Affairs Select Committee has said that the single most important
+    reason for the spread of the disorder was the perception, relayed by
+    television as well as social media, that in some areas the police had lost
+    control of the streets*. But loss of control wasn't a perception. It was the
+    reality on the ground.
+
+
+
+
+## Brink Nation Book Club Docket
+* 38 Shawn Fanning was 18 when first version of napster was released. Single
+    handidly sent the music industry spiraling. I feel like if he didn't do it,
+    someone else would have around the same time frame. I don't feel like this
+    is the case with Satoshi.
+
+* 121 WSO protesters were anarchists that "rejected capitalism"??? I thought
+    anarchists were fans of capitalism, or is he using anarchy in a different
+    way?
+* 123 This quote is just too good on OWS: "When the media ignored the initial
+    occupation, the organizers forgot their anti-consumerism and turned to a
+    commercial public relations firm, Workhorse Publicity, for help with
+    spreading the word of their revolution. The company did so well that it
+    actually won a professional award for its efforts."
+
