@@ -228,8 +228,38 @@ technology for people to send numbers to one another.
              blocks, or if it fails to propose or vote on blocks, or if someone
              turns off the computer running the validator - it can have some or
              all of its stake taken away as a penalty.
-
-
+    + The transition to PoS cut Ethereum's energy usage by something like
+        99.95%.
+    + Here's how a Bitcoin miner make money:
+        + 1. Spend dollars to buy computers and electricity.
+        + 2. Use the computers and electricity to generate Bitcoin.
+        + 3. Sell the Bitcoin, or hold them and hope they go up.
+    + Here's how an Ethereum validator makes money:
+        + 1. Buy Ether.
+        + 2. Lock it up.
+        + 3. Get paid fees in Ether that are, roughly, a percentage of the Ether
+             you've locked up. Currently the fees are around 4%.
+    + Instead of downloading the software to run a full Ethereum validator node,
+        and depositing 32 Ether, you can hand your Ether over to someone else
+        and let *them* be a validator. Id doesn't need to be 32 Ether: If you
+        have 1 Ether, and 31 other people each have 1 Ether, and you all pool
+        your Ether together, then you have enough to stake, validate
+        transactions, and earn fees. And then you can each have a cut of the
+        fees. The work of validating transactions can be completely seperated
+        from the actual staking of Ether.
+    + Crypto has found a novel way to *create yield*. It will pay you interest
+        not for the reason banks generally do - because they're lending your
+        money to some other customer who will make use of it - but because you
+        are, in your small way, helping to maintain the security of the
+        transaction ledger.
+* iii. Gas
+    + Ethereum has "gas," which is a fee that people and smart contracts pay for
+        computation. Each transaction specifies 1) a maximum gas limit
+        (basically a number of computational steps) and 2) a price per unit of
+        gas. If the transaction uses up all its gas - it it takes more steps to
+        execute than the gas limit - it fails (and still pays the gas fee). This
+        deters people from sending superlong transactions that clog the netwoek,
+        and it absolutely prevents them from clogging the network forever.
 
 # III The Crypto Financial System
 
