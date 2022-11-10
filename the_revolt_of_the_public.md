@@ -5,6 +5,8 @@ by Martin Gurri
 *I, Ian Turner own this book and took these notes for my own learning, purchase
 the book here:* https://www.amazon.com/Revolt-Public-Crisis-Authority-Millennium/dp/1732265143
 
+I am reading the book on the recommendation of gyges.eth of https://www.gm.xyz/c/onthebrink
+
 ### 1 Prelude To A Turbuent Age
 * 23 "(My 93-year-old mother has kept her subscription to the *Washington Post*
     stricly because she loves the corssword puzzles. I have shown her websites
@@ -289,12 +291,42 @@ the book here:* https://www.amazon.com/Revolt-Public-Crisis-Authority-Millennium
 * 130 *Everyone from all sides of London meet up at the heart of London
     (central) OXFORD CIRCUS!! Bare SHOPS are gonna get smashed up so come get
     some (free stuff!!!) fuck the feds we will send them back with OUR riot!>:O*
+* 131 The perpetrators belonged to the same age group as the political rebels of
+    2011... When asked why they looted, the most frequent response was: because
+    they could. One participant flipped the question around: "Why are you
+    going to waste the opportunity to get new stuff?"
+* 131 Violence and criminality were not indiscriminate. They focused on specific
+    objects: the police, stores specializing in digital products. They wnated
+    the prestigious gadgets and entertainment which attended great affluence.
+    But like the rebels in other democratic countries, they effected a strange
+    mental separation between the life they wished for and the structures that
+    made that life possible. This indirect method of self-destruction again
+    raises the question of nihilism, about which I'll have more to say
+    momentarily.
 * 132 *The Home Affairs Select Committee has said that the single most important
     reason for the spread of the disorder was the perception, relayed by
     television as well as social media, that in some areas the police had lost
     control of the streets*. But loss of control wasn't a perception. It was the
     reality on the ground.
-
+* 134 At virtually every protest described in this book, you found people
+    wearing the Guy Fawkes mask popularized by the 2006 movie *V For Vendetta*.
+    This was unique for would-be revolutionaries. I can't imagine Lenin or Mao
+    or Castro allowing their comrades to impersonate a fictional character.
+* 136 The mask was originally introduced to protest politics by the hacker group
+    "Anonymous," which claimed for itself prodigious powers not unlike those of
+    the protagonist in *V For Vendetta*. Anonymous can only be described as a
+    mutant offspring of the Fifth Wave, spawned from the most nihilistic
+    elements of the web, and it has played an uncartain part in the struggle
+    between the public and authority... "We do it for the lulz."
+* 138 Protesters there were affluent and employed, but expected the government
+    to deliver personal fulfillment within a context of social justice. What
+    that meant was never explained. Most of the Americal Occupiers also held
+    down jobs. Conversely, those nearest to poverty never participated in any of
+    the 2011 street revolts.
+* 140 That was the most profound consequence of 2011: sowing the seeds of
+    distrust in the democratic process... We still have time to discover that
+    the street revolts in 2011, in V's words, did "change the world," and not in
+    a good way.
 
 
 
