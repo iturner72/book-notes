@@ -260,6 +260,21 @@ technology for people to send numbers to one another.
         execute than the gas limit - it fails (and still pays the gas fee). This
         deters people from sending superlong transactions that clog the netwoek,
         and it absolutely prevents them from clogging the network forever.
+    + In early Ethereum, the gas fees, as well as built-in mining rewards, were
+        paid to the miner who mided a block. Since the move to PoS, the built-in
+        rewards are lower. And now some of the gas fees are "burned" instead of
+        being paid to validators. The basic result is that Ether as a whole is
+        paying less for security under PoS than it used to.
+* iv. Tokens
+    + ERC-20: One thing a smart contract can do in Ethereum is create new
+        cryptocurrencies. These cryptocurrencies are generally called "tokens."
+    + Why do this?
+        + 1. You can make up an arbitrary token that trades electronically.
+        + 2. If you do that, people might pay a nonzero amount of money for it.
+        + 3. Worth a shot, no?
+    + This is so easy, there's 4 lines of code in the Ethereum white paper for
+        "implementing a token system" on Ethereum.
+
 
 # III The Crypto Financial System
 
