@@ -328,7 +328,117 @@ I am reading the book on the recommendation of gyges.eth of https://www.gm.xyz/c
     the street revolts in 2011, in V's words, did "change the world," and not in
     a good way.
 
-
+### 6 A Crisis Of Authority
+* 143 The street protests of 2011, while ostenibly political, were part of a
+    global assault on the guardians of authority across every domain of human
+    activity. The protesters stood in the same relation to government that
+    bloggerts and social media did to newspapers, YouTube to television, Napster
+    to the recording industry, massive online courses to universities, Amazon to
+    shopping malls, the open-science movement to the scientific establishment.
+    From the commanding heights of the information sphere, the public sought in
+    3each case to break a monopoly held by an accredited elite.
+* 143 An important social function of authority is to deliver certainty in an
+    uncertain world. It explains reality in the context of the shared story of
+    the group. For this is must rely on persuasion rather than compulsion, since
+    naked force is a destroyer of trust and faith. The need to persuade in turn
+    explains the institutional propensity for visible symbols of authority - the
+    patrician's toga, the doctor's white frok, the financier's Armani suit.
+* 143 Current structures of authority are a legacy of the industrial age. The
+    public, when it needs answeres, turns to institutions rather than to
+    charismatic individuals. These instititions have been subjected to a
+    Taylorist process of rationalization: they are, without exception, top-down,
+    specialized, professionalized, prone to pseudoscientific rituals and jargon.
+    To enter such a precinct of authority requires a long and costly
+    accreditation process - years of academic education and apprenticeship.
+* 144 False consciousness can be invoked in a world in which the laws of
+    history, and thus the shape of future events, are perfectly understood. Only
+    then, with the tree of causation lucidly in mind, are we allowed to speak of
+    the relation between a san conscious decision and reality as "true" or
+    "false." But that is not the world we live in. That is not the human
+    condition. Between every decision and its consequencers rised and
+    impenetrable veil of uncertainty.
+* 145 The gap, I maintain, was a function of the limits of human knowledge. It
+    had always been there. What changed was the public's awareness of it.
+* 148 In the century or so since Einstein's triumph, the practice of science has
+    been transformed. Vast amounts of money have been poured into science and
+    technology research and development: around $400 billion in the U.S. alone
+    for 2009.
+* 148 Consequently, the ideal of the lonely and disinterested seeker after truth
+    has been superseded by that of the scientist-bureaucrat. Though the various
+    fields of science differ greatly, scientific success, in general, has been
+    difined less by the quality of the findings than by the ability to bring in
+    "research support" - funding for the institution.
+* 149 Much has been claimed for the scientific method, but the only method to
+    which all scientists subscribe is the peer review process. It too has been
+    under strain.
+* 149 In extreme cases, this constriction of knowledge leads wo what one analyst
+    has called "research cartels," which actively stifle minority or unorthodox
+    views.
+* 149 Since 1919, in sum, the practive of science migrated from the sectarian
+    Border, where Einstein clearly originated, to a Cebter dominated by large,
+    bureaucratic institutions.
+* 149 The cost of scientific journals, for example, became prohibitive, so that
+    only institutions could afford a subscription.
+* 157 The risk commmision experts were convicted because they had been unwilling
+    to admit, in public, to the degree of uncertainty that science imposed on
+    them Theyt had been unwilling to saym, out in the open, "We don't know
+    whether or not a major earthquake will strike L'Aquila in the short term."
+* 158 If Pierre Rosanvallon's society of distrust had an official date of birth,
+    it would be Mondaym, September 15, 2008: the day the Lehman Brothers
+    investment bank, after a protracted agony, finally went bust.
+* 159 In 1987, President Ronald Reagan appointed Greenspan chairman of the Board
+    of Governors of the Federal Reserve System - a portentoous name for the
+    central bank of the United States, usually called, without affection, "the
+    Fed." By law, the mission of the Fes was, and still is, to maintain the
+    stability of prices while promoting sustainable growth and full employment.
+    The claims behind these goals possessed what I can only describe as a
+    magical quality. They presupposed powers of prophecy and control wholly
+    detached from exonomic reality.
+* 160 Bob Woodward's 2000 biography of the Fed chairman was titled *Maestro*,
+    evoking the image of a genius conductor, leading the economy to a flawless
+    performance with a wave of his baton.
+* 163 And so we circle back to 2008... Every institution in the system failed
+    catastrophically, beginning with Greenspan's Fed, which encouraged a casino
+    atmoshpere by flooding the markets with easy money. Investment firms like
+    Lehman Brothers took that money and "leveraged" it, betting $30 for 3each
+    dollar they actually held in their hands. The rating agencies like Moody's
+    and Sandard and Poor's, designated by the government to assess investment
+    risk, gave the complex, untested subprime securities a AAA rating: when all
+    was said and done, Moody's had missed the mark by 20,000 percent. THe White
+    House and Congress pumped the housing bubble by pressuring regulators to
+    accept ever riskier mortgages.
+* 170 Companies that cater to idiosyncratic tastes have flourished. The standard
+    example is Amazon, with its vast inventory and :people like your" algorithm,
+    although a host of online stores fits the bill as well. (The trajectory of
+    the $1.4 trillion commercial web can serve as Exhibit A for the public's
+    lack of interest in anti-capitalist jihad.)
+* 172 *However, when the changes happen faster than expectations and/or
+    institutions can adjust, the transition can be cataclysmic. Accelerating
+    technology in the past decade has disrupted not just one secgtor but
+    virtually all of them.*
+* 172 Half the firms listed on the Fortune 500 in 1999 had dropped out by 2009.
+    According to Richard Foster, the average lifespan of a company on the S&P
+    500 has declined from 67 years in the 1920s to 15 years today.
+* 177 Attempts have been made to replace ierarchy with "councils," and
+    bureaucracy with a more networked approach. I don't know of any signal
+    successes from these experiments, which run up against the spirit of
+    bureaucracy - and, I suspect, against the grain of human nature.
+* 179 Sicty years ago, Einstein spoke with the voice of God. Thirty years ago,
+    Walter Cronkite every day told us "the way it is," and the *New York Times*
+    delivered to our doorsteops "all the news that's fit to print." Twenty years
+    ago, Alan Greenspan applied infallible formulas to ensure our prosperity.
+    When I was a boy and factual disputes arose in my family, they were settled
+    by consulting the *Encyclopedia Britannica*. Back then, the world of
+    information was shaped like a pyramid. Those at the top decided signal from
+    noise, knowlege from fraud, certainty from uncertainty. The public and mass
+    media embraced this arrangement. All things being equal, authority was
+    trusted and relied on.
+* 179 Today we drown in data, yet thirst for meaning... According to Taleb, "The
+    more data y0u get, the less you know what's goin on."
+* 179 And the magisterial *Encyclopedia Britannica?* Gone the way of the dodo.
+    Its place has been taken by Wikipedia, which, with its "edits" and "reverts"
+    for many entries, leaves the reader uncertain about the agenda of any given
+    version.
 
 ## Brink Nation Book Club Docket
 * 38 Shawn Fanning was 18 when first version of napster was released. Single
