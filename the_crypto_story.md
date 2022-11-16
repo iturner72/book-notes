@@ -274,6 +274,97 @@ technology for people to send numbers to one another.
         + 3. Worth a shot, no?
     + This is so easy, there's 4 lines of code in the Ethereum white paper for
         "implementing a token system" on Ethereum.
+    + ERC-20, a token standard which lives on the Ethereum blockchain. One
+        essential property of an ERC-20 token is that it's fungible - like
+        dolars, or Bitcoin, or Ether.
+    + ERC-721, a token standard for non-fungible tokens or NFTs.
+            + The ERC-721 introduces a standard for NFT, in other words, this
+                type of Token is unique and can have different value than
+                another Token from the same Smart Contract, maybe due to its
+                age, rarity or even something else like its visual. Wait,
+                visual?
+            + Yes! All NFTs have a [numerical] variable called tokenId, so for
+                any ERC-721 Contract, the pair contract address, [numerical]
+                tokenId must be globally unique. That said, a dapp can have a
+                "converter" that uses the tokenId as input and outputs an image
+                of something cool, like zombies, weapoons, skills or amazing
+                kitties!
+* v. An ICO
+    + Here's another important difference between Ethereum and Bitcoin. Bitcoin
+        never raised money; Ethereum did. You can think of Bitcoin as more of
+        less the open-source passion product of one anonymous guy who really
+        likes cryptography.
+    + In July 2014 they sold Ether "at the price of 1000-2000 ether per BTC, a
+        mechanism intended to fund the Ethereum organization and pay for
+        development," according to Ethereum's white paper. In all, they sold
+        about 60 million Ether for about $18.3 million, all before the
+        technology itself went live. Today that's worth billions of dollars.
+    + There was a 2017 ICO boom which a lot of projects raised a lot of money by
+        selling tokens that never turned out to be useful.
+* vi. Other chains
+    + Layers, trilemmas
+        + The basic ideas of Ethereum - a distributed computer, smart contracts,
+            dapps, new tokens, etc. - caught on broadly within crypto. Ether is
+            now the second-biggest cryptocurrency. (well behind Bitcoin, well
+            ahead of everything else).
+        + Buit it has a lot of competition: If you;re building smart contracts,
+            there are a lot of other blockchains where you can run them,
+            including: BNB Chain, Solana, Avalanche, Cardano, Tezos, Polkadot,
+            Algorand, Tron, and Terra 2.0 (Terra 1.0 blew itself up, oops.)
+        + These platforms, like Bitcoin and Ethereum, are called "Layer 1
+            blockchains," meaning they're entirely separate from on another;
+            each Layer 1 blockchain maintains its own ledger. They compete with
+            one another much like other tech platforms do, arguing that they
+            offer better performance, a better environment for developers, a
+            different programming style, better tools.
+        + The blockchain trilemma: Blockchains want to be scalable,
+            decentralized, and secure. But you can only choose 2 out of those 3.
+        + Bitcoin and Ethereum chose decentralization and security, which makes
+            them fairly slow computers. Other blockchains are faster but more
+            centralized.
+        + Layer 2 systems are used for scaling a Layer 1. Bitcoin has the
+            Lightning Network, a Layer 2 payment system that basically lets
+            people on the Bitcoin blockchain set up payments to each other
+            without running all of them through the blockchain. This makes the
+            payments faster and cheaper, and they periodically settle on the
+            blockchain for security.
+    + Bridges, wrapping
+        + Some people in crypto are faithful to a single blockchain: They are
+            Bitcoin maximalists, or Ethereum or Avalanche or Solana loyalists.
+        + ...sometimes you will want to own the token of one blockchain on
+            another blockchain. This comes up a lot in decentralized finance, or
+            DeFi, the system of crypto exchanges and financial products that
+            live on blockchains.
+        + Bridge, a bridge is generally a smart contract on one blockchaine, a
+            smart contract on another blockchain, and some sort of trusted
+            computer program that sits between them and passes messages.
+        + If you want to swap some Ether for SOL, you find a bridge. You send
+            your Ether to the bridge's smart contract in Ethereum, which locks
+            it up: As far as the Ethereum blockchain is concerned, your Ether
+            belongs to the bridge now. The bridge's off-chain computer program
+            sees this and alerts its Solana smart contract, which gives you the
+            equivalent of the Ether on the Solana blockchain.
+        + Bridges are notorious sites of rist in crypto... An actual big
+            Solana/Ethereum bridge is called Wormhole; it was hacked this year
+            for about $320 million of wETH.
+
+## C A Slow Database
+* Here's a slightly different generalization of Bitcoin:
+    + 1. Look, you've built a distributed *database*.
+    + 2. This database has some fascinating properties. It's distributed,
+         decentralized, secure, trustless, and permissionless.
+    + 3. Your database happens to track the ownership of electronic coins.
+    + 4. What if we built a database like that to track the ownership of *other*
+         things?
+* i. Map and territory
+    + People are always talking about moving real estate registries or cargo
+        manifests or carbon emissions onto the blockchain. This is appealing
+        because, as a database, the blockchain has some nice properties. The
+        important public blockchains such as Bitcoin and Ethereum are secure,
+        open, and permissionless. Anyone can prove they own a Bitcoin, and that
+        ownership can't be reversed arbitrarily.
+
+
 
 
 # III The Crypto Financial System
