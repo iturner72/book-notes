@@ -510,7 +510,60 @@ I am reading the book on the recommendation of gyges.eth of https://www.gm.xyz/c
     Bush administration but worsened under President Obama's.
 
 ### 8 Nihilism And Democracy
-
+* 225 In this late, tired age of democracy, large numbers of people believed
+    that life was getting worse. The climate was changing for the worse - we had
+    the Intergovernmnetal Panel on Climate Change to tell us that every year.
+* 225 The economy was getting worse. For liberals, this belief justified
+    continued intervention by the government. For conservatives, it justified
+    attacking the president and his ambitious high modernist rhetoric.
+* 225 Political life was getting worse. I listed multiple failures of democratic
+    governments in the last chpter. These took place in the open, in full view
+    of the public, and they were difficult to blame on a single person, party,
+    or ideology. Failure seemed to be systemic.
+* 232 A system that began by promising perfection had at last delivered
+    nothingness. Governments were powerless, politics ere lost in the lobyrinth,
+    democracy was a hollow ritual, a falsehood. Nothingness was the only
+    reality, and it presided over nations. To strike at nothingness seemed at
+    least lik *something*: a step forward, an intercession to be prayed for. So
+    we were back to the cinematic nihilism of *V for Vendetta:* "With enough
+    people, blowing up a building can change the world.
+* 233 What is this uncanny beast, born of the Fifth Wave and now stalking into
+    the uncertain future? The world of the nihilist does not belong to the
+    nihilist. It belongs to the forces of selfishness and to repulsive people.
+* 233 He considers his elected government to be a thing apart, and beneath
+    contempt. That is the view from below. George W. Bush told him that the
+    invasion of Iraq was about weapons of mass destruction, but none were found
+    there. Barack Obama explained to him that the stimulus would cap
+    unemployment, but millions more lost their jobs. Jose Luis Zapatero refused
+    even to mention the word "crisis" to him, while economic disaster revaged
+    Spain. I called these episodes failures of government, but that is not how
+    the nihilist sees them. He thinks his rulers are liars and cheats, and he
+    fills the web with angry rants on the subject.
+* 235 He is morbidly, monstrously, *against*. He imagines he would be happy if
+    the society in which he lives were wiped out tomorrow.
+* 235 In the assembly of protesters, his is the loud, irreconcilable voice. In
+    the peaceful demonstration, his is the hand heaving the Molotov cocktail
+    through the shop window. In confrontation with police, he is eager to shed
+    blood. In online forums, he is fertile with ideas to hack, expose, paralyze
+    the institutions that run the world. He is the bomber, the random shooter: a
+    terrorist without a cause.
+* 235 The nihilist enefits prodigiously from the system he would like to smash.
+    He's *not* marginalizedd - *not* a street person, *not* a forsaken soul,
+    *not* a persecuted minority. He's not a sufferer in any sense, whether
+    relative to historical standards or to the world today.
+* 236 The mortal riddle posed by the nihilist is that he's a child of privilege.
+    He's healthy, git, long-lived, university-educated, articulate, fashionably
+    attired, widely traveled, well informed. He lives in his own place or at
+    worst in his parents' home, never in a cave. He probably has a good job and
+    he certainly has money in his pocket. In sum, he's the pampered poster boy
+    of a system that labors desperately to make him happy, yet his feelings
+    about his life, his country, democracy - the system - seethe with a virulent
+    unhappiness.
+* 243 Grant me, for the sake of argument, that history hasn't frozen solid - not
+    entirely. WHat, then, of the conflict between the public and authority? It
+    must erupt out of the depths and become personal. By this I mean that, in a
+    world of ontingent outcomes, each of us will be faced with choices, and that
+    our choices will come wrapped in a fatal question.
 
 
 
