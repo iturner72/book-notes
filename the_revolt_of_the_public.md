@@ -440,6 +440,80 @@ I am reading the book on the recommendation of gyges.eth of https://www.gm.xyz/c
     for many entries, leaves the reader uncertain about the agenda of any given
     version.
 
+### 7 The Failure Of Government
+* 186 The utopian ambition of governments from the industrial age, which sought
+    to perfect the social order, hangs ridiculously, like an outsized suit of
+    armor, on their feebler, latter-day heirs. Yet the quixotic pose has been
+    maintained. The fiction of extraordinary ambition and mastery has persisted,
+    without irony, in our political language.
+* 186 For what it's worth, my purposes in this chapter are analytical rather
+    than ideological. I have treated the limitation of overnment as a function
+    of the limits of human knowledge, no of ideological preference, and in this
+    approach I have stuck close to Paul Ormerod's brilliantly researched and
+    happily titled book, *Why Most Things Fail*.
+* 189 Because of his untimely death, President Kennedy never stood for
+    re-election, but neither did he suffer the slightest political damage from
+    the failure of the Bay of Pigs invasion. The public in large numbers
+    continues to trust the president. A Gallup poll taken two weeks after the
+    incident have him an 82 percent approval rate, a 10 percent improvement over
+    the previous poll. "The worse I do, the more popular I get," Kennedy joked.
+* 190 In the months after his election, President Obama gave two major speeches
+    on the American Recovery and Reinvestment Act, as the timulus package was
+    formally known. One was a George Mason University, on January 9, 2009,
+    before he was inagurated, and the second was before a joint session of
+    Congress on February 24, after the bill had already been enacted into law.
+* 191 The president's analysis of causes of the recession was strategic,
+    far-reaching, and coherent. The crisis, "is largely of our own making" - a
+    moral failure more than an economic downturn. "We have arrived at this point
+    due to an era of profound irresponsibility that stretched from corporate
+    boardrooms to the halls of power in Washington, D.C...
+* 191 But the practical proposals to demonstrate this new spirit, as explained
+    by the president, were all over the place. The stimulus bill was expected to
+    jump-start the economy and "save or create" 3.5 million jobs, but it was
+    also about promoting sustainable energy, repairing infrastructure, reforming
+    our children's education, improving the competitiveness of the American
+    worker, and delivering better health care to all.
+* 191 Such programmatic fracturing has typified government action under the
+    conditions of the Fifth Wave. The effect on the public has been to engender
+    alarm and suspicion of hidden motives.
+* 193 The ideals propelling Tea Partiers into action were wholly sectarian, that
+    is to say, against: against Gig Government, high taxation, the deficit, the
+    debt, Washington politics and politicians in general, and President Obama's
+    legislation, like the stimulus  and the health-care plan, in particular.
+* 203 The profound disconnect between talk and action gives the game away. The
+    *aims* of emocratic government have shifted, even if the language of
+    politics has yet to catch up. High modernist government was an austere
+    prophet, demanding the destruction of the muddled present to make room for
+    the perfect future. Late modernist government is more like a kindly uncle,
+    passing out chocolate chip coolies to his favorite nieces and nephews. He
+    doesnb't wish to transform them. He just wants them to be happy - most
+    particularly, with him.
+* 204 Programs seem scarcely intelligible in terms of their stated purposes,
+    and, like the stimulus, need to be legistlated at exhausting length.
+    President Obama's signature program, the Patient Protection and Affordable
+    Care Act, sprawled over 900 pages of contradictory minutia: the word
+    "waiver" appeared 214 times. The Dodd-Frank bill, which tightened regulation
+    of the U.S. financial system in 2010, covered 848 pages. For comparison, it
+    took 31 pages in 1913 to establish the Federal Reserve, 37 to wrap up the
+    Social Security Act of 1935.
+* 209 In *Why Most Things Fail,* The heart of the matter, for Ormerod, was how
+    closely an actor's *intention* matched up with the *results* of his action.
+    His title gives the answer away. Ormerod found no obvious connection between
+    the results of actions in a complex environment and their stated intentions.
+* 212 *Humans, whether acting as individuals or making collective decisions in
+    companies or governments, behave with purpose. They take decisions with the
+    aim of achieving specific, desired outcomes. Yet our view of the world which
+    is emerging is one in which it is either very difficult or even impossible
+    to predict the consequences of decisions in any meaningful sense.*
+* 220 Economic inequality, for example, has grown everywhere despite the best
+    intentions of democratic governments. In the U.S., it increased under the
+    Bush administration but worsened under President Obama's.
+
+### 8 Nihilism And Democracy
+
+
+
+
 ## Brink Nation Book Club Docket
 * 38 Shawn Fanning was 18 when first version of napster was released. Single
     handidly sent the music industry spiraling. I feel like if he didn't do it,
