@@ -349,7 +349,7 @@ technology for people to send numbers to one another.
             for about $320 million of wETH.
 
 ## C A Slow Database
-* Here's a slightly different generalization of Bitcoin:
+* Intro: Here's a slightly different generalization of Bitcoin:
     + 1. Look, you've built a distributed *database*.
     + 2. This database has some fascinating properties. It's distributed,
          decentralized, secure, trustless, and permissionless.
@@ -375,8 +375,100 @@ technology for people to send numbers to one another.
         possibly an *unsolvable* one, but also an important one. If you could
         ingest the physical world into that financial system, you'd have
         something cool.
-
-
+* ii. Enterprise blockchain
+    + In 2010, if you were a loan trader at a bank, and you thought, "Ugh, our
+        systems for trading loans are so slow and kludgy," and you walked into
+        the CEO's office and said, "We should spend tens of millions of dollars
+        hiring top-notch programmers to build a new loan-trading system, and we
+        should start a consortium with our competitors and clients where we all
+        agree to use the same loan-trading system, because that will make life
+        easier and eliminate a lot of back-office costs," The CEO would probably
+        say things like:
+        + Who are you?" and "Get out of my office" and "You're fired."
+    + But in 2017, if you were a loan trader at a bank, or a blockchain
+        consultant, or frankly a person off the street, and you walked into the
+        office of a bank CEO and shouted the word "blockchain!" the CEO would
+        hand you a sack of money. Lots and lots and lots of people took
+        advantage of this. "Blockchain" was for a while the seciest word in
+        finance, and banks were tripping over themselves to announce blockchain
+        initiatives.
+## D Web3
+* Intro: An important fact about Bitcoin is that it;s both a technological
+    method of sending money and the money itself. That is, Bitcoin is a computer
+    system for sending Bitcoins, and a Bitcoin is the thing that the Bitcoin
+    system sends.
+    + Some of what goes on in crypto is *about the technology*: People use the
+        ideas of blockchains and smart contracts and so forth to build software.
+    + Some of what goes on in crypto is *about the money*: People call up their
+        brokers to place bets on the prices of crypto tokens going up.
+    + Broadly speaking, the name for this is "web3." The idea is that the
+        original web was the early development of the internet, when people
+        built decentralized open community-controlled protocols for the
+        internet. "Web 2.0," or "web2," was when big tech companies more or less
+        took over the internet; now your experience of the internet is largely
+        mediated through Facebook and Google and Apple and Amazon, and they make
+        tons of money from controlling the internet. No open decentralized
+        projet is going to compete with them. But web3 will be when people build
+        decentralized open community-controlled protocols for the internet again
+        *and also make lots of money*. Because the decentralized protocols won't
+        be owned by big tech companies, but they won't be free and owned by no
+        one, either. They'll be owned by their users.
+    + Just kidding; They'll be owned by venture capitalists who but tokens in
+        these projects early on and who are the biggest boosters of web3. But
+        also by their users.
+* i. Tokens and tokenomics
+    + Think about what you get when you buy a Vitcoinl One thing you get is a
+        unit of "digital cash": You can send the Bitcoin to someone else to buy
+        a sandwich or whatever.
+    + But another thing you get is a *share* in the Bitcoin project. Not a share
+        of actual stock, but still a chance to profit from the succews of
+        Bitcoin. If this digital cash things takes off, then lots of people will
+        want Bitcoin to use to buy sandwhiches, and there will be a lot of
+        demand for Bitcoin. But only 21 million Bitcoin will ever exist. So each
+        Bitcoin will be more valuable as more people decide to use Bitcoin as
+        their way to transfer digital cash.
+    + That logic never quite made sense A convenient currency for digital cash
+        transfer has a stable value, and the *rising* value of Bitcoin makes is
+        *less* useful as a currency: If your Bitcoin keep going up in value, you
+        should not spend them on sandwiches. Bitcoin as an appreciating asset
+        will be a bad currency. Still, it worked well *enough*. Bitcoin is used
+        enough for digital transfers of value that it became valuable, and early
+        adopters got rich.
+    + This is a key financial innovation of crypto: Crypto built an efficient
+        system to make *the customers of a business also its shareholders.*
+    + Lots of crypto projects have this basic structure. Filecoin is a
+        decentralized system for storing files, where you can pay to store files
+        or get paid for storing files for someone else. You pay, or get paid, in
+        Filecoin.
+    + Helium is a decentralized system for wireless hotspots, where you can get
+        paid for running a hotspot or pay for access. You pay, or get paid, in
+        Helium's tokens.
+    + This is potentially powerful because crypto is in the network-effects
+        business. Bitcoin is a useful payment system if lots of people have
+        Bitcoin and accept it for payments. Ethereum is a useful computing
+        system if lots of people build apps on Ethereum.
+* ii. DAOs
+    + ...pronounced "dow," which stands for "decentralized autonomous
+        organization." DAOs aren't decentralized autonomous organizations. In
+        the early daysm, people sometimes thought that's what they were. "This
+        comany runs automatically through smart contracts with no human
+        intervenntion," they would say. "It's never been seen before in human
+        history." But, no. The thing that runs automatically through smart
+        contracts with no human intervention is a *smart contract*. A DAO is a
+        way for *people* to get together to *vote* to control a pot of money or
+        a protocol on the blockchain.
+    + In other words, a DAO is a ... company? Like, just a regular company? It
+        has shareholders, who put in money and control it. (Actually, they put
+        in money and get back tokens that give them rights to govern the DAO.)
+        And the shareholders can vote. DAOs are unlike regular companies in that
+        the shareholders (token holders) tend to vote on more stuff: Often
+        there's a chat room on an app called Discord, and people can propose
+        ideas for the DAO, and there are procedures for holding a vote. Whereas
+        US public companies let shareholders vote in only very constrained and
+        symbolic ways, DAOs tend to let token holders vote on all sorts of stuff
+        and often give them a fair amount of real control of the company. In
+        this, DAOs look more like *partnerships* than public corporations.
+* iii. Identity, reputation, credentials
 
 
 # III The Crypto Financial System
