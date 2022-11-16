@@ -363,6 +363,18 @@ technology for people to send numbers to one another.
         important public blockchains such as Bitcoin and Ethereum are secure,
         open, and permissionless. Anyone can prove they own a Bitcoin, and that
         ownership can't be reversed arbitrarily.
+    + if, somehow, the houses were moved to the blockchain, that would
+        permanently allow for permissionless innovation: Everyone could build
+        programs and exchanges and derivatirves and interfaces for house buying,
+        and the best ones could win.
+    + The problem is that houses can't live on the blockchain. They live in the
+        real world. They can burn down and stuff. Conncting the electronic
+        artifact on the blockchain - the house token? - to its real-world
+        referent - the house - is philosophically and practically tricky.
+    + How to make this connection is largely an unsolved problem, and quite
+        possibly an *unsolvable* one, but also an important one. If you could
+        ingest the physical world into that financial system, you'd have
+        something cool.
 
 
 
@@ -378,7 +390,11 @@ technology for people to send numbers to one another.
 
 
 # Docket
-Chapter 1, Section C, Subsection i, bullet 4, line 76: (Shots fired at gm???)
+
+## Chapter 1, Section C, Subsection i, bullet 4, line 76: (Shots fired at gm???)
 [C-Digital-Cash](##C-Digital-Cash)
 (This is a hilariously bad reference, I'll figure out how to point directly to
 section maybe, but not quote itself...
+
+## Chapter 2, Section C, Subsection i, bullet 2-4, isn't this crypto oracles?
+
