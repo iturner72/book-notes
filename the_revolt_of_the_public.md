@@ -481,7 +481,7 @@ I am reading the book on the recommendation of gyges.eth of https://www.gm.xyz/c
     debt, Washington politics and politicians in general, and President Obama's
     legislation, like the stimulus  and the health-care plan, in particular.
 * 203 The profound disconnect between talk and action gives the game away. The
-    *aims* of emocratic government have shifted, even if the language of
+    *aims* of democratic government have shifted, even if the language of
     politics has yet to catch up. High modernist government was an austere
     prophet, demanding the destruction of the muddled present to make room for
     the perfect future. Late modernist government is more like a kindly uncle,
@@ -565,6 +565,97 @@ I am reading the book on the recommendation of gyges.eth of https://www.gm.xyz/c
     world of ontingent outcomes, each of us will be faced with choices, and that
     our choices will come wrapped in a fatal question.
 
+### 9 Choices And Systems
+* 245 This chapter is more speculative and less analytical than the preciding
+    ones. You stand warned. The reason for the change should be apparent. At
+    some point, I needed to cash in my analysis. If the world is as I have
+    described, *something* follows. Something must be done or changed or cut
+    loose from out previous understanding. Otherwise, I have merely added my
+    camel's straw to the vast weight of negation crushing democratic politics
+    today.
+* 246 In the reality interpreted by Ormerod, most things must fail, including
+    ambitious government projects, because the world is too unpredictable and
+    nonlinear. But if that is the case, what difference can a personal choice
+    make? The intelligent reader will at once understand this to be another
+    question entirely: In what social and political environment could *personal*
+    choices make a difference? The search for an answer is a major thread in
+    this chapter.
+* 248 Only a generation ago, structural necessity dictated that hierarchy must
+    grow steeper, more controlling, more efficient. THere were two political
+    parties, two automakers, three TV networks, on newspaper for every city, all
+    functioning with little energy and no input from below. The Taylorist spirit
+    ruled. The top could command the bottom in minute detail.
+* 250 The public, I mean to say, has been fully complicit in the failure of
+    government. And the question of alternatives must extend beyond the formal
+    organization of democracy to our expectations of what democratic government
+    can deliver.
+* 253 There is a second part to this choice. The standards used to eveluate
+    government projects are also inventions of the industrial age. We, the
+    public, are invited to take sides, to applaud or condemn presidents, based
+    on some statistical abstraction, some *number* - the gross domestic product,
+    for example, or unemployment and poverty rates. We saw the unemployment rate
+    used like a baseball score in the controversy surrounding the stimulus. The
+    number shows the public who's winning the political game.
+* 253 Even if the unemployment rate measured the actual number of unemployed
+    Americans - it doesn't - and even if I set aside the vexing question of
+    whether the government should be responsible for employment, playing
+    politics by the number is a frivolous game of make-believe. Politics is
+    nothing like baseball. In the end, the most persuasive story wins, not the
+    highest score. That is true whenever government tries to impose a specific
+    outcome on a complex system. In the Iraq and Afghanistan wars, for example,
+    the tally of dead American military personnel has been used as a surraget
+    measure, but the success or failure of war policies have depended entirely
+    on who wins the argument about the rightness of the cause. Abraham Lincoln,
+    who oversaw the most horrific slaughter or U.S. troops in history, is today
+    considered our greatest president.
+* 255 The most consequential choices available under the conditions that prevail
+    at the moment concern the public - you, me - and its political expectations.
+    Such choices are grounded in tru contigency: I *can* align my expectations
+    with reality or with utopian illusions. Nothing is settled. The power to
+    decide is min (yours, ours).
+* 256 Government also faces epochal choices. Heirarchy and bureaucracy, the
+    expert and the trained professional, are losing favor with the public. The
+    pyramid is shrinking: the distance between top and bottom has grown
+    uncomfortably tight.
+* 257 Firgue 29: Structural destiny: netwoek against hierarchy.
+* 257 In a non-perfect world, which happens to be the one we live in,
+    hierarchical government, democratic government, must find ways to regain
+    legitimacy without yielding on every point to the negations of a networked
+    public. The decisive choices, I believe, concern the handling of that
+    perturning agent, information.
+* 258 The USE.gove site, to take just one example, described itself as "The U.S.
+    Government's official web portal." That sounded important and ambitious.
+    Betweeen 2010 and 2011, however, the site garnered around 0.02 percent in
+    "daily reach," or total traffic of the web - less than half the daily reach
+    of Icanhascheezburger.com, a website featuring humorous photos of cats.
+    Currently, the U.S. government's official web portal ranks 1,751 in
+    popularity among U.S. websites, and 6,303 globally.
+* 260 For government to communicate with the public online to any extent,
+    official languae must be radically altered in style and length. That is also
+    a choice, and by no means a trivial or superficial one.
+* 260 When, like the stimulus, a law is 1,000 pages long, it becomes
+    indigestible by the public. In fact, it is almost certainly indigestible to
+    most of the elected representatives who vote on it - an instance of top-down
+    ambition trumping the democratic process.
+* 260 Brevity from government isn't a crazy dream. If our grandparents could
+    deliver Social Security in 37 pages, we can produce much less consequential
+    tax or budgetary decisions on a similar scale. It's the government's call.
+* 262 The revolt of the public against authority can be framed as a contest
+    between two disparate ways of looking at the world: the institutional and
+    the practical. Institutions can perceive only generic abstractions, like the
+    unemployment rate or the GDP. They are blind to the accumulation of detail
+    that is everyday life.
+* 263 I can still make bad decisions. In fact, I probably will - I can't ordain
+    the future any more that Alan Greenspan or President Obama could. But my
+    failure will redound on me, not on the government - and I will be able to
+    apply practical knowledge immediately to repair my circumstances, rather
+    than wait for action from remote and formulaic institutions. I will conduct
+    my life with humility, according to trial and error, rather than double down
+    on error and expect power to deliver success.
+
+### 10 Finale For Skeptics
+
+
 
 
 ## Brink Nation Book Club Docket
@@ -576,9 +667,13 @@ I am reading the book on the recommendation of gyges.eth of https://www.gm.xyz/c
 * 121 WSO protesters were anarchists that "rejected capitalism"??? I thought
     anarchists were fans of capitalism, or is he using anarchy in a different
     way?
+
 * 123 This quote is just too good on OWS: "When the media ignored the initial
     occupation, the organizers forgot their anti-consumerism and turned to a
     commercial public relations firm, Workhorse Publicity, for help with
     spreading the word of their revolution. The company did so well that it
     actually won a professional award for its efforts."
+
+* 262 Very nice synopsis of the core thesis of the book.
+
 
