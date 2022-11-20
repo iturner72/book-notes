@@ -654,6 +654,65 @@ I am reading the book on the recommendation of gyges.eth of https://www.gm.xyz/c
     on error and expect power to deliver success.
 
 ### 10 Finale For Skeptics
+* 265 My thesis, again, is a simple one. The imformation technologies of the
+    21st century have enabled the public, composed of amateurs, people from
+    nowhere, to break the power of the political hierarchies of the industrial
+    age. The result hasn't been a completed revolution in the manner of 1789 and
+    1917, or utter collapse as in 1991, but more like the prolonged period of
+    instability that preceded the settlement of Westphalia in 1648.
+* 266 One large question remains. The skeptical reader has been asking it since
+    the first chapter. How (the wonders) can he be sure that my thesis, with all
+    that follows, is *right*? The answer is: he can't be sure. That's not how
+    analysis works. In fact, that's not how human knowledge works. We can never
+    know with certainty that any propositionf is right. We can only try to show
+    that, so far, it hasn't been proven wrong. Analysts thrive on
+    counterfactuals and falsification - or at least they should.
+* 267 As an analyst, I must take the skeptic's question seriously. I must be an
+    extreme skeptic myself. Since my thesis can never be shown to be completely
+    right. I must take care to understand *where* and *how* it can be wrong.
+* 268 The behavior of late modern government, too, counts as a first-level
+    effect. Government today is slow to respond, afraid to advance, unwilling to
+    yield. In democratic countries, it is habitually drawn into promising
+    outcomes that it has no clue how to deliver. The public's conquest of the
+    information sphere has left rulers dazed and confused.
+* 271 At college, I took a class in Latin American social revolutions, taught by
+    a professor who had just published a book on Chile. The professor had a
+    mantra about the Chilean revolution. "The Marxist Allende government might
+    not last," he said more than once, "but its reforms are irreversible." In
+    his book, he had banished contingency from human events. He had fallen in
+    love with the word *irreversible*. It was fall semester. That September, a
+    week or so after the class began, Augusto Pinochet and the Chilean military
+    overthrew Allende and the Marxists, and reversed all their reforms in as
+    complete and permanent a fashion as history, which never stops, allows us to
+    judge.
+* 272 My poor professor's book suffered the academic equivalent of crib death. I
+    learned a lesson - one that had nothing to do with Latin American social
+    revolutions. I learned about the blindness of experts and the folly of
+    prophecy. Years later, Philip Tetlock was to put scholarly integrity around
+    this insight, in *Expert Political Judgment*. On reading Tetlock's data, I
+    found myself fascinated but not in the least surprised.
+* 279 History could well be driven by *negation* rather than contradiction. It
+    could ride on the nihilistic rejection of the established order, regardless
+    of alternatives or consequences. That would not be without precedent. The
+    Roman Empire wasn't overthrown by something called "feudalism" - it
+    collapsed of its own dead weight, to the astonishment of friend and foe
+    alike. The centuries after the calamity lacked ideological form. Similarly,
+    a history built on negation would be formless and nameless: a shadowy
+    moment, however long, between on true age and another.
+* 282 The federal government does a lot of things well. One of the things it
+    does not do well," the president noted, "is information technology
+    procurement."
+* 283 Democracy isn't doomed. As an analyst, I have rejected prophecy and
+    destiny as tools of the trade. I see the future with no greater clarity than
+    you, reader. But processes at play *today*, right now, if continues, could
+    well lead to the crumbling of what was always been a fragile system of
+    government.
+* 283 I wrote this book, in part, to invite the discussion. I did so in the
+    manner of a man who noticed a fire blazing in the corner of a locked room: I
+    don't want to start a panic, only some sane talk amoung the occupants about
+    how best to put the thing out.
+
+### Trump, Brexit, And Farewell To All That
 
 
 
@@ -675,5 +734,7 @@ I am reading the book on the recommendation of gyges.eth of https://www.gm.xyz/c
     actually won a professional award for its efforts."
 
 * 262 Very nice synopsis of the core thesis of the book.
+
+* 283 Based last line.
 
 
