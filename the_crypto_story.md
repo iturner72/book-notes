@@ -569,9 +569,54 @@ technology for people to send numbers to one another.
 Let's step back a bit and abstract from what we've discussed so far. Crypto is:
 * 1. A set of tokens, which are worth fluctuating amounts of money. We can say
      that these tokens are financial assests, like stocks and bonds.
-* 2. A novel set of ways to create new tokens and distribut them and try to make
-     them worth money.
+* 2. A novel set of ways to create new tokens and distribute them and try to
+     make them worth money.
+* 3. A novel way of *holding* financial assets: Instead of the databases that
+     people use to hold stocks and bonds, you can own your crypto on the
+     blockchain.
+* 4. A novel way to write contracts and computer programs (computer programs
+     that are contracts, and contracts that are computer programs).
+
 ## A Your Keys, Your Coins, Your Hard Drive in a Garbage Dump
+* i. Holding crypto
+    + ...the traditional financial syetem is deeply *intermediated*, and the
+        crypto system is not. If you have money, your bank tracks your money for
+        you; if you have stock, your broker tracks your stock for you; etc.
+    + One dumb, simple thing that this means: If you have money in the bank and
+        you forget your ATM PIN or your online banking password, you'll have a
+        hard time taking money out. But the bank owes you the money; they can't
+        just be like, "Aha, got you, the money is ours now." Crypto doesn't
+        *necessarily* work like that. Owning Bitcoin means 1) having a public
+        Bitcoin address with some Bitcoin in it and 2) possessing the private
+        key to that address. If you have the public address/private key pair,
+        then you own the Bitcoin. If you don't have that pair, then you can't.
+        If you lose your private key or lose track of your public address,
+        there's no one to recover your password for you or give you back your
+        Bitcoin. They're just gone.
+    + Mainly people use "software wallets," which generate and keep track of
+        their addresses and private keys and allow them to sign transactions and
+        send and recieve crypto online. Most modern wallets require you to keep
+        track not of private keys, but rather a "seed phrase" of, typically, 12
+        random-looking words. You use this seed phrase to generate a
+        public/private key pairing, and you can use it to access wallet.
+
+* ii. *Not* holding crypto
+    + ...in traditional finance there's a big business offering those
+        instruments. CME Group Inc. offers Bitcoin futures, which are basically
+        the bet that I outlined above: You pay me $5 for every dollar that
+        Bitcoin goes up, and I pay you $5 for every dollar it goes down. It's a
+        trusted centralized, traditional0finance way to bet on the price
+        movements of Bitcoin.
+    + So wrapping a Bitcoin in a *stock* would increase its appeal. The easiest
+        way to do this would be a cash Bitcoin exchange-traded fund, a pot of
+        money that trades like stock on a stock exchange and invests the money
+        in Bitcoin. People keep trying to do this, but the US Securities and
+        Exchange Commission remains skeptical and hasn't approved cash Bitcoin
+        ETFs, though they exist in some other countries.
+    + The US has, however, approved Bitcoin *futures* ETFs, which invest in
+        Bitcoin through futures contracts. Two layers of abstraction: a Bitcoin,
+        wrapped in a futures contract, wrapped in a stock, and delivered to your
+        brokerage account.
 
 
 
