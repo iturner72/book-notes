@@ -469,9 +469,109 @@ technology for people to send numbers to one another.
         and often give them a fair amount of real control of the company. In
         this, DAOs look more like *partnerships* than public corporations.
 * iii. Identity, reputation, credentials
+    + Many of the grand claims that people make about web3 are about reputation
+        and identity. The idea is that you can keep your identity on the
+        blockchain in some immutable, decentralized, transparent, provable form,
+        and then do good stuff with it.
+    + You can have some crypto wallet that contains not just tokens that you
+        *bought*, but also token you received for *doing* things. When you
+        graduate from college, your college sends you a Backelor's Degree Token,
+        or a series of tokes specifying the courses you took and your grades and
+        maybe what you learned. Same for DMV, same for job promotions, etc.
+        (These tokens will also, in the general case, be *nontransferable*: You
+        can't sell your college degree to someone else.)
+    + ... if you're looking for a job, you'll show prospective employers your
+        degree tokens and conference tokens and Reddit tokens and whatever else
+        seems relevant.
+## E Uncensorable Ledgers
+* i. Censorship resistance
+    + Ordinarily, if there's some database on a computer software, and it
+        changes some data field, it can just change that field back to what it
+        was; those are equivalent, easy things for a computer to do. But the
+        blockchain make it *hard* to change things back.
+    + Blockchain is one-way; its ledger is permanent. This is nice if you want
+        your ledger to be really secure, hard to hack, backed up in multiple
+        places, though honestly it's probably an overkill for those purposes.
+        But it's *really* nice if you want your ledger to be immune from
+        *government meddling*.
+* ii. Or not
+    + A meme in crypto is the "$5 wrench attack," named for an xkcd web cartoon
+        pointing out that the way to seal someone's crypto currency isn't by
+        using sophisticated methods to hack his laptop but rather by "hitting
+        him with this $5 wrench until he tells us the password."
+    + ...crypto creates a *permanent public record* of those transactions... And
+        that's where they get you. The normal way to turn your Bitcoin into
+        dollars is through a centralized crypto exchange, such as the apps for
+        buying and selling crypto that you saw advertised during the Super Bowl.
+        They're the main "fiat off-ramp," the place that lets you well your
+        Bitcoin for dollars.
+    + ...if your *Bitcoin* are on a bad list, they won't turn them into dollars
+        for you. If you come by 100,000 Bitcoin in the wrong way... and the
+        government has blacklisted it for some reason, the exchange will ask you
+        where they came from if you try to transfer it to them.
+## F Digital Scarcity
+* Intro: We've talked about how Satoshi's essential technological innovation was
+    that he found a way to make numbers on computers *scare*. And a weirdly
+    important generalization of Bitcoin is that it is a way to create electronic
+    scarcity.
+* i. Wait, what?
+    + Is that good? For digital cash it is, sure. Dollars are electronic ledger
+        entries that are scarce because a complicated system of banking
+        regulation makes them scare; banks *can* make new dollars just by
+        changing a number in a database, but there's a lot of ceremony involved
+        in making sure they do that in the right way. Bitcoin solves this with
+        the supply cap.
+    + One possible future is that the world will be increasingly like that, at
+        least for some people. Technological progress will make the basic
+        necessities increasingly abundant and also less fun, the physical world
+        will become more honmogenous and boring, and everyone will spend more of
+        their time online. Their friendships and romances and family life will
+        occur on computers; their lives will get meaning from stuff that happens
+        on computers.
+* ii. Rare monkey JPEGs
+    + Remember, an NFT is just a token with a number. If you buy Bitcoin,
+        your Bitcoin is identical to anyone else's Bitcoin. If you but an NFT,
+        it has a number. There will be some series of NFTs-some ERC-721 token
+        series with a name, let's call them Tedious Tamarins- and each NFT in
+        that series will have a number, and Tedious Tamarin No. 63 will be
+        distinguished from Tedious Tamarin No. 64 by having a different number.
+    + If you buy and NFT, what you own is a notation on the blockchain that says
+        you own a pointer to some web server. On that web server there's
+        *probably* a picture of a monkey, but that's none of the blockchain's
+        business. Meanwhile the intellectual-property rights to that picture of
+        a monkey are *certainly* none of the blockchain's business. It's not
+        uncommon for the person or company selling the SFT series to 1) own the
+        IP rights to the pictures of the monkeys and 2) promise to transfer
+        those rights, or some of them, to individual holders of the NFTs. But if
+        that happens, it happens off the blockchain; those promises are or
+        aren't enforceable through the normal legal system. And it's not all
+        that uncommon for the person selling the NFT series *not* to own the IP
+        rights.
+* iii. The metaverse
+    + I plan to go to my grave not knowing what "the metaverse" is, so I'm
+        certainly not going to explain it to you. But one thing it is is that
+        you can buy some real estate on the internet. Like, there will be a
+        picture of a house on the internet, and so on...
+    + How much should your house in the metaverse cost? Two plausible answers
+        might be "It should cost as much a sa house, it's a house," or "It
+        should be basically free, it's just a file on a computer, there's
+        essentially infinite space in the metaverse, and nobody has to actually
+        nail together the house."
+    + ...it's hard not to think of the movie *The Matrix*. You know the premise:
+        Everyone is a sack of meat in a bath of nutrients with their brains
+        plugged into a remarkably realistic simulation of late-'90s America.
+    + So they simulated late capitalism instead. Even in a world where all the
+        goods are digital and available in limitless abundance, you still have
+        to have a (simulated) desk job to pay for them. Digital scarcity.
 
 
 # III The Crypto Financial System
+Let's step back a bit and abstract from what we've discussed so far. Crypto is:
+* 1. A set of tokens, which are worth fluctuating amounts of money. We can say
+     that these tokens are financial assests, like stocks and bonds.
+* 2. A novel set of ways to create new tokens and distribut them and try to make
+     them worth money.
+## A Your Keys, Your Coins, Your Hard Drive in a Garbage Dump
 
 
 
