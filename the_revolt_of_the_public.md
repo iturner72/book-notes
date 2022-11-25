@@ -782,10 +782,63 @@ I am reading the book on the recommendation of gyges.eth of https://www.gm.xyz/c
     nations. After Trump's election, desperate elites had crowned Merkel the new
     "leader of the free world." Macron inspired the same exaggerated enthusiasm-
     a cover of *The Economist* showed him literally walking on water.
-* 204 Here I intend to stick to my question: whether the Putin authoritarian
+* 304 Here I intend to stick to my question: whether the Putin authoritarian
     style, under current conditions of information - what I have called the
     Fifth Wave - has grown more powerful, threatening, or seductive, relative to
     the old democracies.
+* 305 Putin portrays hinself in a very different light. He belongs to a class
+    that I would call *dictatorships of repudiation*: al-Sisi in Egypt, Ergodan
+    in Turkey, and the late Hugo Chavez in Venezuela are members of the club.
+    The common thread is a rhetoric of defiance and renewal. The dictator is
+    transformed from a murderous predator into a solitary hero struggling
+    against overwhelming odds. The villain confronting him is some hodgepodge of
+    globalized malevolence, with the U.S. typically pulling the strings.
+* 306 So, I don't see authoritarian rulers prospering under current conditions.
+    The 2010s bear little resemblance to the 1930s. That is the explicit answer
+    to the "abroad" part of my question. Xi Jingping may flex China's muscle in
+    Asia, but he knows that war will unleash domestic passions that could blow
+    apart his precariously balanced regime. Vladimir Putin may play great power
+    games on the edges of his rickety empire, but he's no more likely than Spain
+    to invade Europe.
+* 308 The almost universal interpretation of the presiden't confused statement
+    was that he had placed the victims of CHarlottesville on the same footing
+    with the murderer, and given "a wink and a nod to white supremacists." Trump
+    poured gasoline on the fire by insisting, a few days later, that not all
+    protesters had been "neo-Nazis and white nationalists," and included "some
+    very fine people on both sides."
+* 310 In what follows, I'm not endorsing or resisting Donald Trump. I'm
+    performing analysis. I'm going to compare the president's actions and
+    policies to the accusationw and condemnations of his opponents. Note that
+    I'm also not endorsing or resisting the other side of the equation. What I'm
+    after is a thesis that explains Trump's part, if any, in cranking up the
+    decibels of a gigantic chorus of gloom.
+* 314 The bizarre schizoid style of the Trump administration becomes
+    intelligible as an attempt to escape this dilemma. Elected as an agent of
+    negation, President Trump must now promote positive policies and programs.
+    Any direction he takes will alientate *some* of his supporters, who are
+    bound together largely on the strength of their repudiations. A predilection
+    for the mainstream will alienate *most* of them.
+* 317 In a private session with the network anchors, Trump was aked what
+    surprised him most about becoming president. "The fact that you never
+    changed your coverage," he replied, ever attentive to media attention. "The
+    fact that it never got better." He was right. Negative coverage of the
+    president has hovered consistently around 90 percent.
+* 325 CIA insists that it delivers *intelligence*, never policy, for example.
+    Dealing in virginal data sounds more scientific. But what does data look
+    like, devoid of structure? Nietzsche thought the whole thing was a
+    rationalist prejudice. Marxists maintain that truth is a class construct -
+    postmodernists, that it is a justification for power. And the father of
+    Platinic truth was himself a proponent of the "noble lie."
+* 327 The reality of the world for the "antifas" - young members of self-styled
+    anti-fascist grounps - consists of a *V for Vendetta*-like melodrama of
+    oppression and revenge. The antifas have always believed that Hitler's
+    Germany and contemporary American life are fundamentally the same. Unlike
+    the elites, antifas have taken the resistance to Trump's election to its
+    logical conclusion: violence, they proclaim, must be met with violence.
+* 327 *We regognize that the Trump/Pence Regime is illegitimate because it is
+    fascist, that fascism must be stopped before it is too late, and that this
+    means that the masses of people in their millions must be led to rise up and
+    drive it from power.
 
 
 
