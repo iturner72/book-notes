@@ -713,6 +713,79 @@ I am reading the book on the recommendation of gyges.eth of https://www.gm.xyz/c
     how best to put the thing out.
 
 ### Trump, Brexit, And Farewell To All That
+* 286 Parallels were drawn between the U.S. today and the Weimar Republic, which
+    spawned Adolf Hitler. Barack Obama, for one, took up the theme. Comparing
+    the present moment to Hitler's "Vienna of the late 1920," the former
+    president added ominously, "And then 60 million people died." In keeping
+    with the temper of the times, the *Washington Post* devised a ne,
+    appropriately apocalyptic motto: "Democracy Dies in Darkness." For many in
+    politics and the news media, the darkness was already here.
+* 287 The aim of this chapter is to extend my analysis to the events that caused
+    such an uproar. Beyond the existential shock that Trump and Brexit
+    represented, I must, at some level at least, come to grips with a world of
+    troubles: the collapse of mainstream political parties in France and
+    Germany, the failure of popular young leaders in Italy and Greece, the
+    slow-motion crack-up of the European Union, the rise and fall of a
+    blood-drenched "Caliphate" in the heart of the Levant, the viral dirfusion
+    of terror and random slaughter. Then there's the vexing question of
+    populism - a term that implies much more than it explains.
+* 289 Among those viscerally hostile to Trump - above all the elites and the
+    institutions, but also Democrats and the left generally, and some
+    conservative intellectuals - his election was received as a moral and
+    political impossibility, a malevolent absurdity that could only be explained
+    in terms of lies and conspiracies, whose legitimacy must be rejected and
+    "registered," without compromise, at all costs. Some called or members of
+    the Electoral College pledged to Trump to vote for Clinton instead.
+* 290 What in the world had happened? Or if you prefer: How is President Trump,
+    disturber of the odds, object of so much fear and loathing, to be explained?
+* 290 I said that Trump is free of any taint of governmnet or political
+    experience. He's also ideologically formless - a member of his campaign
+    staff described him, generously, as "post-idelogical." He has been for and
+    against abortion in his time, for example. His supposed nationalism, on
+    close inspection, dissolves into certain rhetorical preferences and the
+    vague demand that the U.S. get better economic deals from the world.
+* 292 In the 2016 Democratic primaries, more than 40 percent of the vote, and
+    all the militant passion, went to Bernie Sanders - an old, white, dull,
+    socialist Independent. Many of his supporters saw Clinton and other
+    mainstream Democrats as cogs in a system they despised. ... In somewhat
+    slower mothin than the Republicans, the Democratic Party is unbundling into
+    dozens of political war-bands, each driven by the hunger for meaning and
+    identity, all focused with monomaniacal intensity on a particular cause :
+    feminism, the environment, anti-capitalism, pro-immigration, or racial or
+    secual grievance. The schism has been veiled by the generalized loathing of
+    all things Trump, but I find it hard to envision a national party thriving
+    on tribalism and wars of identity.
+* 292 In 1980, 1990, even 2000, Trump's bizarre trajectory would have beren not
+    just impossible but politically suicidal. What has changed? The information
+    balance of power has changed, of course. A generation ago, the public could
+    exist only as a passive audience. Information was dispensed on the
+    industrial model: top-down and one to many.
+* 293 The facts are uncontroversial. Trump spent far less money on advertising
+    than Clinton or his Republican opponents, yet he received a vastly greater
+    volume of media coverage.
+* 295 In that improbable year of 2016, Filipino voters raised to the presidency
+    a populist that by comparison made Donald Trump sound like an etiquette
+    book. Rodrigo Duterte bragged to the media that, as mayor of Manila, he had
+    roamed the streets at night and personally shot drug dealers to death. So
+    the new president of the Philippines was either a confessed murderer or, as
+    now seems likely, a pathological liar. I bring up this weird story to jog
+    our memories: the conflict that gave us Trump isn't uniquely American. The
+    forces at play are global and secular.
+* 298 The fate of Europe, like that of Britain, is slipping from the grasp of a
+    purblind political class. The higher meaning of Brexit may be as an
+    indicator of a great secular reversal. Globallu, institutions have entered a
+    moment of decadence and disintegration - and the E.U. has been singularly
+    afflicted.
+* 299 In the 2017 electoral victories of Angela Merkel and Emmanuel Macron, many
+    perceived a decisive reversal of this trend toward secession. THe Center was
+    said to have conquered, and preserved the order, in the two largest E.U.
+    nations. After Trump's election, desperate elites had crowned Merkel the new
+    "leader of the free world." Macron inspired the same exaggerated enthusiasm-
+    a cover of *The Economist* showed him literally walking on water.
+* 204 Here I intend to stick to my question: whether the Putin authoritarian
+    style, under current conditions of information - what I have called the
+    Fifth Wave - has grown more powerful, threatening, or seductive, relative to
+    the old democracies.
 
 
 
