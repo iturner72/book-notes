@@ -617,7 +617,30 @@ Let's step back a bit and abstract from what we've discussed so far. Crypto is:
         Bitcoin through futures contracts. Two layers of abstraction: a Bitcoin,
         wrapped in a futures contract, wrapped in a stock, and delivered to your
         brokerage account.
-
+## B CeFi
+* i. Fiat on-ramps
+    + OK, I said one way to own a Bitcoin is to write your private key on a
+        Post-it note. But where did you *get* that Bitcoin? The main way people
+        in most of the world get into crypto is that they exchange dollars (or
+        euros, pounds, yuan, etc. - what crypto people call "fiat") for crypto.
+        And how they do that is a tricky question.
+    + In the olden days, the stereotype was that a lot of crypto exchanges were
+        run by criminals or incompetent teenagers, or incompetent teenage
+        criminals. The standard crypto-exchange transaction was 1) you exchanged
+        your dollars for Bitcoin to but heroin, and then 2) the exchange got
+        hacked and lost your Bitcoin before you could ever buy the heroin.
+    + Modern crypto exchanges are less like that. For one thing, they're more
+        careful and technically adept, so they're less likely to lose your
+        Bitcoin. For another thing, though they're big companies, regulators are
+        aware of them, and they try to be good corporate citizens.
+* ii. Custodians
+    + ...instead of sending you 0.005215 Bitcoin, the exchange just keeps a
+        database of its customers and their account balanes. And your entry in
+        the database includes your name, your driver's license number, your
+        account number, your email address, your phone number, your password,*
+        your mother's maiden name, and your account balance, and the exchange
+        writes 0.005215 in the balance field.
+        + *jk, just a hash of your password.
 
 
 # IV Trust, Money, Community
