@@ -839,9 +839,47 @@ I am reading the book on the recommendation of gyges.eth of https://www.gm.xyz/c
     fascist, that fascism must be stopped before it is too late, and that this
     means that the masses of people in their millions must be led to rise up and
     drive it from power.
-
-
-
+* 328 Among the political left, there has been a robust debate whether to
+    applaud or condemn antifa viloence. The authorities that make life-and-death
+    decisions are more concerned with not ending up on the wrong side of
+    history. In the era of post-truth, with reality up for grabs, nobody wants
+    to be perceived as *anti*-anti-fascist.
+* 330 The blind impusle to destroy became a nation-state with the advent of the
+    Islamic State of Iraq and Syria in 2014. A vast chunk of land, with a
+    population of millions, was partitioned out of the region, to be ruled by a
+    sect that exalted death. "I swear we are a people who love drinking blood,"
+    boasted a Palestinian adherent of ISIS on video. "We came to slaughter you."
+    That promise was over-fulfilled. The abominations perpetrated by ISES
+    matched the worst horrors of the 20th century. Victims were beheaded,
+    crucified, burned alive in cages. Slavery was revived. Captive women were
+    made into sex slaves and drowned if they refused the part. Untold hundreds
+    of thousands were indeed slaughtered.
+* 332 The left-leaning city fathers of Seattle, Washington, have transmuted
+    Columbus Day into "Indigenous Peoples' Day." The repudiation of history - in
+    effect, of our present reality and hence of ourselves - is among the most
+    powerful motives propelling the revolt of the public. It's the shortest
+    route to nihilism and the logical justification for the death cult. In the
+    turgid manifesto of one prolific lone killer, the word "history" recurs 510
+    times, like a ritual curse.
+* 337 Donald Trump, archetype populist, chose a cabinet or relative "outsiders"
+    instead of the usual establishment types. This will change nothing in the
+    perception of distance. The outsiders have now climbed to their high perches
+    and interact with the public mostly through multiple layers of insiders
+    below them. The distance stays the same. Every failure of government,
+    therefore, will continue to be compounded by an alienated and unforgiving
+    public.
+* 347 The present need is for a re-formation of the system and the restoration
+    of authority. The practice of democracy must accommodate the existence of an
+    enormous and super-opinionated public. Political action must approach the
+    speed and proximity expected by an electorate that lives, works, and shops
+    on digital media.
+* 349 In the end, everything will hinge on the public: on us. If Ortega wasa
+    correct, then we have lost the right to rant about our rulers. Instead, we
+    must go about the job of selecting their successors. We can lavish our
+    attention and our energies strictly on politicians who seem unwilling to lie
+    or simplify or distort to advantage. We can identify and raise up those who
+    refuse to climb above us. That's on fork in the path ahead: another leads to
+    nihilism. Either way, the choice is ours.
 
 ## Brink Nation Book Club Docket
 * 38 Shawn Fanning was 18 when first version of napster was released. Single
