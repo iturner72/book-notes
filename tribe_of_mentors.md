@@ -3,7 +3,7 @@
 by Tim Ferriss
 
 *I, Ian Turner own this book and took these notes for my own learning, purchase
-the book here: https://www.amazon.com/Tools-Titans-Billionaires-World-Class-Performers/dp/1328683788*
+the book here: https://www.amazon.com/Tribe-Mentors-Short-Advice-World/dp/1328994961/ref=sr_1_1?crid=WMPB1PS0HYE&keywords=tribe+of+mentors&qid=1671388011&s=books&sprefix=tribe+or+m%2Cstripbooks%2C119&sr=1-1*
 
 ### Introduction
 * x "The only true voyage would be not to travel through a hundred different
