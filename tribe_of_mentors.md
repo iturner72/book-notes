@@ -102,4 +102,11 @@ the book here: https://www.amazon.com/Tribe-Mentors-Short-Advice-World/dp/132899
     call to action. You are the author of your own life, and it's never too late
     to replace the stories you tell yourself and the world. It's never too late
     to begin a new chapter, add a surprise twist, or change genres entirely.
+* xxi Remember those rejection letters I mentioned receiving for this bool? Some
+  of the polite declines were so good that I included them! There are three "How
+  to Say No" interludes that feature actual emails.
 
+### Samin Nosrat 
+* 1 Samin Nosrat is a writer, teacher, and chef. Called "a go-to resource for
+  matching the correct techniques with the best ingredients" by *The New York
+  Times*, and "the next Julia Child" by NPR's *All Things Considered*,  

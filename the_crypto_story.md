@@ -634,13 +634,13 @@ Let's step back a bit and abstract from what we've discussed so far. Crypto is:
         Bitcoin. For another thing, though they're big companies, regulators are
         aware of them, and they try to be good corporate citizens.
 * ii. Custodians
-    + ...instead of sending you 0.005215 Bitcoin, the exchange just keeps a
-        database of its customers and their account balanes. And your entry in
-        the database includes your name, your driver's license number, your
-        account number, your email address, your phone number, your password,*
-        your mother's maiden name, and your account balance, and the exchange
-        writes 0.005215 in the balance field.
-        + *jk, just a hash of your password.
+    + ...you know the exchange will get some customers who don't write down
+        their wallet's seed phrase (or lose it or forget it) and then can't
+        access the Bitcoin. And they'll call the exchange's customer service
+        number and say, "I lost the password to my Bitcoin account, can you
+        reset it?" And the exchange will say, "No, it doesn't work that way,
+        also we don't have a customer service number."
+    +
 
 
 # IV Trust, Money, Community
