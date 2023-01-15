@@ -110,3 +110,54 @@ the book here: https://www.amazon.com/Tribe-Mentors-Short-Advice-World/dp/132899
 * 1 Samin Nosrat is a writer, teacher, and chef. Called "a go-to resource for
   matching the correct techniques with the best ingredients" by *The New York
   Times*, and "the next Julia Child" by NPR's *All Things Considered*,  
+* 1 Paul Stamets' Host Defense MyCommunity mushroom complex is the most 
+  incredible immunity supplement I have ever taken (and I have taken a lot of 
+  them!). No matter how much I travel, how many hands I shake, or how exhausted 
+  I am, I don't get sick as long as I take the supplement diligently.
+* 2 I've learned to envision the ideal end to any project before I begin it 
+  now; even the best gigs don't last forever. Nor should they.
+* 3 Ten years ago, while running a restaurant, I made the time to audit a class
+  at the Graduate School of Journalism at UC Berkely with Michael Pollan... I
+  got to know Michael, who encouraged me to write. He also hired me to teach him
+  how to cook, and over the course of those lessons he encouraged me to
+  formalize my unique cooking philosophy into a proper curriculum, go out into
+  the world and teach it, and turn it into a book.
+* 4 Other times, I decide to go to the farmers market to look at, touch, smell,
+  and taste the produce and let my senses guide me in the decision of what to
+  cook for dinner.
+
+### Steven Pressfield
+* 5 He is the best-selling author of *The Legend of Bagger Vance, Gates of Fire,
+  The Afghan Campaign,* and *The Lion's Gate,* as well as the cult classics on
+  creativity, *The War of Art, Turning Pro,* and *Do the Work.*
+* 6 ...the best things that ever happened to me came during the times when the
+  shit hit the fan and I had nothing and nobody to help me.Who are you really?
+  What do you *really* want? Get out there and fail and find out.
+* 7 Thucydides, like all the Greeks of his era, was unencumbered by Christian
+  theology, or Marxist dogma, or Freudian psychology, or any of the other "isms"
+  that attempt to convince us that man is basically good, or perhaps
+  perfectible.
+* 9 Bad advice is everywhere. Build a following. Establish a platform. Learn how
+  to scam the system. In other words, do all the surface stuff and none of the
+  real work it takes to actually produce something of value. The disease of out
+  times is that we live on the surface... Real work and real satisfaction come
+  from the opposite of what the web provides. They come from going *deep* into
+  something - the book you're writing, the album, the movie - and staying there
+  for a long, long time.
+
+### Susan Cain
+* 10 Susan Cain is the co-founder of Quiet Revolution and the author of the
+  bestsellers *Quiet Power: The Secret Strengths of Introverted Kids,* and
+  *Quiet: The Power of Introverts in a World That Can't Stop Talking*, which has
+  been translated into 40 languages and been on the *New York Times* bestseller
+  list for more than four years.
+* 12 I handed in a first draft after the first two years, which my editor
+  (correctly) pronounced crappy. She put it only slightly more delicately. She
+  said, "Take all the time you need, start from scratch, and get it right." I
+  left her office elated - because I agreed with her.
+
+### Kyle Maynard
+* 14 Kyle Maynard is a best-selling author, entrepreneur, and ESPY award-winning
+  mixed martial arts athlete, known for becoming the first quadruple amputee to
+  reach the summits of Mount Kilimanjaro and Mount Aconcagua without the aid of
+  prosthetics.
