@@ -640,7 +640,34 @@ Let's step back a bit and abstract from what we've discussed so far. Crypto is:
         number and say, "I lost the password to my Bitcoin account, can you
         reset it?" And the exchange will say, "No, it doesn't work that way,
         also we don't have a customer service number."
-    +
+    + The exchange could hang on to your Bitcoin for you. Instead of sending you
+      0.005215 Bitcoin on the Bitcoin blockchain, it could go out and buy
+      0.005125 Bitcoin and put them into its own Bitcoin wallet. Being a
+      professional Bitcoin exchange, it could put in the effort to keep these
+    + ...instead of sending you 0.005215 Bitcoin, the exchange just keeps a
+      database of its customers and their account balances... your entry in the
+      DB includes your name, DL number, account number, email, phone, password,
+      mother's maiden name (rofl), and your account balance, and the exchange
+      writes 0.00512 in the balance field.
+    + ...you just have an entry on the ledger of the exchange, they control the
+      private key. \textbf{You know. Like a bank!} (intentional \LaTeX meme). If
+      you have a bank account, the bank owes you money, and you trust it to keep
+      a record of that; if you have a crypto exchange account, it's the same,
+      but the exchange owes you BTC. If you lose your password, the exchange can
+      help recover it, better customer service than \textit{BTC CEO}.
+    + These days (Oct 25th 2021 [time of writing], rip FTX 2 weeks later) the
+      big crypto exchanges seem to be mostly law-abiding, and you can get rich
+      enough running a legitimate crypto exchange that it seems silly to steal
+      the money instead.
+    + A crypto exchange has a giant pot of money, and it has to move that money
+      around a lot to deal with customer transactions. It's an appealing target
+      for hackers looking to steal private keys. 
+    + Long history of hacked exchanges with CEOs dying mysteriously.
+* iii. Also exchanges, though
+    + Centralized crypto exchanges are on-ramps to crypto for people with
+      dollars and other traditional currencies, but they're also exchanges. 
+    + In trad fi, there tends to be a division between "exchanges" and
+      "brokerages." 
 
 
 # IV Trust, Money, Community
