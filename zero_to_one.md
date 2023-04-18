@@ -195,7 +195,7 @@ the book here: https://www.amazon.com/Zero-One-Notes-Startups-Future/dp/08041392
 ### 11 If You Build It, Will They Come?
 * 131 SpaceX shows that it can be done. Within just a few years of launching his
     rocket startup. Elon Musk persuaded NASA to sign billion-dollar contracts to
-    replace the decommissioned space shuttle with a newly designed veddel from
+    replace the decommissioned space shuttle with a newly designed vessel from
     SpaceX.
 * 139 Nerds might wish that distribution could be ignored and salesmen banished
     to another planet. All of us want to believe that we make up our own minds,
