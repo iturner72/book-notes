@@ -356,20 +356,143 @@ the book here: https://press.princeton.edu/books/paperback/9780691141800/reputat
   Organizations and their members in numerous walks of life aim less for profit
   itself, less for power itself, and more for reputation and the associated
   benefits that it brings: prestige, status, and authority.
+* 58 To the extent that organizations engage in what sociologist Erving Goffman
+  termed "The arts of impression management," then, the calculus is entirely
+  different from that of "profit maximization" or "rent--seeking."
+  Organizational managers and others committed to the organization's identity
+  may be less concerned with "maximizing" a reputation for some trait and more
+  concerned with preventing severe damage to a reputation that already exists.
 
+* 58 *Multiple Constituencies as Multiple Overlapping Audiences: Reputation
+  versus Pluralism.* The organizations that bear reputations usually have
+  multiple audiences. The stories of reputation to which social scientists are
+  accustomed often fail to appreciate this multiplicity. In economics and
+  political science, for instance, scholars have constructed models of
+  reputation in game theory that are premised upon the metaphor of a
+  "chain-store" game. A chain of stores may, in a particular locality, face a
+  threat from a competitor. In dealing with this threat, the chain store must
+  understand that its actions in this local situation will create a reputation
+  for its likely behavior in similar situations in the future. Other potential
+  competitors in other localities will consider this reputation when
+  deciding whether or not to compete in those places. Hence, and important
+  equilibrium of these games is for the chain store to "snuff out" the first
+  appearance of a competitor, thereby projecting a reputation for vigilance or
+  toughness, and hence scaring off competition in other locales.
+* 60 Scholars of national bureaucracy in the US have long recognized that agency
+  personnel experience great and direct disutility from being called to "the
+  Hill" to testify, discomfort having little to do with congressional oversight
+  or the threat of congressional action such as budget cuts after the hearing.
+  For many agencies, a legislative setting is the forum where their decisions
+  are most likely to be publicly revealed, discussed, and criticized, and one of
+  the few fora in which these criticisms will be delivered face-to-face.
 
+* 61 *Faces of Regulatory Power and Their Interdependence.* An understanding of
+  reputation and its meanings among different audiences also permits new windows
+  into regulatory power. In the United States and other countries, observers
+  have been as likely to stress the weaknesses of regulatory agencies as they
+  have been to emphasize the power of these organizations.
 
+* 62 *The Distinctiveness of Regulatory Power.* Much of economic regulation
+  involves a subject acting upon an object, the governance of a "regulated
+  entity" by the empowered "regulator." Accordingly, and agent of government
+  exercises regulatory power when it induces the regulated entity to begave in a
+  manner that it would not have behaved, absent the presence or behavior of the
+  regulator. Under a pattern of regulatory power, put differently, a regulated
+  entity takes action or inaction that would not have occurred if the regulator
+  were not present or had behaved differently.
+* 63 In its most raw form, a regulator can issue an order for a private actor to
+  "cease and desist" from production, distribution, or marketing of a particular
+  good. The regulator can often seize supplies of the good in question or shut
+  down the operations of its producer or marketer.
+* 63 A second, gatekeeping facet of regulatory power emerges in the less
+  visible decisions of economic producers or political combatants not to bring
+  an idea or issue into the arena of political economy. A group of investors may
+  decide to pull their capital from a new communications company, fearful that
+  the firm will be too heavily regulated. Or a bank decides not to fund a new
+  construction project out of belief that the developer's application for a new
+  construction permit will be denied or delayed.
+* 64 A third, conceptual facet of regulatory power consists in the ability
+  (often unconsciously exercised) of the governing organization to shape
+  fundamental patterns of thought, communication, and learning by its formal and
+  informal definition of concepts, vocabularies, measurements, and standards.
 
+* 66 *Reputation as Asset: Protection and Maintenance*. Identity, and especially
+  its reputational facet, has an asset value. Once crystallized, and once
+  recognized, officials with authority in an organization may take measured
+  steps to protect, maintain, and enhance it.
 
+* 67 *Risk Aversion and Irreversibility of Public Decisions.* The decisions that
+  face many regulators are decisions of timing accompanied by learning. An
+  enforcement agency's attorneys must sift through evidence and decide whether
+  to pursue a civil or criminal case against a private entity... A central
+  prediction of a reputation-based account is that, on the whole, these sorts of
+  decisions will have an irreversibility attached to them. Once the decision is
+  taken &mdash; once the case is litigated and a party is sued, once a wetland
+  or a grazing permit is granted, once a product is approved for marketing
+  &mdash; it is difficult for the regulator to go back on the decision without
+  serious consequences for the agency's reputation... This looks like aversion
+  to risk, and in part it is. But it is something more. It is aversion to
+  reputational damage.
 
+* 68 *Governance through Networks*. Members of a firm, a professional group, a
+  consumer lobby, and other organizations may be invited to participate in the
+  decisions of the agency, or in councils of advice to the agency.
 
+* 68 *Revisitation Constraints*. The near-irreversibility of publlic decisions
+  by reputation-conscious regulators has implications for their behavior after
+  these choices are made. Once a decision has been rendered &mdash; having taken
+  longer and having been characterized by more caution due to irreversibility
+  concerns &mdash; the regulator will not wish to revisit it. More properly,
+  some actors who were responsible for the decision will not wish to reopen the
+  case.
 
+* 69 *Different Faces for Different Audiences*. An organization's legitimacy may
+  rest upon its "good cop" image, but the sound functioning of its policing
+  activity may frequently require projection of a "bad cop" image to some
+  audiences (regulated firms and industries, for example).
 
+* 69 *Ambiguity*. It is important to emphasize that ambiguity usually exists for
+  many reasons, and that even strategic regulatory ambiguity does not imply any
+  sort of conspiracy. It is always difficult to define an organization's
+  identity and to pin it down.
 
+* 69 *Reputation as a Font of Regulatory Power*. Political organizations often
+  pursue both love and fear at the same time, and the resulting tension requires
+  a delicate pattern of equipoise... A reputation-bbased account is not a
+  panacea for all that ails the study of regulation. Reputation is not a
+  theoretical perspective that characterizes all forms of regulation, or even
+  all forms of regulator. Still it does govern some forms, perhaps many forms,
+  and a complicated politics of reputation and organizational image has been a
+  central force in the evolution of pharmaceutical regulation in the US and
+  other countries and continents.
 
 
 
 # PART ONE: ORGANIZATIONAL EMPOWERMENT AND CHALLENGE
+
+## Chapter 2: Reputation and Gatekeeping Authority: The Federal Food, Drug and Cosmetic Act of 1938 and Its Aftermath
+
+* 73 Reputation and Power in American pharmaceutical regulation evolved jointly
+  in an extended moment of image making and lawmaking. These crucial steps
+  toward the interlacing of reputation and power came in the middle of the New
+  Deal, with the Federal Food, Drug and Cosmetic Act of 1938, its subsequent
+  enforcement by the FDA, and the Supreme Court's decision in *United States v.
+  Dotterweich* (1943) [^2].
+
+[^2]: Carpenter continually refers to the Federal Food, Drug and Cosmetic Act as
+    "the Act of 1938" or "the 1938 Act."
+
+* 7?
+
+
+
+
+
+
+
+
+
+
 
 # PART TWO: PHARMACEUTICAL REGULATION AND ITS AUDIENCES 
 
