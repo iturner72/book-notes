@@ -146,14 +146,14 @@ the book here: https://press.princeton.edu/books/paperback/9780691141800/reputat
   various US pharma regs like: New Drug Application (NDA), Regulated R&D (Phased
   Studies), Good Manufacturing Practices, and more).
 * 25 Some fun puzzles:    
- + Why is pharmaceutical regulation nationalized in the US, while other forms of
+    + Why is pharmaceutical regulation nationalized in the US, while other forms of
    regulation are not? Put equivalently, why is pharmaceutical regulation
    nationalized in the US when other nations, most notably Australia and India,
    have had more decentralized, regional agencies that regulate medicines?
- + Why has the FDA enjoyed greater discretion, policymaking authority, and
+    + Why has the FDA enjoyed greater discretion, policymaking authority, and
    deference from other branches of government in its regulation of drugs,
    compared to its regulation of foods?
- + What accounts for some of the intricate and counterintuitive patterns of
+    + What accounts for some of the intricate and counterintuitive patterns of
    interplay between firms, scientists, federal regulators, and social groups in
    the US? And how does this most powerful agency exercise its power with such
    limited resources?
@@ -204,8 +204,171 @@ the book here: https://press.princeton.edu/books/paperback/9780691141800/reputat
   represent proteins and antibodies that are "biologically active," whereas the
   smaller molecules stand in for more traditional drugs without biological
   activity.
+* 31 In many cases, depictions of events that I took from interviews as factual
+  were, upon further study and reflection, simply one reading (among many) of
+  crucial and pivotal events. As I came to do more of them, I found that
+  interviews were important less for establishing "what actually happened" and
+  more for getting a sense of different lenses through which the same facts, the
+  same choices, the same rules, the same organization might be viewed.
 
 ## Chapter 1: Regulation and Regulatory Power 
+* 33 In ways that are stark and in ways not easily seen, organizational
+  reputations animate, empower, and constrain the manifold agencies of
+  government. Reputations are composed of symbolic beliefs about an
+  organization &mdash; its capacities, intentions, history, mission &mdash; and
+  these images are embedded in a network of multiple audiences.
+
+### Regulation and Its Limited Theories
+* 35 To take one example, consider the modern automobile. The size, weight, fuel
+  efficiency, emissions, and safety characteristics of cars &mdash; and the
+  manner in which cars are manufactured &mdash; are all thoroughly and legally
+  shaped by national governments, by stats-level agencies and local bureaus, by
+  courts, by industry certification programs, and by companies themselves
+  through "self-regulation."
+* 36 *The Public Interest Theory as a Fictional Straw Man*. ...there is no
+  single public interest theory. The term is much more commonly used by capture
+  and rent-seeking theorists. It collects under one term an array of views, each
+  of which tends to render three claims about the origins and operation of
+  regulation.
+    + First, regulation should (and generally does) serve the general interest
+      of a society, in particular the welfare of consumers. Historically,
+      consumer enrichment and protection are the reasons for which regulations
+      have been created.
+    + Second (which can be read as a variant of the first), regulation serves to
+      correct "market failures," such that market failures help to locate and
+      explain the rise and incidence of regulation, and such that regulation in
+      fact serves to correct or ameliorate these failures.
+    + Third, the administrators of a public interest regulation are, and should
+      be, characterized by neutral competence in the pursuit of objectives
+      specified in law.
+
+* 38 *Recent Normative Accounts of Regulation: Risk and Externalities*. One way
+  of viewing government policies or environmental hazards, occupational safety,
+  the approval of new medicines and other technologies, and other forms of
+  regulation is that they represent public attempts to regulate risk by
+  reallocating it across the members of society.
+
+* 40 *Capture and Rent-Seeking Perspectives*. The producer capture argument has
+  become perhaps the dominant account of regulatory policy. The theory offers
+  both an account of formal regulation &mdash; as in laws and rules &mdash; and
+  a portrait of the regulatory agency that administers the formal regulation.
+  The legislature rewards the bribes of industry with regulatory protection
+  because the form of these bribes &mdash; campaign contributions or votes
+  &mdash; assists politicians in their ultimate goal of getting re-elected. The
+  agency cozies up to existing firms, particularly the large and stable ones,
+  because they provide the reason for its existence. Moreover, the agency and
+  the industry ritually exchange personnel and thereby create an unholy
+  "revolving door." The agency recruits employees from the industry that it
+  regulates. After a period of service at the relevant commission, the officials
+  depart the agency and return to industry for lucrative careers there. The
+  revolving door hypothesis suggests that industry and regulators are united not
+  just by interests but in terms of identity. Regulators and the regulated are
+  one and the same people.
+* 41 In the past two decades, scholars have refines the capture perspective by
+  advancing "interest-group" and "rent-seeking" theories of regulation. These
+  views concede that producer interests are not monolithic &mdash; firm
+  interests vary by specialization and other things &mdash; and that consumers
+  can also organize politically. The fundamental concept in these newer theories
+  is "rent-seeking." The pursuits of political favors, of regulatory advantage,
+  and of market protection are lumped together under the idea. So heavily and
+  vaguely is the term "rent-seeking" thrown around economics, political
+  science, law, and sociology that the concept has lot much of its meaning.
+
+* 43 *Organizational Reputation and Regulation* What if the metaphor for
+  understanding regulators is neither the automaton nor the kleptocrat? What if,
+  instead, it is the imperfect human official motivated either by neutral
+  competence nor by monetary enrichment nor by raw empowerment, but by stats,
+  esteem, legitimacy, and reputation?
+* 44 A facilitating condition for the creation of regulation in modern
+  democratic societies is for the attentive public (and legislators in
+  particular) to believe that whatever problems exist will be capably addressed
+  and solved by a particular agency. In the US and other countries, the
+  delegation of tasks in new laws goes overwhelmingly to agencies that already
+  exist.
+
+* 45 *Organizational Reputation &mdash; Performative, Moral, Technical, and
+  Legal-Procedural Dimensions* The symbols that are the raw material of beliefs
+  and reputation have inherent ambiguity, and to a degree, ambiguity coincides
+  with robustness of the identity.
+    + 1. Organizations are often judged by their performance. Whatever the aim
+         of the organization, its *performative reputation* expresses its
+         audiences' varying judgments of the quality of the entity's decision
+         making and its capacity for effectively achieving its ends and
+         announced objectives
+    + 2. Agencies also have *moral reputations*. Audiences may ask: does this
+         organization have morally and ethically defensible means and ends? Does
+         the organization protect the interests of its clients, constituencies,
+         and members? Does the organization have a culture of ethical behavior,
+         of transparency? Does the organization exhibit compassion for those
+         adversely affected by its decisions or those in its environment who are
+         less fortunate or more constrained? Is the organization flexible with
+         respect to human needs? An organization perceived to be highly
+         effective may nonetheless have a problematic moral reputation.
+    + 3. *Technical reputation* encompasses variables such as scientific
+         accuracy, methodological prowess, and analytic capacity. The
+         organization may be efficient and well-meaning, but are its
+         representative members "expert" on the questions that confront it? In a
+         professional or rational sense, is it "qualifies" for the authority
+         (legal and cultural) granted to it?
+    + 4. An organization's *legal-procedural reputation* relates to the justness
+         of the processes by which its behavior is generated. This is different
+         from moral reputation because an organization may have defensible aims
+         and ethically appropriate strategies for meeting them, but may not have
+         followed commonly recognized norms of deliberation, procedure, or
+         decision making. Whatever the decision, audiences (particularly courts
+         and some scientific audiences) may ask, did the organization follow
+         accepted procedures to come to its decision? Were its procedures
+         thorough enough?
+* 47 The different facets of organizational reputation overlap and necessarily
+  embed some conflict. An organization can be so attentive to procedural
+  legitimacy that it sacrifices efficiency or fails to demonstrate compassion
+  toward those few individuals whose hopes are dashed by its decision-making
+  process. An agency's official leaders can so zealously pursue social justice
+  or moral rectitude that they neglect procedural concerns or betray their
+  technical reputation.
+
+* 47 *Individual Roots of Organizational Reputation: Image and Esteem* The
+  influence of organizational identity upon individual behavior can be
+  considered in two ways: the case where the individual is a member of the
+  organization, and the case where the individual lies outside the organization.
+* 50 At the core of any reputation lies a partial fiction. It is of course
+  factually incorrect to speak of "the FDA," "Microsoft, " "General Motors,"
+  "the U.S. Army," "the Marines," or "the Catholic Church" as if these were
+  perfectly unitary things. Yet citizens do this all the time, and without
+  giving conscious thought to it.
+  ...A scandal involving the abuse of military prisoners or the slaughter of
+  innocents may have been committed by a small handful of soldiers, perhaps
+  supported by a local culture of tolerance for such behavior. Yet even the most
+  blameless members of the army will feel their organization's association with
+  the scandal.
+
+* 51 *Organizational Reputation and Regulatory Politics*. The emergence of
+  economic regulation follows a number of different scripts, and it is doubtful
+  that any single theory can embed all of them. ...The emergence of new
+  technology &mdash; broadcast radio and television, or nuclear power &mdash;
+  may be met with the creation of regulatory institutions. A public tragedy such
+  as a mass poisoning or even a terrorist attack may be followed by the creation
+  of new institutions or the strengthening of old ones.
+
+* 55 *Organizational Reputation and Regulatory Behavior*. A reputation-based
+  perspective can alo shed useful light on the behavior of government
+  organizations and regulatory bodies once a regulatory policy is established.
+  Consider first the individually based motivations of government regulators.
+  Organizations and their members in numerous walks of life aim less for profit
+  itself, less for power itself, and more for reputation and the associated
+  benefits that it brings: prestige, status, and authority.
+
+
+
+
+
+
+
+
+
+
+
+
 
 # PART ONE: ORGANIZATIONAL EMPOWERMENT AND CHALLENGE
 
