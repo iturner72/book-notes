@@ -1,5 +1,4 @@
-# Reputation and Power: Organizational Image and Pharmaceutical Regulation at
-the FDA
+# Reputation and Power: Organizational Image and Pharmaceutical Regulation at the FDA
 
 by Daniel Carpenter
 
