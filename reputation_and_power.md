@@ -6,7 +6,7 @@ by Daniel Carpenter
 *I, Ian Turner own this book and too these notes for my own learning, purchase
 the book here: https://press.princeton.edu/books/paperback/9780691141800/reputation-and-power*
 
-### Introduction: The Gatekeeper
+## Introduction: The Gatekeeper
 * 1 Regulation and law currently put American citizens at second remove from
   therapeutic medicines. In order to use most drugs, citizens must obtain a
   prescription from a licensed and qualified medical authority, usually a
@@ -91,6 +91,8 @@ the book here: https://press.princeton.edu/books/paperback/9780691141800/reputat
   scientists, by corporations, by major newspapers? Perhaps more important, how
   could an agency inspire admiration from society while also being feared by
   some of its most powerful members?
+
+### Reputation and the Puzzles of Regulatory Power
 * 10 Reputation &mdash; understood as a set of symbolic beliefs about an
   organization, beliefs embedded in multiple audiences &mdash; comprises the
   central response of this study to the puzzle of American regulatory power in
@@ -103,6 +105,8 @@ the book here: https://press.princeton.edu/books/paperback/9780691141800/reputat
   ascribed to the federal government, to Congress and various presidents of the
   time in the same surveys. (There's an insanely long footnote on this page that
   details the surprising (to me) survey results).
+
+### Regulatory Power: Directive, Gatekeeping, and Conceptual
 * 15 In representing regulatory power in the modern pharmaceutical world, I have
   chosen a threefold conception that harkens to an older tradition of inquiry in
   political science and sociology. The idea is that power exists not only in
@@ -111,6 +115,8 @@ the book here: https://press.princeton.edu/books/paperback/9780691141800/reputat
   problems, debates, and agendas structure human activity (gatekeeping power),
   and the ability to shape the content and structure of human cognition itself
   (conceptual power).
+
+### The Scope and Variance of Regulatory Power: Some Comparative and Historical Riddles
 * 19 An intensive study of one government agency may seem of limited value for
   understanding other organizations. Is a focused assay of American
   pharmaceutical regulation over seven decades a "case study" of an organization
@@ -129,10 +135,79 @@ the book here: https://press.princeton.edu/books/paperback/9780691141800/reputat
   [^1]: Historian of physics Peter Galison has rendered the point
   with hilarity: "Imagine a book entitled *A Case Study in European History:
   France*. 
- 
-### Chapter 1: Regulation and Regulatory Power 
+* 21 The FDA has long employed more scientists and more heavily trained personnel
+  than other agencies performing its functions, at times (in the 1970s) more so
+  than in all the world's other drug regulators combined. Even as agencies in
+  Europe and Asia have advanced in recent years, the United States still houses
+  the strongest of global pharmaceutical regulators.
+* 22 In the latter half of the twentieth century, an American model for
+  pharmaceutical regulation has been perhaps the primary institutional export of
+  the Unites States (see table I.1). (This table shows how other nations yoinked
+  various US pharma regs like: New Drug Application (NDA), Regulated R&D (Phased
+  Studies), Good Manufacturing Practices, and more).
+* 25 Some fun puzzles:    
+ + Why is pharmaceutical regulation nationalized in the US, while other forms of
+   regulation are not? Put equivalently, why is pharmaceutical regulation
+   nationalized in the US when other nations, most notably Australia and India,
+   have had more decentralized, regional agencies that regulate medicines?
+ + Why has the FDA enjoyed greater discretion, policymaking authority, and
+   deference from other branches of government in its regulation of drugs,
+   compared to its regulation of foods?
+ + What accounts for some of the intricate and counterintuitive patterns of
+   interplay between firms, scientists, federal regulators, and social groups in
+   the US? And how does this most powerful agency exercise its power with such
+   limited resources?
 
-## PART ONE: ORGANIZATIONAL EMPOWERMENT AND CHALLENGE
+### Narrative, Comparison, and Statistics: Empirical Approaches of This Study
+* 26 My goals will have been met if the book leaves readers with an appreciation
+  for the historical and political complications of US pharmaceutical regulation
+  as well as some general lenses through which the seemingly familiar can be
+  viewed in a different, potentially surprising, and illuminating way.
+* 26 Another reason for preserving and presenting the complexity of US
+  pharmaceutical regulation is that most attempts at simplification &mdash; and
+  there have been many &mdash; have been misleading. There are dozens of
+  writings on US pharmaceutical regulation, and there are many, many more on
+  prescription drugs and the American and global pharmaceutical industries.
+  Those efforts, while collectively fascinating and occasionally enriching,
+  often portray an all too simple landscape. In one common narrative, a
+  government agency protects millions of citizens from unscrupulous businesses
+  whose lust for profit vastly outweighs their concern for public health or
+  consumer safety. In another account, much more popular in recent years, the
+  agency has been taken over by the very companies it is supposed to govern,
+  converted to a servant of industry. In other stories, an overzealous and
+  illegitimate government regulator, subservient either to populist,
+  anti-technology consumer advocates or to drug companies themselves, deprives
+  patients of medicines that would save their lives, and suffocates the
+  innovative technology coming from one of modern capitalism's most dynamic
+  sectors. 
+        At different moments, each of these narratives tells a partial truth.
+  Cautious bureaucrats have bungled. Profit-thirsty firms have recklessly
+  produced and poorly tested unsage drugs that have killed and maimed.
+  Pharmaceutical firms have indeed exercised more sway over regulatory affairs
+  in recent decades. Yet in the aggregate, and over the course of decades of
+  American and global history, these stories fundamentally mislead. More
+  compelling and accurate truths lie not merely in between these extremes, but
+  on other dimensions of experience.
 
-## PART TWO: PHARMACEUTICAL REGULATION AND ITS AUDIENCES 
+### The Subject, The Theory, and The Approach
+* 30 ...in the analysis of reputation and power in regulation, it is not only
+  the regulatory official but also her audiences and subjects that merit
+  attention (perhaps most of it). 
+* 30 Much of the study is focused not on newer forms of medical therapies but
+  upon a set of drugs that the FDA has called "new molecular entities." In the
+  pharmaceutical world, two categorical distinctions are often employed to break
+  apart the continuous and slippery space of drugs. Molecular entities are
+  usually distinguished from "biologics." The world of biologics is often
+  wrongly conflated with the world of "biotech," when in fact most biotechnology
+  drugs are not vaccines or otherwise bioactive. A more pervasive difference is
+  between "small" and "large" molecules, such that the larger molecules
+  represent proteins and antibodies that are "biologically active," whereas the
+  smaller molecules stand in for more traditional drugs without biological
+  activity.
+
+## Chapter 1: Regulation and Regulatory Power 
+
+# PART ONE: ORGANIZATIONAL EMPOWERMENT AND CHALLENGE
+
+# PART TWO: PHARMACEUTICAL REGULATION AND ITS AUDIENCES 
 
