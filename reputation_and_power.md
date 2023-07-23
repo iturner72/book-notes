@@ -91,6 +91,44 @@ the book here: https://press.princeton.edu/books/paperback/9780691141800/reputat
   scientists, by corporations, by major newspapers? Perhaps more important, how
   could an agency inspire admiration from society while also being feared by
   some of its most powerful members?
+* 10 Reputation &mdash; understood as a set of symbolic beliefs about an
+  organization, beliefs embedded in multiple audiences &mdash; comprises the
+  central response of this study to the puzzle of American regulatory power in
+  the global pharmaceutical world. Reputation built on regulatory power in all
+  of its facets. And power, once possessed, has been used and managed in ways
+  that maintain reputation, and hence power itself. 
+* 12 In the 1970s, as public opinion on government capacity soured, the FDA and
+  its regulatory work regularly received 70 to 80 percent or more "approval" or
+  "confidence" from citizens surveyed; this was double or more the confidence
+  ascribed to the federal government, to Congress and various presidents of the
+  time in the same surveys. (There's an insanely long footnote on this page that
+  details the surprising (to me) survey results).
+* 15 In representing regulatory power in the modern pharmaceutical world, I have
+  chosen a threefold conception that harkens to an older tradition of inquiry in
+  political science and sociology. The idea is that power exists not only in
+  broad formal authority to direct the behavior of others (directive power) but
+  also in appearances that are less obvious: the ability to define what sorts of
+  problems, debates, and agendas structure human activity (gatekeeping power),
+  and the ability to shape the content and structure of human cognition itself
+  (conceptual power).
+* 19 An intensive study of one government agency may seem of limited value for
+  understanding other organizations. Is a focused assay of American
+  pharmaceutical regulation over seven decades a "case study" of an organization
+  whose patterns illustrate those of other agencies, and if so, why not examine
+  these other cases as co-equal recipients of attention? Or is the FDA so unique
+  that its analysis speaks with limited range to other settings? I think neither
+  of these concerns has warrant. The main problem comes with the term "case
+  study" and its all too casual use in academic work. To call something a "case
+  study" assumes the goal of extracting universal knowledge about a population
+  from a singular entity. A study thus amounts to a "case" only when its
+  characteristics are representative of those shared by a larger population of
+  research objects; a pharmaceutical regulator in the United States could, under
+  this reasoning, represent all other pharmaceutical regulators, all other
+  government agencies, or even all other organizations. [<sup>1</sup>](#note1)
+
+  <div id="note1">1: Historian of physics Peter Galison has rendered the point
+  with hilarity: "Imagine a book entitled *A Case Study in European History:
+  France*. [<-](#back1)</div>
  
 ### Chapter 1: Regulation and Regulatory Power 
 
