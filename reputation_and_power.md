@@ -482,17 +482,132 @@ the book here: https://press.princeton.edu/books/paperback/9780691141800/reputat
 [^2]: Carpenter continually refers to the Federal Food, Drug and Cosmetic Act as
     "the Act of 1938" or "the 1938 Act."
 
-* 7?
+* 73 By all accounts, the Federal Food, Drug and Cosmetic Act of 1938 issued
+  from crisis... As their bill laye stalled in Congress in the fall of 1937, a
+  new anti-infective drug, "Dr. Massengill's Elixer Sulfanilamide," caused 107
+  deaths and stoked national fears and controversy. USDA officials quickly
+  tracked down supplies of the drug and removed it from market circulation, from
+  pharmacy shelves, and home medicine cabinets.
 
+* 75 *Early Drug Regulation, Proprietary Medicines, and the "Right of
+  Self-Medication"* ...it was not until the Biologics Act of 1902 and the Pure
+  Food and Drugs Act of 1906 that direct and authoritative federal involvement
+  in drug regulation was sanctioned. The first of these acts quietly established
+  a precedent for minimal licensing power in the field of vaccines. The second
+  established federal penalties for adulterating or misbranding medicines and
+  strengthened a rapidly growing federal agency &mdash; the US Department of
+  Agriculture (USDA) &mdash; whose capacity for policy innovation in the
+  Progressive Era spawned many other vital reforms.
 
+* 76 The other agent of American drug regulation at this time was a
+  nongovernmental actor: the Council on Pharmacy and Chemistry of the American
+  Medical Association, established in 1905. The Council included
+  pharmacologists, chemists, and physicians in its membership, and it published
+  standards for drug quality. In 1930, it created a voluntary "Seal of
+  Acceptance" program to evaluate safety and efficacy. When the Council deemed a
+  drug unsafe, it could act to prevent the drug's advertisement in the *Journal
+  of the American Medical Association* (JAMA). In critical ways, FDA officials
+  and their advisers would incorporate and build upon the Council's thinking.
 
+* 78 The set of drugs marketed as patent medicines varied widely in their
+  composition and therapeutic claims. Anti-impotence medications and sexual
+  stimulation drugs with names such as "Persenico" and "Revivio" were very
+  common... Perhaps worse, many patent medicines were associated with high
+  toxicity and other safety hazards. Most "soothing tonics" for babies and
+  children were laced with alcohol, opium or some combination of the two.
+  "Gouraud's Oriental Face Cream" led to "genuine facial beauty," but government
+  investigators later learned that it did so by imparting significant mercury to
+  its consumers, thereby inducing skin discoloration.
 
+* 80 The proprietary medicine industry entered the twentieth century almost
+  completely unregulated. The signal change in Progressive-Era regulation of
+  drugs came in 1906, when Dr. Harvey Wiley of the USDA's Bureau of Chemistry
+  successfully completed a twenty-year campaign to pass a federal food and drug
+  regulation bill. The 1906 law gave USDA power to seize articles of manufacture
+  deemed "fraudulent" or falsely advertised, and prodigious cooperation between
+  Wiley and officials at the Post Office Department was successful in the
+  prosecuting hundreds of cases in the Progressive period. Yet such cases were
+  always prosecuted after the harm had occurred, and the associated penalties
+  were minimal.
 
+* 80 *The Emergence of New Regulatory Alternatives: Bureaucratic Agenda-Setting and
+  the Power of Organized Women* Calls for a revision of the 1906 Pure Food and
+  Drugs Act were largely unrelated to changes in the proprietary medicine
+  industry or to consumer tragedies of the 1920s and early 1930s. Instead, two
+  forces &mdash; the FDA (backed by Roosevelt administration officials in the
+  Department of Agriculture) and organized women's groups &mdash; exercised
+  strong leverage in pressing for changes to the 1906 law.
 
+* 81 S.1944 required disclosure of ingredients on labels, removed the 1906 Act's
+  requirement that the FDA had to prove intent to defraud in order to seize
+  shipments of a good, gave the FDA power to seize multiple shipments of
+  "misbranded" goods, and rendered advertisers and manufacturers alike legally
+  liable for fraudulent claims. The bill also gave to the FDA power over
+  pharmaceutical advertising. S.2800 and S.5 relaxed many of these provisions,
+  in particular by introducing judicial constraints on seizures and by relaxing
+  the formula disclosure provisions of earlier bills.
 
+* 85 *The Sulfanilamide Episode of 1937* FDA officials therefore suspected that
+  the problem lay not in the sulfanilamide itself but rather in the elixir
+  solution in which it was suspended for pharmacological delivery. Dr.
+  Massengill's solvent, as it turned out, was diethylene glycol, which is
+  similar to an essential ingredient in antifreeze and is highly toxic even in
+  small doses. 
+  ... Yet the concentration of deaths (and shipments) suggests something about
+  the mechanisms by which the drug was propagated through a large population of
+  consumers. The prescription and consumption of elixir sulfanilamide was
+  probably dependent upon local referral networks and the idiosyncratic
+  practices of individual physicians.
 
+* 89 *Sulfanilamide from Episode to Tragedy: The FDA and the National Media*
+  Three days after the initial Tulsa inquiry at the AMA, the first word of
+  elixir sulfanilamide deaths reached the FDA on October 14, 1937. On October
+  16, an FDA investigator telegraphed headquarters with news that nine persons
+  in the Tulsa area had died there from taking the elixir. 
+  ... There was a degree of mutual dependence in this reporting. The
+  Administration relied upon AMA reports and its own investigators; the AMA
+  relied upon FDA reports and its own information from networks of physicians.
 
+* 90 Venereal Disease 'Cure' Kills 8 of 10 Patients in Oklahoma *Sulfanilamide,
+  Hailed as Remedy, Used in Fatal Preparation; Doctors Blame Other Drug; Firm
+  seeks to Recover 375 Cases on Market* As the title of the *Post* story suggests,
+  the very initial accounts of sulfanilamide deaths never mentioned the FDA. The
+  American Medical Association had broken the story, and it was the manufacturer
+  Massengill and not the FDA to which was attributed the attempt to remove
+  Elixir Sulfanilamide from the Market. 
 
+* 91 By the end of the week (Saturday, October 23), and certainly by the end of
+  October 1937, the primary source of information on the sulfanilamide episode
+  had become Campbell and the FDA.
 
-# PART TWO: PHARMACEUTICAL REGULATION AND ITS AUDIENCES 
+* 92 Technically nothing in the elixir sulfanilamide disaster implied that the
+  Massengill Company had broken a single law. There was little basis in federal
+  stature for prosecuting Bristol. The only charge against Massengill that stuck
+  was an arcane mislabeling charge, namely that "elixir" implied alcoholic
+  content yet "Elixir Sulfanilamide" contained no alcohol.
+
+* 95 *Walter Campbell and the Wallace Report.* From the very earliest stages of
+  the sulfanilamide episode, Walter Campbell and his FDA associates saw an
+  opportunity to add a pre-market licensing provision to the nation's food and
+  drug statute.
+
+* 96 Wallace and his FDA colleagues distilled one overwhelming lesson from the
+  tragedy: the absolute necessity of pre-market review of drugs to assess their
+  safety profile: ... A few simple and inexpensive tests on experimental animals
+  would have quickly demonstrated the toxic properties of both diethylene glycol
+  and the "elixir."
+
+* 97 The most widely known story was prompted by a letter from Mrs. Maise
+  Nideffer of Tulsa &mdash; whose six-year-old daughter Joan died from taking
+  the drug &mdash; to President Roosevelt. Nidiffer wrote of her daughter's
+  harrowing death, "her little body tossing to & fro... & that little voice
+  screaming with pain and it seems as tho it drive me insane [sic]." She pleaded
+  with the president to "take steps to prevent such sales of drugs that will take
+  little lives & leave such suffering behind and such a bleak outlook on the
+  future as I have tonight." Along with the letter, she enclosed a photograph of
+  her smiling but now deceased child, a print that made its way into several
+  newspaper reports and into the USDA report on the tragedy.
+
+* 102 *The Sulfanilamide Tragedy and the Passage of the Food, Drug and Cosmetic
+  Act of 1938*  
 
