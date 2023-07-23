@@ -124,11 +124,11 @@ the book here: https://press.princeton.edu/books/paperback/9780691141800/reputat
   characteristics are representative of those shared by a larger population of
   research objects; a pharmaceutical regulator in the United States could, under
   this reasoning, represent all other pharmaceutical regulators, all other
-  government agencies, or even all other organizations. [<sup>1</sup>](#note1)
+  government agencies, or even all other organizations[^1].
 
-  <div id="note1">1: Historian of physics Peter Galison has rendered the point
+  [^1]: Historian of physics Peter Galison has rendered the point
   with hilarity: "Imagine a book entitled *A Case Study in European History:
-  France*. [<-](#back1)</div>
+  France*. 
  
 ### Chapter 1: Regulation and Regulatory Power 
 
