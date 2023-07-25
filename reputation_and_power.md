@@ -609,5 +609,122 @@ the book here: https://press.princeton.edu/books/paperback/9780691141800/reputat
   newspaper reports and into the USDA report on the tragedy.
 
 * 102 *The Sulfanilamide Tragedy and the Passage of the Food, Drug and Cosmetic
-  Act of 1938*  
+  Act of 1938* ...On December 1, 1937, Copeland introduced a new measure to
+  replace S.5. Copeland's S.3073 had many of the provisions of S.5, but added
+  the pre-market review provision in a new "Section 505," which remains today
+  the basis for FDA review of new drugs. The bill required manufacturers to
+  supply the USDA with records of their clinical and nonclinical experiments, a
+  list of the drug's ingredients, a plan for manufacturing practices, and
+  examples of labels. The Secretary of Agriculture would then certify the drug
+  for sale or give a reason why the drug was refused marketability.
+
+* 105 For purposes of legislative history, the essential puzzle is this: Why did
+  Congress move from unanimous Senate support of a weaker bill in the first
+  session of the 75th Congress( May to August 1937) to a generally unanimous
+  approval of a stronger bill in the second session of the 75th Congress (April
+  and June 1938)? ...What changed was not voting patterns but the *content* of
+  the proposed legislation. What is needed to explain the 1938 legislation and
+  its difference from 1937 bills, then, is not voting analysis but narrative.
+
+* 108 Hard-core opponents of FDA authority continued to speak out against the
+  Copeland legislation, implying that the unanimity observed in the vote was not
+  indicative of a full embrace of the 1938 Act by all those who voted for it.
+  Although the final House margin of passage was "overwhelming" )nut also
+  unreported), FDA opponents there continued a vigorous defense of the right of
+  self-medication and loudly voiced their worries about the continued accretion
+  of bureaucratic power to federal agencies.
+
+* 109 *Lessons of the Policy Tragedy of Elixir Sulfaniamide* New regulations
+  often follow tragedies, but not reflexively so. ...the Administration
+  possessed a near monopoly on information relating to sulfanilamide and the
+  deaths resulting from it, the conversion of sulfanilamide from episode to
+  tragedy was in large measure the effective work of a single organization.
+  ...Many features of the regulation had been proposed and refined before the
+  deaths occurred. It was because of this context, not in spite of it, that the
+  1938 law passed.
+
+* 110 Much of the costly work of building coalitions behind legislation had
+  already been accomplished. Had the sulfanilamide tragedy occurred at another
+  time, when FDA regulation as the dominant alternative to the status quo was
+  not advanced by bureaucratic leaders, the Act either would not have passed or
+  would have taken a much different form. In this respect, it is possible to
+  confidently reject the counterfactual that, had the sulfanilamide tragedy not
+  occurred, regulatory reform in food and drugs would not have been on the
+  agenda in the 75th Congress. ...What the sulfanilamide tragedy did, once
+  distilled by USDA-FDA rhetoric, was to change the specific legislative agenda
+  from regulation without licensure to regulation with licensure.
+
+* 110 *Framing: The Inversion of Victimhood, the Admixture of Race and
+  Innocence*. ...Whereas the early medical reports described a drug popular
+  among mature men, many of them black, many of whom were seeking a quick and
+  private treatment for syphilis, the Administration had, by the late autumn of
+  1937, morphed the exemplar of a sulfanilamide victim, and the visible
+  casualty of policy failure, into the darling face of Joan Nidiffer. The
+  victimhood of American policy failure had been inverted, from black, make, and
+  possibly sexually licentious, to white, virginal, and deserving.
+
+* 112 The endeavors of Walter Campbell, Royal Copeland, and Henry Wallace are
+  forgotten now. Yet they shaped the American and global history of medicine and
+  pharmaceutical development for decades in ways that have yet to be
+  appreciated, and perhaps never will. Their actions amount to a form of
+  political innovation, a feat shared in this case between a career bureaucrat
+  (Campbell), and administrator emerging as a national politician (Wallace), and
+  a career legislator (Copeland). The saga of American pharmaceutical regulation
+  and its origins demonstrates that political innovation and entrepreneurship,
+  in its most powerful and enduring moment, consists in symbolic politics
+  &mdash; in the interpretation, framing, and public distillation of observable
+  history.
+
+* 112 *The Construction of Processes and Standards*. The 1938 statute compelled
+  FDA administrators and scientists to construct from scratch an entirely new
+  system of processing and evaluation. An applied chemistry bureau now had to
+  solve a problem that was jointly regulatory and administrative &mdash; the
+  review of hundreds of requests to market a novel legal and commercial entity
+  known as a "new drug." ...the first novel therapeutic compound submitted unter
+  the law &mdash; sulfapyridine &mdash; expressed important patterns of
+  evaluation that would be applied to later drugs. Merck's sulfapyridine &mdash;
+  submitted to the FDA in October 1938 &mdash; was the latest in the celebrated
+  class of sulfa drugs that had revolutionized anti-infective therapy in the
+  late 1930s.
+
+* 113 From the very first moments of sulfapyridine's review, and hence from the
+  very first moments of the 1938 Act's application, medical officers considered
+  questions of "therapeutic value" in new drug review. ...By February 1939, when
+  they concluded that their existing data were insufficient for a decision, they
+  interviewed another forty-five clinicians about the drug. Pressures for
+  sulfapyridine's release began to grow, and on February 12, 1939, Theodore
+  Klumpp issued a letter indicating the agency would not withhold the drug's
+  approval.
+
+* 114 Klumpp and Durrett actually knew early on in the sulfapyridine review that
+  the drug would eventually be approved; the question was not whether to
+  approve, but when, and under what conditions as expressed in the drug's
+  labeling. Much of the early proactive of drug review became an exercise in
+  regulating the label. The Administration was less likely to reject new drug
+  applications themselves than to disallow labeling claims and to delay the
+  clearance of the drug until labeling claims could be settled. ...What changed
+  for firms like Merck was less the fact of pharmacology than its intensity; the
+  rigor and thoroughness of the work expected had increased so much as to upset
+  established patterns of laboratory work and division of scientific labor.
+  ...from 1938 to 1939 alone, Merck's experimental work increased 62 percent...
+
+* 116 *Judicial Legitimation of Industry Fear: The Dotterweich Decision of 1943*
+  The mid-century legal challenge to American pharmaceutical regulation came
+  when FDA investigators charged the chief executive of the Buffalo Pharmacal
+  Company with violation of the 1938 Act's Section 301(a), which prohibits the
+  "introduction or delivery for introduction into interstate commerce of any
+  drug that is adulterated or misbranded."
+
+* 117 With the *Dotterweich* decision, pharmaceutical and chemical executives
+  could now be called to account for introducing a misbranded drug into
+  interstate commerce. Criminal responsibility for regulatory violations was
+  placed upon those individuals with the greatest degree of authoritative power
+  in the modern corporation. The Administration now had legal authority to place
+  responsibility for regulatory violations at the highest level of the firm.
+  ...Reputation and power in the sulfanilamide episode were general and public.
+  In the sulfapyridine review and later moments of administrative practice, and
+  the *Dotterweich* decision, the audiences, the reputation, and the regulatory
+  force of the Administration were particular and targeted, but no less vast.
+
+
 
