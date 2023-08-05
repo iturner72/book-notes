@@ -31,11 +31,13 @@ the book here: https://press.princeton.edu/books/paperback/9780691141800/reputat
   venerated in one corner and bemoaned in another; it is targeted for expansion
   by one voice, for evisceration by a second &mdash; but there is no serious doubt
   about its reach or significance.
+
 * 3 A "blockbuster" is drug industry parlance for a highly lucrative drug,
   generally one that generates $1 billion per year or more in revenues. By
   reaping vast profits, a blockbuster drug like Activase can pay off hundreds of
   other, less fortunate wagers that a drug company has made upon promising but
   never-marketed therapies. 
+
 * 3 In the spring of 1987, for many investors, all bets were literally off. The
   panel's decision on Friday, May 29, was a refusal to recommend licensing of
   Activase, and it presaged a more dramatic event; on June 15, the
@@ -43,6 +45,7 @@ the book here: https://press.princeton.edu/books/paperback/9780691141800/reputat
   Genentech's share price quickly plunged by $11.50, to $36.75. In an instant,
   $928 million &mdash; nearly a quarter of the publicly traded value of the
   biotechnology industry's star company &mdash; had vanished.
+
 * 6 The saga of tissue plasminogen activator is significant not merely as
   medical history, but as a canvas in which the politics of pharmaceutical
   regulation and government power are illuminated. A subtle request for
@@ -50,6 +53,7 @@ the book here: https://press.princeton.edu/books/paperback/9780691141800/reputat
   dollars in investment value, and had set in motion a wide-ranging controversy
   to which major national newspapers were devoting prime news and editorial
   pages.
+
 * 6 None of thie import was lost on Genentech's executive at the time, G. Kirfk
   Raab. Raab was hired specifically to smooth the company's journey through the
   regulatory process. Years later, Raab would describe regulatory approval for
@@ -74,6 +78,7 @@ the book here: https://press.princeton.edu/books/paperback/9780691141800/reputat
   pharmaceutical industry, so you better be their friend rather than their enemy.
   They are the boss. If you're a pharmaceutical firm, they own you body and
   soul.
+
 * 8 The chronicle of tissue plasminogen activator leaves puzzles that beg for
   explanation and inquiry. How is it that in the United States, long known as
   the land of weak regulation, smaller government, and powerful business, a
@@ -98,6 +103,7 @@ the book here: https://press.princeton.edu/books/paperback/9780691141800/reputat
   the global pharmaceutical world. Reputation built on regulatory power in all
   of its facets. And power, once possessed, has been used and managed in ways
   that maintain reputation, and hence power itself. 
+
 * 12 In the 1970s, as public opinion on government capacity soured, the FDA and
   its regulatory work regularly received 70 to 80 percent or more "approval" or
   "confidence" from citizens surveyed; this was double or more the confidence
@@ -134,16 +140,19 @@ the book here: https://press.princeton.edu/books/paperback/9780691141800/reputat
   [^1]: Historian of physics Peter Galison has rendered the point
   with hilarity: "Imagine a book entitled *A Case Study in European History:
   France*. 
+
 * 21 The FDA has long employed more scientists and more heavily trained personnel
   than other agencies performing its functions, at times (in the 1970s) more so
   than in all the world's other drug regulators combined. Even as agencies in
   Europe and Asia have advanced in recent years, the United States still houses
   the strongest of global pharmaceutical regulators.
+
 * 22 In the latter half of the twentieth century, an American model for
   pharmaceutical regulation has been perhaps the primary institutional export of
   the Unites States (see table I.1). (This table shows how other nations yoinked
   various US pharma regs like: New Drug Application (NDA), Regulated R&D (Phased
   Studies), Good Manufacturing Practices, and more).
+
 * 25 Some fun puzzles:    
     + Why is pharmaceutical regulation nationalized in the US, while other forms of
    regulation are not? Put equivalently, why is pharmaceutical regulation
@@ -162,6 +171,7 @@ the book here: https://press.princeton.edu/books/paperback/9780691141800/reputat
   for the historical and political complications of US pharmaceutical regulation
   as well as some general lenses through which the seemingly familiar can be
   viewed in a different, potentially surprising, and illuminating way.
+
 * 26 Another reason for preserving and presenting the complexity of US
   pharmaceutical regulation is that most attempts at simplification &mdash; and
   there have been many &mdash; have been misleading. There are dozens of
@@ -192,6 +202,7 @@ the book here: https://press.princeton.edu/books/paperback/9780691141800/reputat
 * 30 ...in the analysis of reputation and power in regulation, it is not only
   the regulatory official but also her audiences and subjects that merit
   attention (perhaps most of it). 
+
 * 30 Much of the study is focused not on newer forms of medical therapies but
   upon a set of drugs that the FDA has called "new molecular entities." In the
   pharmaceutical world, two categorical distinctions are often employed to break
@@ -203,6 +214,7 @@ the book here: https://press.princeton.edu/books/paperback/9780691141800/reputat
   represent proteins and antibodies that are "biologically active," whereas the
   smaller molecules stand in for more traditional drugs without biological
   activity.
+
 * 31 In many cases, depictions of events that I took from interviews as factual
   were, upon further study and reflection, simply one reading (among many) of
   crucial and pivotal events. As I came to do more of them, I found that
@@ -224,6 +236,7 @@ the book here: https://press.princeton.edu/books/paperback/9780691141800/reputat
   shaped by national governments, by stats-level agencies and local bureaus, by
   courts, by industry certification programs, and by companies themselves
   through "self-regulation."
+
 * 36 *The Public Interest Theory as a Fictional Straw Man*. ...there is no
   single public interest theory. The term is much more commonly used by capture
   and rent-seeking theorists. It collects under one term an array of views, each
@@ -263,6 +276,7 @@ the book here: https://press.princeton.edu/books/paperback/9780691141800/reputat
   revolving door hypothesis suggests that industry and regulators are united not
   just by interests but in terms of identity. Regulators and the regulated are
   one and the same people.
+
 * 41 In the past two decades, scholars have refines the capture perspective by
   advancing "interest-group" and "rent-seeking" theories of regulation. These
   views concede that producer interests are not monolithic &mdash; firm
@@ -278,6 +292,7 @@ the book here: https://press.princeton.edu/books/paperback/9780691141800/reputat
   instead, it is the imperfect human official motivated either by neutral
   competence nor by monetary enrichment nor by raw empowerment, but by stats,
   esteem, legitimacy, and reputation?
+
 * 44 A facilitating condition for the creation of regulation in modern
   democratic societies is for the attentive public (and legislators in
   particular) to believe that whatever problems exist will be capably addressed
@@ -330,6 +345,7 @@ the book here: https://press.princeton.edu/books/paperback/9780691141800/reputat
   influence of organizational identity upon individual behavior can be
   considered in two ways: the case where the individual is a member of the
   organization, and the case where the individual lies outside the organization.
+
 * 50 At the core of any reputation lies a partial fiction. It is of course
   factually incorrect to speak of "the FDA," "Microsoft, " "General Motors,"
   "the U.S. Army," "the Marines," or "the Catholic Church" as if these were
@@ -356,6 +372,7 @@ the book here: https://press.princeton.edu/books/paperback/9780691141800/reputat
   Organizations and their members in numerous walks of life aim less for profit
   itself, less for power itself, and more for reputation and the associated
   benefits that it brings: prestige, status, and authority.
+
 * 58 To the extent that organizations engage in what sociologist Erving Goffman
   termed "The arts of impression management," then, the calculus is entirely
   different from that of "profit maximization" or "rent--seeking."
@@ -378,6 +395,7 @@ the book here: https://press.princeton.edu/books/paperback/9780691141800/reputat
   equilibrium of these games is for the chain store to "snuff out" the first
   appearance of a competitor, thereby projecting a reputation for vigilance or
   toughness, and hence scaring off competition in other locales.
+
 * 60 Scholars of national bureaucracy in the US have long recognized that agency
   personnel experience great and direct disutility from being called to "the
   Hill" to testify, discomfort having little to do with congressional oversight
@@ -400,10 +418,12 @@ the book here: https://press.princeton.edu/books/paperback/9780691141800/reputat
   regulator. Under a pattern of regulatory power, put differently, a regulated
   entity takes action or inaction that would not have occurred if the regulator
   were not present or had behaved differently.
+
 * 63 In its most raw form, a regulator can issue an order for a private actor to
   "cease and desist" from production, distribution, or marketing of a particular
   good. The regulator can often seize supplies of the good in question or shut
   down the operations of its producer or marketer.
+
 * 63 A second, gatekeeping facet of regulatory power emerges in the less
   visible decisions of economic producers or political combatants not to bring
   an idea or issue into the arena of political economy. A group of investors may
@@ -411,6 +431,7 @@ the book here: https://press.princeton.edu/books/paperback/9780691141800/reputat
   the firm will be too heavily regulated. Or a bank decides not to fund a new
   construction project out of belief that the developer's application for a new
   construction permit will be denied or delayed.
+
 * 64 A third, conceptual facet of regulatory power consists in the ability
   (often unconsciously exercised) of the governing organization to shape
   fundamental patterns of thought, communication, and learning by its formal and
@@ -727,4 +748,127 @@ the book here: https://press.princeton.edu/books/paperback/9780691141800/reputat
   force of the Administration were particular and targeted, but no less vast.
 
 
+
+## Chapter 3: The Ambiguous Emergence of American Pharmaceutical Regulation, 1944-1961
+
+* 118 The bureaucratic regulation of pharmaceuticals arrived not starkly in new
+  laws, nor in scientific and medical upheavals, but continuously, haltingly,
+  and ambiguously in regulatory practice. It came in administrative conflict and
+  the symbolic lessons that citizens, journalists, scientists, company
+  officials, and federal policymakers drew from those struggles. ... There was
+  no designer, no founding moment. Instead , a slow, publicly imperceptible
+  clash of administrative practices, scientific debates, business strategies,
+  and individual agendas issued in a set of alternative understandings of
+  regulation, industry, and science.
+
+* 119 Doctor Frances Oldham Kelsey arrived to the FDA and began processing
+  Richardson-Merrell's new drug application for Kevadon (thalidomide), a
+  sedative already widely used in Europe. Kelsey found flaws in the application
+  and delayed Kevadon's introduction into the United States. Only two years
+  later would the wisdom of her judgment be so horrifically confirmed, as
+  thousands of infants were born limbless, earless, and dead in Europe and
+  Australia from complications resulting from thalidomide use. Thalidomide was
+  pulled from the worldwide market, and Kelsey was soon celebrated as a national
+  heroine in the United States.
+
+* 120 The arrival of procedural drug regulation happened not merely in science,
+  not merely in business, and not merely within the confines of an agency. It
+  happened at the interstices of state, medicine, and market. In a set of
+  far-reaching procedural and behavioral changes surrounding federal drug
+  evaluation, there three realms overlapped and hosted a subtle but vast and
+  durable shift in American pharmaceutical policy.
+
+    * First, FDA officials developed a set of uncoordinated practices and
+      rationales for efficacy regulation and pharmacological evaluation in the
+      late 1940s and early 1950s, at least eight years before Frances Kelsey
+      arrives to the agency. 
+
+    * Second, the fundamental change was not statutory revision, but a joint
+      shift in perception and in practice. Once set of changes saw the
+      congealing of beliefs among professions and disciplines, U.S. and European
+      companies, politicians and a media-saturated public.
+      * Federal officials, company scientists, and clinical investigators at
+        hospitals and universities began to apply novel standards of assessment
+        to all new drugs: protocols for a sequence of experiments, more exacting
+        and lengthy toxicology studies, multiple species in animal trials,
+        randomization of human subjects, placebo arms, exact testing for
+        dose-response relationships, stability and physiological availability
+        of the rug in the bloodstream, and more.
+      * Firms varied appreciably in the speed and skill with which they adapted.
+        Some withered, others prospered, and some converted their skill in
+        navigating the regulatory maze into the primary basis of their corporate
+        value.
+    * Third, the symbolic and practical emergence of the modern FDA was
+      equivalent, in large part, to the departure of other organizations from
+      important policy niches in early Cold War U.S. politics. Among these, chief
+      was the waning of the American Medical Association and its role in
+      evaluating drugs. As the political and scientific niche of "drug
+      evaluation" evolved, the FDA's Bureau of Medicine came to possess a
+      procedural monopoly on the activity. So too, the federal regulation of
+      labeling, promotion, dispensing, and prescription patterns and
+      distribution networks incurred deeply into the turf of organized
+      pharmacists, particularly the American Pharmaceutical Association.
+
+* 124 *The Severity of Procedural Scrutiny: Organizational Change and
+  Bureaucratic Learning* In the wake of the 1938 Food, Drug and Cosmetic Act, a
+  collision of forces brought pharmaceutical companies, academic researchers,
+  and regulators into a new world. A new generation of chemical therapeutics was
+  changing the practice of medicine, the conduct of public health, and the
+  nature of pharmaceutical development and production. At the same time,
+  academic medicine was being influenced by the development of rational
+  therapeutics and clinical pharmacology, both emphasizing the prospective,
+  statistical, and experimental evaluation and utilization of medicines and
+  alternative treatments.
+  * The vibrancy of regulatory politics during the 1950s belies the "dark
+    decade" image that Philip Hilts, Morton Mintz, and others have given to the
+    time. Some of the most familiar players in that drama, most ntably FDA
+    Commissioner George Larrick, occupied a set of much more complicated
+    positions and carried and vocalized a more diverse range of views than the
+    recent chroniclers have described.
+    * George Larrick was an organization man caught between these two worlds.
+      The older world of regulation by inspection and enforcement &mdash; in
+      which Larrick had been trained, and in which the public enemies of note
+      were the "cancer quack" and the drug adulterer *mdash; was giving way to a
+      new reality of molecular pharmaceutical development, an art that even the
+      wealthiest and most equipped of companies could not master.
+
+* 125 *FDA Recruitment and the Regime of Pharmacology.* The post-War vision of
+  drug regulation emerged from a congeries of factories, not least administrative
+  experience, the chemotherapeutic revolution in pharmaceuticals and the rise of
+  molecular drugs for chronic conditions, and the increasing prominence of
+  toxicology and clinical pharmacology at university medical faculties and in
+  the FDA itself.
+  * It stemmed fom the advocacy of a coterie of new physician-bureaucrats,
+    including Ralph G. Smith, Ralph Weilerstein, Albert "Jerry" Holland, Barbara
+    Moulton, Irvin Kerlan, Gordon and others. 
+    * Smith was head of the New Drug Branch and responsible for policy
+      development; he was the agency's pioneer in articulating and orchestrating
+      the use of efficacy considerations into new drug review. Smith rendered
+      explicit and conscious less formal patterns of efficacy evaluation
+      that prevailed from 1938 through the 1940s. 
+    * Weilerstein was a San Franscisco-based inspector who spoke with ever
+      greater force during the 1950s and eventually became Associate Medical
+      Director (in 1957) and then Medical Director of the FDA (in 1961) before
+      returning to the West Coast. 
+    * Holland was FDA Medical Director in the mid-1950s, the agency's most
+      talented spokesman, and with Ralph Smith, a major force in recruiting
+      pharmacological and medical talent to the agency.
+    * Moulton was among the most radical o fthe new medical officers in
+      Washington, and responsible for the agency's aggressive posture in
+      critical new drug applications such as Altafur. 
+    * Kerlan headed the BOM's Research and Reference Branch and is perhaps the
+      individual most responsible for the FDA's contemporary adverse events
+      reporting system.
+    * The other voice of the procedural regime in the 1950s FDA was Albert
+      "Jerry" Holland, Jr. formerly of the New York University College of
+      Medicine and Armour Laboratories, where he had been medical director.
+      Holland had also spent pivotal years at the Atomic Energy Commission,
+      where he had forged ties with Allan Gregg. Following Erwin Nelson's tenure
+      as medical director of the FDA, Holland was appointed to the post in March
+      1954.
+  * 126 At the head of these efforts was Arnold J. Lehman, M.D., director of the
+    Division from 1946 on. ... Then in 1955 and 1958, the Pharmacology Division
+    issued a new manual &mdash; *Appraisal of Safety of Chemicals in Foods,
+    Drugs and Cosmetics* &mdash; that combined and standardized methods for the
+    different targets of regulation under the 1938 Act.
 
