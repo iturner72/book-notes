@@ -870,5 +870,83 @@ the book here: https://press.princeton.edu/books/paperback/9780691141800/reputat
     Division from 1946 on. ... Then in 1955 and 1958, the Pharmacology Division
     issued a new manual &mdash; *Appraisal of Safety of Chemicals in Foods,
     Drugs and Cosmetics* &mdash; that combined and standardized methods for the
-    different targets of regulation under the 1938 Act.
-
+    different targets of regulation under the 1938 Act. Then in 1955 and 1958,
+    the Pharmacology Division issued a new manual--*Appraisal of Safety of
+    Chemicals in Foods, Drugs and Cosmetics*--that combined and standardized
+    methods for the different targets of regulation under the 1938 Act.
+    * 129 Studies of chronic toxicity increasingly pointed to an important but
+      little recognized connection between food additives and drugs. The drugs
+      for chronic conditions being developed in the 1950s would, like synthetic
+          food additives, expose humans to potentially toxic substances over
+          many years through weekly or daily consumption. Hence, regulatory
+          questions of "safety" shifted from short-term to long-term use. In a
+          January 1950 speech FDA Medical Director Erwin Nelson argued that
+          "each [new drug] application should carry a sound pharmacological and
+          tocicological study."
+    * 133 The late 1940s and 1950s witnessed the slow, piecemeal, and only
+      half-intentional establishment of networks of information exchange,
+      referral and consultation amaong FDA officials and pharmacology faculties
+      at university medical centers... It appears that Geiling had the most
+      pronounced effect upon hiring at the FDA. Geiling was arguably the most
+      prominent student of John Jacob Abel, and was a leader in pharmacology and
+      toxicology.
+    * 135 The shift in FDA recruitmment was accompanied by a transformation in
+      the form and practice or pharmacoloty at numerous university medical
+      shchools. One of the cleanest markers for this transformation was the 1955
+      publication of Louis Goodman and Alfred Gilman's *The Pharmacological
+      Basis of Therapeutics; A Textbook of Pharmacology, Toxicology, and
+      Therapeutics for Physicians and Medical Students.
+    * 135 Along with a focus on new types of drugs, clinical pharmacology
+      brought to its classical forebear an emphasis on prospective study
+      designs, a study protocol, and centralized administration of experimental
+      assignment.
+    * 136 The emergence of randomized controlled trials as a science began in
+      England, with the trial of streptomycin by the United Kingdom's Medical
+      Research COuncil as a standard-setting reference point. In the United
+      States, where the term "clinical pharmacology' was first used, much of the
+      early funding for clinical pharmacology units at medical schools came from
+      grants from the National Instutues of Health, and much additional funding
+      came from the pharmaceutical industry itself.
+    * 140 In the 1940s, pharmacology chief Lehman recalled, " new-drug
+      applications were made effective without requiring animal work and no
+      regular review of applications was made by the Division of Pharmacology."
+    * 142 If FDA officers could write lucidly about the reality of the new
+      pharmacology, they were less clear about its implications. Neither a
+      change in statute nor a change in political direction, but the evolving
+      practice of pharmaceutical evaluation now demanded that new drug
+      applications pass a higher hurdle before market entry. "The requirements
+      for acceptance of NDA's have increased," Robert Roe wrote in 1958, "This
+          change has to some extent been subtle and has occurred gradually as
+          with experience it has been found desirable to ask for more
+          information and additional tests." The typical review "might consume
+          many days of literature research and review by pharmacologists,
+          microbiologists, nutritionists, and chemists, as well as other members
+          of the technical staff."
+    * 145 By the late 1950s, it was assumed among leading drug firms and elite
+      medical professionals that drug testing would involve not just any
+      physician, not just any scientist, but a pharmacologist. Leading drug
+      firms such as Lilly, Merck, Sharp & Dohme, Schering, and Hoffmann-La Roche
+      were actively employing pharmacologists in the research and development
+      divisions and aggressively expanding their chemical and pharmacological
+      laboratories.
+    * 146 *Organizational Learning through Adversity*. The emerging regime of
+      procedural pharmacology in regulation was accompanied by some difficult
+      lessons from the late 1940s and early 1950s... Along with the arrival to
+      power of a new cohort of regulators, a series of memorable, sometimes
+      jarring interactions between the FDA and drug companies occurred. These
+      episodes upset older categories and shook loose a set of cozy assumptions
+      and relationships... Established and reasonably trusted firms presented
+      just as much a problem as did fly-by-night operations. NDAs were being
+      abused and the investigational phase of drug development was being
+      commercially hijacked.
+    * 157 In their essence, the regulations of 1955 and 1956 rewrote fundamental
+      portions of U.S. pharmaceutical regulation. Whereas the new drug section
+      of the 1938 Act--section 505(b)-- had required a demonstration that drugs
+      would be "safe for use," FDA rules now provided for summary rejection as
+      "incomplete" any new drug application that did not contain detailed,
+      individualized data and a report on "therapeutic results observed."
+    * 179 Until 1954, the first quartile had never exceeded two months, but from
+      1955 to 1960 (all years before the thalidomide episode) it rose steaduly
+      to over four months, Put differently, as of 1960, fully three-quarters of
+      all drugs could be expected to last more than four months in the FDA's new
+      drug review process.
