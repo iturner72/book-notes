@@ -3,7 +3,7 @@
 by Jim Blandy, Jason Orendorff, and Leonora F.S. Tindall
 
 *I, Ian Turner own this book and took these notes for my own learning, purchase
-the book here: https://www.amazon.com/4-Hour-Body-Uncommon-Incredible-Superhuman-ebook/dp/B003EI2EH2*
+the book here: https://www.amazon.com/Programming-Rust-Fast-Systems-Development/dp/1492052590*
 
 ## Chapter 1: System Programmers Can Have Nice Things 
 
