@@ -866,6 +866,7 @@ the book here: https://press.princeton.edu/books/paperback/9780691141800/reputat
       where he had forged ties with Allan Gregg. Following Erwin Nelson's tenure
       as medical director of the FDA, Holland was appointed to the post in March
       1954.
+
   * 126 At the head of these efforts was Arnold J. Lehman, M.D., director of the
     Division from 1946 on. ... Then in 1955 and 1958, the Pharmacology Division
     issued a new manual &mdash; *Appraisal of Safety of Chemicals in Foods,
@@ -874,6 +875,7 @@ the book here: https://press.princeton.edu/books/paperback/9780691141800/reputat
     the Pharmacology Division issued a new manual--*Appraisal of Safety of
     Chemicals in Foods, Drugs and Cosmetics*--that combined and standardized
     methods for the different targets of regulation under the 1938 Act.
+
     * 129 Studies of chronic toxicity increasingly pointed to an important but
       little recognized connection between food additives and drugs. The drugs
       for chronic conditions being developed in the 1950s would, like synthetic
@@ -883,6 +885,7 @@ the book here: https://press.princeton.edu/books/paperback/9780691141800/reputat
           January 1950 speech FDA Medical Director Erwin Nelson argued that
           "each [new drug] application should carry a sound pharmacological and
           tocicological study."
+
     * 133 The late 1940s and 1950s witnessed the slow, piecemeal, and only
       half-intentional establishment of networks of information exchange,
       referral and consultation amaong FDA officials and pharmacology faculties
@@ -890,16 +893,19 @@ the book here: https://press.princeton.edu/books/paperback/9780691141800/reputat
       pronounced effect upon hiring at the FDA. Geiling was arguably the most
       prominent student of John Jacob Abel, and was a leader in pharmacology and
       toxicology.
+
     * 135 The shift in FDA recruitmment was accompanied by a transformation in
       the form and practice or pharmacoloty at numerous university medical
       shchools. One of the cleanest markers for this transformation was the 1955
       publication of Louis Goodman and Alfred Gilman's *The Pharmacological
       Basis of Therapeutics; A Textbook of Pharmacology, Toxicology, and
       Therapeutics for Physicians and Medical Students.
+
     * 135 Along with a focus on new types of drugs, clinical pharmacology
       brought to its classical forebear an emphasis on prospective study
       designs, a study protocol, and centralized administration of experimental
       assignment.
+
     * 136 The emergence of randomized controlled trials as a science began in
       England, with the trial of streptomycin by the United Kingdom's Medical
       Research COuncil as a standard-setting reference point. In the United
@@ -907,9 +913,11 @@ the book here: https://press.princeton.edu/books/paperback/9780691141800/reputat
       early funding for clinical pharmacology units at medical schools came from
       grants from the National Instutues of Health, and much additional funding
       came from the pharmaceutical industry itself.
+
     * 140 In the 1940s, pharmacology chief Lehman recalled, " new-drug
       applications were made effective without requiring animal work and no
       regular review of applications was made by the Division of Pharmacology."
+
     * 142 If FDA officers could write lucidly about the reality of the new
       pharmacology, they were less clear about its implications. Neither a
       change in statute nor a change in political direction, but the evolving
@@ -922,6 +930,7 @@ the book here: https://press.princeton.edu/books/paperback/9780691141800/reputat
           many days of literature research and review by pharmacologists,
           microbiologists, nutritionists, and chemists, as well as other members
           of the technical staff."
+
     * 145 By the late 1950s, it was assumed among leading drug firms and elite
       medical professionals that drug testing would involve not just any
       physician, not just any scientist, but a pharmacologist. Leading drug
@@ -929,6 +938,7 @@ the book here: https://press.princeton.edu/books/paperback/9780691141800/reputat
       were actively employing pharmacologists in the research and development
       divisions and aggressively expanding their chemical and pharmacological
       laboratories.
+
     * 146 *Organizational Learning through Adversity*. The emerging regime of
       procedural pharmacology in regulation was accompanied by some difficult
       lessons from the late 1940s and early 1950s... Along with the arrival to
@@ -939,14 +949,29 @@ the book here: https://press.princeton.edu/books/paperback/9780691141800/reputat
       just as much a problem as did fly-by-night operations. NDAs were being
       abused and the investigational phase of drug development was being
       commercially hijacked.
+
     * 157 In their essence, the regulations of 1955 and 1956 rewrote fundamental
       portions of U.S. pharmaceutical regulation. Whereas the new drug section
       of the 1938 Act--section 505(b)-- had required a demonstration that drugs
       would be "safe for use," FDA rules now provided for summary rejection as
       "incomplete" any new drug application that did not contain detailed,
       individualized data and a report on "therapeutic results observed."
+
     * 179 Until 1954, the first quartile had never exceeded two months, but from
       1955 to 1960 (all years before the thalidomide episode) it rose steaduly
       to over four months, Put differently, as of 1960, fully three-quarters of
       all drugs could be expected to last more than four months in the FDA's new
       drug review process.
+
+    * 196 When Patricia Williams, a Vermont high school senior, wrote to the AMA
+      Bureau of information in 1958, she succinctly described the purpose of her
+      fall term paper. "I am trying to show how the Pure Food and Drug Law is
+      weak," she wrote, and asked for any information that the AMA could provide
+      to that end. AMA Information Director Oliver Field replied, "while the law
+      is not overburdened with weaknesses," its "most glaring weakness" lay in
+      "the fact that the Food and Drug Administration does not have jurisdiction
+      over advsrtising."
+
+## Chapter 4: Reputation and Power Crystallized: Thalidomide, Fances Kelsay, and Phased Experiment, 1961-1966
+
+* 
